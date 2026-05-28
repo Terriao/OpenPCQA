@@ -1,0 +1,14 @@
+best_acc from model: 0.9158729910850525
+batch_num: 3150
+
+
+Test set: Average loss: 1.2387, Accuracy: 91.5873%
+
+com & down Accuracy: 0.0000%, noise Accuracy: 91.5873%
+
+acc: 0.9158730158730158
+test time(s): 1308.1368055343628
+二次测量：test time(s): 1319.0875961780548
+三次测量：test time(s): 1289.8687522411346 Average loss: 1.2409, Accuracy: 91.5238%
+Average loss: 1.2387, Accuracy: 91.5873%
+占用显存：4012MiB
