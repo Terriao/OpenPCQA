@@ -30,6 +30,13 @@ etc.
 - For more information, please go to [VQA-PC](https://openi.pcl.ac.cn/OpenPCQA/VQA_PC).
 ![VQA-PC](VQA-PC.png)
 Figure 1: Network structure of VQA-PC, from Ref. [Zhang, Z., Sun, W., Min, X., Fan, Y., & Zhai, G. (2022). Treating Point Cloud as Moving Camera Videos: A No-Reference Quality Assessment Metric. arXiv preprint arXiv:2208.14085. etc.]
+### 1.2 PRL-GQA
+- 2022 Nov 2. No-reference (NR) PCQA method, model-based.
+- The first pairwise learning framework for no-reference geometry-only quality assessment of point clouds. Takes as input a pair of point clouds and outputs their rank order.
+- Code in the framework of tensorflow & pytorch & mindspore are provided.
+- For more information, please go to [PRL-GQA](https://openi.pcl.ac.cn/OpenPCQA/PRL-GQA).
+![PRL-GQA](PRL-GQA.png)
+Figure 2: Network structure of PRL-GQA, from Ref. [Su, Z., Chu, C., Chen, L., Li, Y., & Li, W. (2022). No-reference Point Cloud Geometry Quality Assessment Based on Pairwise Rank Learning. arXiv preprint arXiv:2211.01205.]
 # PRL-GQA
 
 key words: point cloud, geometry quality assessment, rank learning, objective quality assessment, point cloud quality assessment
@@ -96,13 +103,7 @@ Table 1. Test on PRLD dataset
 ## contributors
 name: Ye Hua, Gao Wenxu
 email: yeh@pcl.ac.cn, gaowx@stu.pku.edu.cn
-### 1.2 PRL-GQA
-- 2022 Nov 2. No-reference (NR) PCQA method, model-based.
-- The first pairwise learning framework for no-reference geometry-only quality assessment of point clouds. Takes as input a pair of point clouds and outputs their rank order.
-- Code in the framework of tensorflow & pytorch & mindspore are provided.
-- For more information, please go to [PRL-GQA](https://openi.pcl.ac.cn/OpenPCQA/PRL-GQA).
-![PRL-GQA](PRL-GQA.png)
-Figure 2: Network structure of PRL-GQA, from Ref. [Su, Z., Chu, C., Chen, L., Li, Y., & Li, W. (2022). No-reference Point Cloud Geometry Quality Assessment Based on Pairwise Rank Learning. arXiv preprint arXiv:2211.01205.]
+
 ### 1.3 IT-PCQA
 - 2022 CVPR. No-reference (NR) PCQA method, projection-based.
 - Treating natural images as the source domain and point clouds as the target domain, and inferring point cloud quality via unsupervised adversarial domain adaptation.
