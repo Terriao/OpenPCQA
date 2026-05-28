@@ -17,7 +17,7 @@ Mr. Haohui Li (Shenzhen Graduate School, Peking University)
 etc.
 
 ## Table of Content
-1.1 VQA-PC
+1.1 VQA-PC\\
 1.2 PRL-GQA
 1.3 IT-PCQA
 1.4 PQA-Net
