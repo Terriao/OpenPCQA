@@ -3,25 +3,25 @@
 OpenPCQA is An Open-Source Algorithm Library of Point Cloud Quality Assessment (PCQA) based on Deep Learning. We collect methods on PCQA, provide source codes of MindSpore, PyTorch, TensorFlow, and test their performances.
 
 ## Contact and References
-Coordinator: Asst. Prof. Wei Gao (Shenzhen Graduate School, Peking University)
+Coordinator: Asst. Prof. Wei Gao (Shenzhen Graduate School, Peking University)  
 Should you have any suggestions for better constructing this open source library, please contact the coordinator via Email: gaowei262@pku.edu.cn. We welcome more participants to submit your codes to this collection, and you can send your OpenI ID to the above Email address to obtain the accessibility. 
 
 ## List of Contributors
 Contributors:
-Asst. Prof. Wei Gao (Shenzhen Graduate School, Peking University)
-Prof. Ge Li (Shenzhen Graduate School, Peking University)
-Mr. Hua Ye (Peng Cheng Laboratory)
-Mr. Yongchi Zhang (Peng Cheng Laboratory)
-Mr. Wenxu Gao (Shenzhen Graduate School, Peking University)
-Mr. Haohui Li (Shenzhen Graduate School, Peking University)
+Asst. Prof. Wei Gao (Shenzhen Graduate School, Peking University)  
+Prof. Ge Li (Shenzhen Graduate School, Peking University)  
+Mr. Hua Ye (Peng Cheng Laboratory)  
+Mr. Yongchi Zhang (Peng Cheng Laboratory)  
+Mr. Wenxu Gao (Shenzhen Graduate School, Peking University)  
+Mr. Haohui Li (Shenzhen Graduate School, Peking University)  
 etc.
 
 ## Table of Content
-1.1 VQA-PC\\
-1.2 PRL-GQA
-1.3 IT-PCQA
-1.4 PQA-Net
-1.5 ResSCNN
+1.1 VQA-PC  
+1.2 PRL-GQA  
+1.3 IT-PCQA  
+1.4 PQA-Net  
+1.5 ResSCNN  
 
 ### 1.1 VQA-PC
 - 2022 Sep 11. No-reference (NR) PCQA method, projection-based.
