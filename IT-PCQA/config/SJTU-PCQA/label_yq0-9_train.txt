@@ -1,0 +1,294 @@
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_0.png 7.167091836999999
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_1.png 5.45
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_2.png 5.734375
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_3.png 3.9000000000000004
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_4.png 5.286989796
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_5.png 2.7578125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_6.png 8.392857143
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_7.png 6.608333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_8.png 6.24744898
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_9.png 5.53125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_10.png 4.515625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_11.png 3.780769231
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_12.png 6.767307692
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_13.png 5.803846154
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_14.png 5.65
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_15.png 4.1640625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_16.png 2.709615385
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_17.png 1.141666667
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_18.png 7.191666667
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_19.png 5.85
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_20.png 5.144132653
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_21.png 3.6484375
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_22.png 2.465384615
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_23.png 0.433333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_24.png 7.2578125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_25.png 6.3515625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_26.png 4.579081633
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_27.png 1.4375
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_28.png 1.275
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_29.png 0.0
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_30.png 7.125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_31.png 5.441666667
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_32.png 4.9609375
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_33.png 2.394132653
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_34.png 0.8666666670000001
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_35.png 0.848076923
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_36.png 7.525
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_37.png 5.063461538
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_38.png 4.96875
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_39.png 2.125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_40.png 0.876923077
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/redandblack_41.png 0.691666667
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_0.png 7.220663265000001
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_1.png 6.405769231
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_2.png 5.975
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_3.png 5.1015625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_4.png 3.963461538
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_5.png 1.3801020409999998
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_6.png 6.688461538
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_7.png 7.3671875
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_8.png 5.553571429
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_9.png 5.880769231
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_10.png 5.348076923
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_11.png 4.9453125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_12.png 6.352040816
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_13.png 4.857692308
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_14.png 5.226923077
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_15.png 4.525510204
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_16.png 2.5859375
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_17.png 0.848076923
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_18.png 5.841666667
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_19.png 5.5703125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_20.png 4.141666667
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_21.png 3.234375
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_22.png 2.455769231
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_23.png 0.37755102000000007
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_24.png 6.2
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_25.png 4.9296875
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_26.png 3.6328125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_27.png 1.0676020409999998
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_28.png 0.5
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_29.png 0.22307692300000004
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_30.png 6.767857143
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_31.png 6.155612245
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_32.png 3.590561224
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_33.png 1.609375
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_34.png 0.8576923080000001
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_35.png 0.30000000000000004
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_36.png 7.375
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_37.png 6.066326531
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_38.png 4.15
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_39.png 2.103316327
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_40.png 1.2000000000000002
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/Romanoillamp_41.png 0.3061224490000001
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_0.png 5.996153846
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_1.png 6.0859375
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_2.png 4.383333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_3.png 4.208333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_4.png 5.679846939
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_5.png 1.7083333330000001
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_6.png 8.65
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_7.png 6.316666667
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_8.png 4.396683673
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_9.png 3.584615385
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_10.png 3.2308673470000002
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_11.png 3.0625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_12.png 7.267307691999999
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_13.png 7.613520407999999
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_14.png 6.676020408
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_15.png 4.78125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_16.png 1.975
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_17.png 0.8500000000000001
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_18.png 7.180769230999999
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_19.png 5.925
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_20.png 3.8
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_21.png 3.299744898
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_22.png 1.2833333329999999
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_23.png 0.22307692300000004
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_24.png 6.190384615
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_25.png 6.28125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_26.png 3.1666666670000003
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_27.png 1.3769230769999998
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_28.png 0.7038461540000001
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_29.png 0.0
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_30.png 6.341666667
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_31.png 6.765306122
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_32.png 3.7750000000000004
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_33.png 1.8250000000000002
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_34.png 1.492346939
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_35.png 0.22307692300000004
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_36.png 7.344230768999999
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_37.png 5.7
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_38.png 3.25
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_39.png 1.758333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_40.png 0.9346153850000001
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/loot_41.png 0.19999999999999996
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_0.png 7.3203125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_1.png 4.783333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_2.png 4.832692308
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_3.png 5.175
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_4.png 4.083333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_5.png 2.835459184
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_6.png 8.583333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_7.png 5.950255102
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_8.png 4.813461538
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_9.png 5.069230769
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_10.png 3.516666667
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_11.png 2.909438776
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_12.png 6.615384615
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_13.png 7.5234375
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_14.png 6.68877551
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_15.png 4.623076923
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_16.png 3.1171875
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_17.png 0.9346153850000001
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_18.png 8.178571429
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_19.png 7.1328125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_20.png 4.765625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_21.png 3.463461538
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_22.png 2.1640625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_23.png 0.49166666700000006
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_24.png 6.816666667
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_25.png 4.833333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_26.png 3.5546875
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_27.png 0.7265625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_28.png 0.7818877550000001
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_29.png 0.0
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_30.png 6.825
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_31.png 6.6640625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_32.png 3.334615385
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_33.png 1.2807692309999998
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_34.png 0.8671875
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_35.png 0.23469387800000008
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_36.png 7.65
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_37.png 6.084183673
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_38.png 3.358333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_39.png 1.75
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_40.png 1.320153061
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/soldier_41.png 0.4140625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_0.png 8.116666667
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_1.png 8.321428571
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_2.png 8.682692308
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_3.png 7.62244898
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_4.png 6.691326531
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_5.png 2.6171875
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_6.png 7.771683673
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_7.png 6.568877551
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_8.png 5.619897959
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_9.png 6.808333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_10.png 5.953125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_11.png 5.2265625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_12.png 6.941666667
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_13.png 7.163461538
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_14.png 7.25
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_15.png 6.544230769
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_16.png 4.125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_17.png 1.7230769229999998
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_18.png 8.553571429
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_19.png 7.71875
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_20.png 6.296153846
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_21.png 5.198076923
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_22.png 5.667091837
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_23.png 1.6
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_24.png 7.0083333329999995
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_25.png 7.7734375
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_26.png 5.533333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_27.png 2.125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_28.png 1.4119897959999999
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_29.png 0.433333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_30.png 8.40625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_31.png 6.008333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_32.png 5.166666667
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_33.png 2.93622449
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_34.png 2.7734375
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_35.png 0.5703125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_36.png 7.433333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_37.png 7.5625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_38.png 6.1953125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_39.png 2.545918367
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_40.png 1.8115384620000001
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/ULB Unicorn_41.png 0.22307692300000004
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_0.png 7.501275509999999
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_1.png 5.159615385
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_2.png 5.3046875
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_3.png 4.5078125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_4.png 6.117346939
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_5.png 2.40625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_6.png 8.682692308
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_7.png 6.526923077
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_8.png 5.709615385
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_9.png 3.9272959180000004
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_10.png 3.90625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_11.png 3.091666667
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_12.png 7.161538461999999
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_13.png 7.381377551
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_14.png 6.744897959
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_15.png 4.7578125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_16.png 3.421875
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_17.png 1.1269230769999998
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_18.png 8.171875
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_19.png 5.783333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_20.png 4.849489796
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_21.png 3.136538462
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_22.png 2.62372449
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_23.png 0.790384615
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_24.png 6.833333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_25.png 5.640384615
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_26.png 4.166666667
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_27.png 2.191666667
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_28.png 0.4453125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_29.png 0.07499999999999996
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_30.png 6.358333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_31.png 5.985969388
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_32.png 3.55
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_33.png 1.515625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_34.png 0.9872448979999999
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_35.png 0.4489795919999999
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_36.png 7.324999999999999
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_37.png 5.008333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_38.png 3.825
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_39.png 1.330769231
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_40.png 0.7833333330000001
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/longdress_41.png 0.433333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_0.png 5.908333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_1.png 6.6328125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_2.png 5.168367347
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_3.png 3.93877551
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_4.png 2.015625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_5.png 0.453125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_6.png 6.40625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_7.png 4.459183673
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_8.png 5.4
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_9.png 4.899234694
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_10.png 5.588461538
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_11.png 4.107692308
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_12.png 6.825
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_13.png 5.133333333
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_14.png 5.054846939
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_15.png 2.965384615
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_16.png 2.4921875
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_17.png 0.1875
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_18.png 6.141666667
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_19.png 5.762755102
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_20.png 5.1328125
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_21.png 2.441326531
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_22.png 1.5546875
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_23.png 0.0
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_24.png 4.81377551
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_25.png 4.808673469
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_26.png 3.765625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_27.png 0.9166666670000001
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_28.png 1.0739795920000001
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_29.png 0.0
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_30.png 5.795918367
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_31.png 5.525
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_32.png 5.536989796
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_33.png 1.85
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_34.png 0.625
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_35.png 0.6900510200000001
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_36.png 7.121153846
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_37.png 5.784615385
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_38.png 4.184615385
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_39.png 2.1796875
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_40.png 1.4630102040000001
+/userhome/IT-PCQA/scripts/SJTU-PCQA/projection/projection_splicing/statue_41.png 0.617307692
