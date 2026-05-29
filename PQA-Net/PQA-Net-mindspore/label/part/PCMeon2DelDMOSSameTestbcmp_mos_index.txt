@@ -1,0 +1,12 @@
+2_banana_gsigma_0_tsigma_8_view_10_1.png,83.0931383025993,1
+2_banana_gsigma_0_tsigma_8_view_10_2.png,83.0931383025993,1
+2_banana_gsigma_0_tsigma_8_view_10_3.png,83.0931383025993,1
+2_banana_gsigma_0_tsigma_8_view_10_4.png,83.0931383025993,1
+2_banana_gsigma_0_tsigma_8_view_10_5.png,83.0931383025993,1
+2_banana_gsigma_0_tsigma_8_view_10_6.png,83.0931383025993,1
+3_cauliflower_tsl_8_tqs_128_view_6_1.png,79.7652667648818,2
+3_cauliflower_tsl_8_tqs_128_view_6_2.png,79.7652667648818,2
+3_cauliflower_tsl_8_tqs_128_view_6_3.png,79.7652667648818,2
+3_cauliflower_tsl_8_tqs_128_view_6_4.png,79.7652667648818,2
+3_cauliflower_tsl_8_tqs_128_view_6_5.png,79.7652667648818,2
+3_cauliflower_tsl_8_tqs_128_view_6_6.png,79.7652667648818,2

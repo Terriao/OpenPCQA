@@ -1,0 +1,3 @@
+2_banana_gsigma_0_tsigma_8_view_10_1.png,83.0931383025993,1
+3_cauliflower_tsl_8_tqs_128_view_6_1.png,79.7652667648818,2
+
