@@ -72,8 +72,7 @@ The goal of this repository is to lower the entry barrier for PCQA research by o
 
 **Keywords:** point cloud quality assessment · moving camera videos · no-reference · VQA
 
-<details>
-<summary><b>📂 File structure</b></summary>
+#### 📂 File structure
 
 ```
 root/
@@ -83,10 +82,7 @@ root/
 └── paper.pdf          # original paper
 ```
 
-</details>
-
-<details>
-<summary><b>⚙️ Environment</b></summary>
+#### ⚙️ Environment
 
 **MindSpore**
 - Ubuntu 16.04 · CUDA 11.1.105 · Python 3.7.11
@@ -96,10 +92,12 @@ root/
 - Ubuntu 16.04 · CUDA 10.1.243 · Python 3.7.6
 - `tensorflow-gpu==2.3.1`
 
-</details>
+**Datasets**
+- [WPC](https://github.com/qdushl/Waterloo-Point-Cloud-Database)
+- [LS-PCQA](https://smt.sjtu.edu.cn/database/large-scale-point-cloud-quality-assessment-dataset-ls-pcqa/)
+- [SJTU](https://smt.sjtu.edu.cn/database/point-cloud-subjective-assessment-database/)
 
-<details>
-<summary><b>▶️ Run</b></summary>
+#### ▶️ Run
 
 ```bash
 # MindSpore
@@ -111,10 +109,7 @@ python ./train/train_SJTU.py    # train
 python ./test/test.py           # test
 ```
 
-</details>
-
-<details open>
-<summary><b>📊 Benchmark</b></summary>
+#### 📊 Benchmark
 
 **Table 1 · SJTU dataset**
 
@@ -142,10 +137,9 @@ python ./test/test.py           # test
 | **MindSpore** | **26.405** | 3110 |
 | TensorFlow | 44.887 | 4732 |
 
-</details>
+> The three frameworks yield similar accuracy. MindSpore leads on SJTU; TensorFlow leads on WPC. MindSpore is fastest at inference; PyTorch uses the least GPU memory.
 
-<details>
-<summary><b>📚 Citation</b></summary>
+#### 📚 Citation
 
 ```bibtex
 @article{zhang2022treating,
@@ -155,8 +149,6 @@ python ./test/test.py           # test
   year   = {2022}
 }
 ```
-
-</details>
 
 **Maintainer:** Ye Hua · `yeh@pcl.ac.cn`
 
@@ -174,8 +166,7 @@ python ./test/test.py           # test
 
 **Keywords:** point cloud · geometry quality assessment · rank learning · NR PCQA
 
-<details>
-<summary><b>📂 File structure</b></summary>
+#### 📂 File structure
 
 ```
 root/
@@ -185,17 +176,13 @@ root/
 └── paper.pdf          # original paper
 ```
 
-</details>
-
-<details>
-<summary><b>⚙️ Environment</b></summary>
+#### ⚙️ Environment
 
 Same as VQA-PC (MindSpore 2.0.0.dev20230109 / TensorFlow-gpu 2.3.1).
 
-</details>
+**Dataset:** [PRLD](https://zhiyongsu.github.io/Project/PRLGQA.html)
 
-<details>
-<summary><b>▶️ Run</b></summary>
+#### ▶️ Run
 
 ```bash
 # MindSpore
@@ -208,10 +195,7 @@ cd TensorFlow
 python ./train_test.py
 ```
 
-</details>
-
-<details open>
-<summary><b>📊 Benchmark — PRLD dataset</b></summary>
+#### 📊 Benchmark — PRLD dataset
 
 | Source | Accuracy | Test time (s) | GPU memory (MB) |
 |:--|:-:|:-:|:-:|
@@ -220,10 +204,9 @@ python ./train_test.py
 | MindSpore | 0.9159 | 1308.1 | 4012 |
 | TensorFlow | 0.8924 | 1962.8 | 2692 |
 
-</details>
+> PyTorch wins on every dimension here: best accuracy, fastest inference, lowest GPU footprint. MindSpore uses ~3× more GPU memory than PyTorch.
 
-<details>
-<summary><b>📚 Citation</b></summary>
+#### 📚 Citation
 
 ```bibtex
 @article{su2022no,
@@ -233,8 +216,6 @@ python ./train_test.py
   year   = {2022}
 }
 ```
-
-</details>
 
 **Maintainers:** Ye Hua · `yeh@pcl.ac.cn` · Gao Wenxu · `gaowx@stu.pku.edu.cn`
 
@@ -252,8 +233,7 @@ python ./train_test.py
 
 **Keywords:** point cloud quality assessment · no-reference · domain adaptation
 
-<details>
-<summary><b>📂 File structure</b></summary>
+#### 📂 File structure
 
 ```
 root/
@@ -264,19 +244,15 @@ root/
 └── paper.pdf          # 2022 No-Reference Point Cloud Quality Assessment via Domain Adaptation
 ```
 
-</details>
-
-<details>
-<summary><b>⚙️ Environment</b></summary>
+#### ⚙️ Environment
 
 Same as VQA-PC.
 
-**Datasets:** [SJTU](https://smt.sjtu.edu.cn/database/point-cloud-subjective-assessment-database/) · [TID2013](https://www.ponomarenko.info/tid2013.htm)
+**Datasets**
+- [SJTU](https://smt.sjtu.edu.cn/database/point-cloud-subjective-assessment-database/)
+- [TID2013](https://www.ponomarenko.info/tid2013.htm)
 
-</details>
-
-<details>
-<summary><b>▶️ Run</b></summary>
+#### ▶️ Run
 
 ```bash
 # MindSpore
@@ -289,10 +265,7 @@ cd TensorFlow
 python train.py
 ```
 
-</details>
-
-<details open>
-<summary><b>📊 Benchmark — SJTU dataset</b></summary>
+#### 📊 Benchmark — SJTU dataset
 
 | Source | PLCC | SROCC | GPU memory (MB) |
 |:--|:-:|:-:|:-:|
@@ -301,10 +274,9 @@ python train.py
 | MindSpore | **0.7228** | 0.5198 | 5200 |
 | **TensorFlow** | 0.7221 | **0.6348** | 4750 |
 
-</details>
+> Jointly considering PLCC and SROCC, the TensorFlow version performs best overall. PyTorch uses the least GPU memory; MindSpore uses the most.
 
-<details>
-<summary><b>📚 Citation</b></summary>
+#### 📚 Citation
 
 ```bibtex
 @inproceedings{yang2022ITPCQA,
@@ -314,8 +286,6 @@ python train.py
   year     = {2022}
 }
 ```
-
-</details>
 
 **Maintainer:** Ye Hua · `yeh@pcl.ac.cn`
 
@@ -333,18 +303,14 @@ python train.py
 
 **Keywords:** point cloud quality assessment · no-reference
 
-<details>
-<summary><b>⚙️ Environment</b></summary>
+#### ⚙️ Environment
 
 - **MindSpore:** Ubuntu 16.04 · Python 3.7 · `mindspore==2.0` ([install](https://www.mindspore.cn/install))
 - **TensorFlow:** Ubuntu 16.04 · Python 3.7 · `tensorflow-gpu==2.x`
 
-</details>
-
-<details>
-<summary><b>▶️ Run</b></summary>
-
 **Dataset:** download `distortion.zip` from "数据集" and place it in the specified path.
+
+#### ▶️ Run
 
 ```bash
 # MindSpore
@@ -358,17 +324,11 @@ python distortion.py
 python regression.py
 ```
 
-</details>
-
-<details>
-<summary><b>📊 Benchmark</b></summary>
+#### 📊 Benchmark
 
 <p align="center"><img src="PQA-Net_performance.jpg" alt="PQA-Net performance" width="640"/></p>
 
-</details>
-
-<details>
-<summary><b>📚 Citation</b></summary>
+#### 📚 Citation
 
 ```bibtex
 @article{liu2021pqa,
@@ -379,8 +339,6 @@ python regression.py
   doi    = {10.1109/TCSVT.2021.3100282}
 }
 ```
-
-</details>
 
 **Maintainers:** Zhang Yongchi · `zhangych02@pcl.ac.cn` · Haohui Li
 
@@ -398,18 +356,14 @@ python regression.py
 
 **Keywords:** point cloud quality assessment · no-reference
 
-<details>
-<summary><b>⚙️ Environment</b></summary>
+#### ⚙️ Environment
 
 - **MindSpore:** Ubuntu 16.04 · Python 3.7 · `mindspore==2.0` ([install](https://www.mindspore.cn/install))
 - **TensorFlow:** Ubuntu 16.04 · Python 3.7 · `tensorflow-gpu==2.x`
 
 **Dataset:** [LS-PCQA](https://sjtueducn-my.sharepoint.com/personal/liuyipeng_sjtu_edu_cn/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fliuyipeng%5Fsjtu%5Fedu%5Fcn%2FDocuments%2Fdistortion)
 
-</details>
-
-<details>
-<summary><b>▶️ Run</b></summary>
+#### ▶️ Run
 
 ```bash
 # MindSpore
@@ -421,17 +375,11 @@ cd ./ResSCNN-tf
 python main.py
 ```
 
-</details>
-
-<details>
-<summary><b>📊 Benchmark</b></summary>
+#### 📊 Benchmark
 
 <p align="center"><img src="ResSCNN_performance.jpg" alt="ResSCNN performance" width="640"/></p>
 
-</details>
-
-<details>
-<summary><b>📚 Citation</b></summary>
+#### 📚 Citation
 
 ```bibtex
 @article{Liu2022ResSCNN,
@@ -441,8 +389,6 @@ python main.py
   year   = {2022}
 }
 ```
-
-</details>
 
 **Maintainers:** Zhang Yongchi · `zhangych02@pcl.ac.cn` · Haohui Li
 
@@ -470,8 +416,6 @@ python main.py
 If you have suggestions for improving this library, or would like to contribute your own PCQA implementation, please contact the coordinator:
 
 **Wei Gao** — 📧 <gaowei262@pku.edu.cn>
-
-> You may send your OpenI ID to obtain push access to the mirror repository.
 
 ---
 
