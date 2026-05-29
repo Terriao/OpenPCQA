@@ -1,0 +1,2073 @@
+hhi_34_view_11_1.png,1.8673076923076921,3
+redandblack_5_view_12_1.png,3.7578125,0
+redandblack_17_view_2_1.png,2.1416666666666666,2
+soldier_34_view_11_1.png,1.8671875,3
+soldier_0_view_9_1.png,8.3203125,0
+loot_9_view_5_1.png,4.584615384615384,1
+redandblack_34_view_3_1.png,1.8666666666666667,3
+hhi_30_view_2_1.png,9.464285714285714,3
+shiva_3_view_2_1.png,5.991666666666666,0
+statue_34_view_2_1.png,1.625,3
+statue_3_view_1_1.png,4.938775510204081,0
+soldier_6_view_4_1.png,9.583333333333334,1
+longdress_32_view_1_1.png,4.55,3
+Romanoillamp_13_view_3_1.png,8.163461538461538,2
+loot_30_view_4_1.png,7.341666666666667,3
+longdress_3_view_10_1.png,5.5078125,0
+loot_6_view_4_1.png,9.65,1
+loot_15_view_2_1.png,5.78125,2
+soldier_32_view_6_1.png,4.334615384615384,3
+statue_32_view_6_1.png,6.536989795918367,3
+ULB Unicorn_31_view_12_1.png,7.155612244897959,3
+statue_14_view_9_1.png,6.05484693877551,2
+shiva_8_view_8_1.png,7.8442307692307685,1
+Romanoillamp_32_view_12_1.png,6.166666666666667,3
+shiva_35_view_4_1.png,1.6007653061224494,3
+statue_5_view_3_1.png,1.453125,0
+shiva_35_view_5_1.png,1.6007653061224494,3
+redandblack_7_view_3_1.png,7.608333333333333,1
+statue_0_view_12_1.png,6.908333333333333,0
+hhi_2_view_4_1.png,8.9453125,0
+hhi_35_view_11_1.png,1.1953125,3
+redandblack_30_view_10_1.png,8.125,3
+shiva_9_view_12_1.png,7.622448979591837,1
+soldier_8_view_1_1.png,5.813461538461539,1
+loot_1_view_1_1.png,7.0859375,0
+longdress_33_view_5_1.png,2.515625,3
+statue_15_view_11_1.png,3.965384615384615,2
+redandblack_16_view_4_1.png,3.7096153846153848,2
+hhi_13_view_3_1.png,6.5346153846153845,2
+redandblack_14_view_12_1.png,6.65,2
+soldier_16_view_9_1.png,4.1171875,2
+statue_8_view_2_1.png,6.4,1
+loot_34_view_4_1.png,2.4923469387755097,3
+hhi_5_view_2_1.png,1.953125,0
+ULB Unicorn_32_view_2_1.png,4.590561224489796,3
+Romanoillamp_32_view_9_1.png,6.166666666666667,3
+shiva_6_view_5_1.png,8.5,1
+redandblack_14_view_7_1.png,6.65,2
+soldier_10_view_8_1.png,4.516666666666667,1
+soldier_7_view_4_1.png,6.950255102040816,1
+loot_11_view_9_1.png,4.0625,1
+statue_15_view_5_1.png,3.965384615384615,2
+hhi_13_view_10_1.png,6.5346153846153845,2
+ULB Unicorn_17_view_1_1.png,1.848076923076923,2
+shiva_0_view_2_1.png,6.558333333333334,0
+longdress_0_view_8_1.png,8.501275510204081,0
+loot_17_view_5_1.png,1.85,2
+ULB Unicorn_8_view_9_1.png,6.553571428571429,1
+Romanoillamp_16_view_12_1.png,5.125,2
+longdress_15_view_9_1.png,5.7578125,2
+soldier_8_view_5_1.png,5.813461538461539,1
+Romanoillamp_17_view_5_1.png,2.723076923076923,2
+loot_6_view_8_1.png,9.65,1
+shiva_30_view_9_1.png,8.8359375,3
+longdress_14_view_3_1.png,7.744897959183674,2
+redandblack_15_view_7_1.png,5.1640625,2
+shiva_5_view_5_1.png,3.2627551020408165,0
+shiva_7_view_5_1.png,6.917091836734694,1
+soldier_3_view_10_1.png,6.175000000000001,0
+redandblack_17_view_5_1.png,2.1416666666666666,2
+ULB Unicorn_11_view_7_1.png,5.9453125,1
+soldier_12_view_1_1.png,7.615384615384615,2
+soldier_5_view_4_1.png,3.835459183673469,0
+longdress_31_view_1_1.png,6.985969387755103,3
+soldier_8_view_6_1.png,5.813461538461539,1
+ULB Unicorn_35_view_2_1.png,1.2999999999999998,3
+ULB Unicorn_32_view_8_1.png,4.590561224489796,3
+ULB Unicorn_31_view_3_1.png,7.155612244897959,3
+hhi_32_view_6_1.png,6.836734693877552,3
+statue_8_view_5_1.png,6.4,1
+longdress_12_view_12_1.png,8.161538461538461,2
+hhi_7_view_3_1.png,6.776923076923077,1
+statue_30_view_6_1.png,6.795918367346938,3
+soldier_33_view_6_1.png,2.2807692307692307,3
+loot_1_view_2_1.png,7.0859375,0
+hhi_15_view_12_1.png,4.9296875,2
+soldier_14_view_2_1.png,7.688775510204081,2
+Romanoillamp_15_view_5_1.png,7.5442307692307695,2
+longdress_0_view_6_1.png,8.501275510204081,0
+longdress_9_view_8_1.png,4.9272959183673475,1
+Romanoillamp_35_view_12_1.png,1.5703125,3
+shiva_13_view_7_1.png,6.816666666666666,2
+redandblack_2_view_11_1.png,6.734375,0
+hhi_14_view_8_1.png,7.015625,2
+soldier_31_view_3_1.png,7.6640625,3
+Romanoillamp_0_view_9_1.png,9.116666666666667,0
+soldier_12_view_9_1.png,7.615384615384615,2
+Romanoillamp_12_view_10_1.png,7.941666666666666,2
+hhi_14_view_9_1.png,7.015625,2
+Romanoillamp_12_view_4_1.png,7.941666666666666,2
+statue_13_view_11_1.png,6.133333333333334,2
+statue_15_view_8_1.png,3.965384615384615,2
+loot_34_view_9_1.png,2.4923469387755097,3
+statue_0_view_2_1.png,6.908333333333333,0
+hhi_12_view_11_1.png,8.741666666666667,2
+soldier_2_view_8_1.png,5.832692307692308,0
+longdress_4_view_2_1.png,7.11734693877551,0
+shiva_32_view_4_1.png,5.75,3
+statue_13_view_12_1.png,6.133333333333334,2
+ULB Unicorn_16_view_1_1.png,3.5859375,2
+shiva_2_view_10_1.png,7.767307692307692,0
+longdress_6_view_5_1.png,9.682692307692308,1
+statue_32_view_12_1.png,6.536989795918367,3
+statue_30_view_12_1.png,6.795918367346938,3
+ULB Unicorn_12_view_7_1.png,7.3520408163265305,2
+statue_5_view_2_1.png,1.453125,0
+ULB Unicorn_11_view_2_1.png,5.9453125,1
+shiva_8_view_7_1.png,7.8442307692307685,1
+longdress_10_view_11_1.png,4.90625,1
+redandblack_2_view_3_1.png,6.734375,0
+loot_15_view_8_1.png,5.78125,2
+shiva_30_view_3_1.png,8.8359375,3
+shiva_33_view_6_1.png,2.8307692307692305,3
+hhi_16_view_2_1.png,4.056122448979592,2
+statue_32_view_5_1.png,6.536989795918367,3
+shiva_9_view_5_1.png,7.622448979591837,1
+hhi_9_view_5_1.png,6.140625,1
+ULB Unicorn_1_view_4_1.png,7.4057692307692315,0
+statue_16_view_4_1.png,3.4921875,2
+redandblack_12_view_4_1.png,7.767307692307692,2
+Romanoillamp_4_view_8_1.png,7.691326530612245,0
+hhi_9_view_4_1.png,6.140625,1
+ULB Unicorn_3_view_4_1.png,6.1015625,0
+redandblack_2_view_2_1.png,6.734375,0
+ULB Unicorn_34_view_5_1.png,1.8576923076923075,3
+statue_34_view_10_1.png,1.625,3
+loot_2_view_8_1.png,5.383333333333334,0
+soldier_31_view_8_1.png,7.6640625,3
+loot_14_view_3_1.png,7.676020408163266,2
+soldier_14_view_1_1.png,7.688775510204081,2
+loot_1_view_3_1.png,7.0859375,0
+hhi_30_view_1_1.png,9.464285714285714,3
+redandblack_8_view_12_1.png,7.247448979591837,1
+redandblack_12_view_3_1.png,7.767307692307692,2
+hhi_3_view_1_1.png,7.371153846153846,0
+shiva_15_view_4_1.png,6.331632653061225,2
+ULB Unicorn_13_view_4_1.png,5.857692307692308,2
+longdress_15_view_4_1.png,5.7578125,2
+shiva_9_view_11_1.png,7.622448979591837,1
+soldier_15_view_6_1.png,5.623076923076923,2
+loot_6_view_10_1.png,9.65,1
+soldier_34_view_5_1.png,1.8671875,3
+shiva_16_view_8_1.png,5.9438775510204085,2
+redandblack_34_view_2_1.png,1.8666666666666667,3
+longdress_1_view_6_1.png,6.1596153846153845,0
+redandblack_4_view_3_1.png,6.286989795918367,0
+redandblack_2_view_1_1.png,6.734375,0
+shiva_34_view_12_1.png,2.3201530612244903,3
+shiva_7_view_10_1.png,6.917091836734694,1
+soldier_9_view_5_1.png,6.06923076923077,1
+soldier_14_view_3_1.png,7.688775510204081,2
+longdress_34_view_3_1.png,1.9872448979591835,3
+hhi_17_view_8_1.png,1.7857142857142858,2
+loot_31_view_1_1.png,7.7653061224489806,3
+Romanoillamp_14_view_8_1.png,8.25,2
+hhi_31_view_3_1.png,8.3125,3
+loot_7_view_4_1.png,7.316666666666666,1
+ULB Unicorn_32_view_12_1.png,4.590561224489796,3
+statue_31_view_1_1.png,6.525,3
+redandblack_32_view_12_1.png,5.9609375,3
+shiva_11_view_3_1.png,6.244897959183674,1
+loot_33_view_9_1.png,2.825,3
+loot_12_view_7_1.png,8.267307692307693,2
+loot_16_view_5_1.png,2.9749999999999996,2
+soldier_32_view_1_1.png,4.334615384615384,3
+ULB Unicorn_30_view_11_1.png,7.767857142857143,3
+hhi_5_view_9_1.png,1.953125,0
+statue_14_view_12_1.png,6.05484693877551,2
+loot_17_view_4_1.png,1.85,2
+statue_3_view_3_1.png,4.938775510204081,0
+longdress_4_view_8_1.png,7.11734693877551,0
+Romanoillamp_15_view_7_1.png,7.5442307692307695,2
+redandblack_32_view_4_1.png,5.9609375,3
+soldier_13_view_7_1.png,8.5234375,2
+ULB Unicorn_17_view_2_1.png,1.848076923076923,2
+soldier_9_view_6_1.png,6.06923076923077,1
+shiva_3_view_8_1.png,5.991666666666666,0
+ULB Unicorn_8_view_7_1.png,6.553571428571429,1
+shiva_13_view_2_1.png,6.816666666666666,2
+shiva_7_view_1_1.png,6.917091836734694,1
+redandblack_3_view_1_1.png,4.9,0
+Romanoillamp_30_view_3_1.png,9.40625,3
+hhi_34_view_2_1.png,1.8673076923076921,3
+soldier_4_view_12_1.png,5.083333333333333,0
+soldier_17_view_10_1.png,1.9346153846153844,2
+soldier_10_view_6_1.png,4.516666666666667,1
+loot_15_view_12_1.png,5.78125,2
+redandblack_16_view_10_1.png,3.7096153846153848,2
+soldier_35_view_1_1.png,1.2346938775510208,3
+ULB Unicorn_8_view_12_1.png,6.553571428571429,1
+longdress_0_view_7_1.png,8.501275510204081,0
+hhi_3_view_5_1.png,7.371153846153846,0
+Romanoillamp_6_view_12_1.png,8.771683673469388,1
+loot_14_view_9_1.png,7.676020408163266,2
+statue_13_view_9_1.png,6.133333333333334,2
+longdress_8_view_12_1.png,6.709615384615384,1
+shiva_14_view_2_1.png,6.591666666666667,2
+shiva_6_view_4_1.png,8.5,1
+shiva_15_view_8_1.png,6.331632653061225,2
+loot_0_view_10_1.png,6.996153846153846,0
+statue_14_view_4_1.png,6.05484693877551,2
+longdress_11_view_3_1.png,4.091666666666667,1
+shiva_10_view_10_1.png,6.7846153846153845,1
+ULB Unicorn_0_view_11_1.png,8.220663265306124,0
+Romanoillamp_0_view_2_1.png,9.116666666666667,0
+longdress_15_view_3_1.png,5.7578125,2
+hhi_14_view_1_1.png,7.015625,2
+statue_0_view_10_1.png,6.908333333333333,0
+soldier_6_view_10_1.png,9.583333333333334,1
+statue_17_view_12_1.png,1.1875,2
+shiva_7_view_2_1.png,6.917091836734694,1
+Romanoillamp_17_view_4_1.png,2.723076923076923,2
+redandblack_2_view_4_1.png,6.734375,0
+soldier_1_view_8_1.png,5.783333333333333,0
+soldier_9_view_11_1.png,6.06923076923077,1
+shiva_17_view_11_1.png,3.4609375,2
+longdress_1_view_3_1.png,6.1596153846153845,0
+soldier_14_view_4_1.png,7.688775510204081,2
+ULB Unicorn_1_view_12_1.png,7.4057692307692315,0
+longdress_3_view_4_1.png,5.5078125,0
+redandblack_15_view_12_1.png,5.1640625,2
+soldier_13_view_6_1.png,8.5234375,2
+longdress_5_view_11_1.png,3.40625,0
+Romanoillamp_5_view_12_1.png,3.6171875,0
+Romanoillamp_12_view_6_1.png,7.941666666666666,2
+shiva_33_view_2_1.png,2.8307692307692305,3
+redandblack_2_view_6_1.png,6.734375,0
+redandblack_6_view_9_1.png,9.392857142857142,1
+hhi_14_view_2_1.png,7.015625,2
+shiva_14_view_7_1.png,6.591666666666667,2
+longdress_33_view_10_1.png,2.515625,3
+statue_17_view_11_1.png,1.1875,2
+statue_35_view_5_1.png,1.6900510204081638,3
+redandblack_16_view_5_1.png,3.7096153846153848,2
+soldier_6_view_1_1.png,9.583333333333334,1
+longdress_8_view_8_1.png,6.709615384615384,1
+soldier_12_view_7_1.png,7.615384615384615,2
+soldier_10_view_11_1.png,4.516666666666667,1
+statue_12_view_6_1.png,7.825,2
+longdress_32_view_4_1.png,4.55,3
+longdress_11_view_12_1.png,4.091666666666667,1
+redandblack_33_view_11_1.png,3.394132653061224,3
+shiva_17_view_7_1.png,3.4609375,2
+statue_15_view_10_1.png,3.965384615384615,2
+hhi_12_view_12_1.png,8.741666666666667,2
+statue_33_view_4_1.png,2.85,3
+Romanoillamp_17_view_9_1.png,2.723076923076923,2
+longdress_3_view_9_1.png,5.5078125,0
+Romanoillamp_6_view_6_1.png,8.771683673469388,1
+soldier_33_view_9_1.png,2.2807692307692307,3
+hhi_30_view_12_1.png,9.464285714285714,3
+loot_35_view_12_1.png,1.2230769230769232,3
+statue_32_view_4_1.png,6.536989795918367,3
+ULB Unicorn_30_view_10_1.png,7.767857142857143,3
+shiva_35_view_9_1.png,1.6007653061224494,3
+longdress_6_view_1_1.png,9.682692307692308,1
+shiva_33_view_12_1.png,2.8307692307692305,3
+longdress_17_view_12_1.png,2.126923076923077,2
+redandblack_31_view_1_1.png,6.441666666666666,3
+loot_33_view_11_1.png,2.825,3
+hhi_35_view_3_1.png,1.1953125,3
+soldier_34_view_8_1.png,1.8671875,3
+loot_12_view_1_1.png,8.267307692307693,2
+hhi_8_view_7_1.png,6.107692307692308,1
+hhi_33_view_1_1.png,3.475,3
+longdress_16_view_1_1.png,4.421875,2
+shiva_1_view_3_1.png,7.834615384615384,0
+Romanoillamp_7_view_1_1.png,7.5688775510204085,1
+soldier_17_view_6_1.png,1.9346153846153844,2
+redandblack_4_view_12_1.png,6.286989795918367,0
+shiva_3_view_6_1.png,5.991666666666666,0
+statue_1_view_3_1.png,7.6328125,0
+soldier_35_view_7_1.png,1.2346938775510208,3
+redandblack_4_view_4_1.png,6.286989795918367,0
+loot_0_view_6_1.png,6.996153846153846,0
+loot_0_view_8_1.png,6.996153846153846,0
+redandblack_31_view_6_1.png,6.441666666666666,3
+ULB Unicorn_7_view_9_1.png,8.3671875,1
+hhi_33_view_11_1.png,3.475,3
+statue_14_view_11_1.png,6.05484693877551,2
+soldier_4_view_7_1.png,5.083333333333333,0
+shiva_34_view_3_1.png,2.3201530612244903,3
+hhi_34_view_1_1.png,1.8673076923076921,3
+shiva_9_view_10_1.png,7.622448979591837,1
+redandblack_6_view_4_1.png,9.392857142857142,1
+soldier_0_view_3_1.png,8.3203125,0
+soldier_32_view_4_1.png,4.334615384615384,3
+soldier_35_view_6_1.png,1.2346938775510208,3
+Romanoillamp_7_view_10_1.png,7.5688775510204085,1
+statue_31_view_5_1.png,6.525,3
+hhi_35_view_4_1.png,1.1953125,3
+Romanoillamp_33_view_9_1.png,3.9362244897959187,3
+ULB Unicorn_9_view_7_1.png,6.880769230769231,1
+shiva_5_view_7_1.png,3.2627551020408165,0
+Romanoillamp_11_view_11_1.png,6.2265625,1
+statue_33_view_12_1.png,2.85,3
+ULB Unicorn_10_view_3_1.png,6.348076923076923,1
+loot_5_view_12_1.png,2.7083333333333335,0
+hhi_30_view_5_1.png,9.464285714285714,3
+redandblack_34_view_9_1.png,1.8666666666666667,3
+shiva_16_view_7_1.png,5.9438775510204085,2
+loot_32_view_11_1.png,4.775,3
+statue_31_view_4_1.png,6.525,3
+loot_8_view_7_1.png,5.396683673469388,1
+Romanoillamp_13_view_4_1.png,8.163461538461538,2
+loot_12_view_11_1.png,8.267307692307693,2
+hhi_31_view_11_1.png,8.3125,3
+ULB Unicorn_14_view_10_1.png,6.226923076923077,2
+redandblack_6_view_10_1.png,9.392857142857142,1
+statue_14_view_6_1.png,6.05484693877551,2
+loot_8_view_10_1.png,5.396683673469388,1
+hhi_31_view_9_1.png,8.3125,3
+redandblack_2_view_10_1.png,6.734375,0
+loot_2_view_10_1.png,5.383333333333334,0
+loot_9_view_6_1.png,4.584615384615384,1
+redandblack_10_view_10_1.png,5.515625,1
+hhi_4_view_12_1.png,4.183333333333334,0
+shiva_3_view_12_1.png,5.991666666666666,0
+ULB Unicorn_1_view_9_1.png,7.4057692307692315,0
+longdress_4_view_3_1.png,7.11734693877551,0
+longdress_7_view_5_1.png,7.526923076923077,1
+ULB Unicorn_34_view_3_1.png,1.8576923076923075,3
+ULB Unicorn_10_view_7_1.png,6.348076923076923,1
+hhi_5_view_12_1.png,1.953125,0
+hhi_1_view_2_1.png,7.7109375,0
+ULB Unicorn_35_view_8_1.png,1.2999999999999998,3
+soldier_17_view_1_1.png,1.9346153846153844,2
+ULB Unicorn_4_view_3_1.png,4.963461538461539,0
+Romanoillamp_8_view_11_1.png,6.619897959183674,1
+ULB Unicorn_0_view_1_1.png,8.220663265306124,0
+statue_9_view_5_1.png,5.899234693877552,1
+ULB Unicorn_10_view_1_1.png,6.348076923076923,1
+soldier_15_view_4_1.png,5.623076923076923,2
+Romanoillamp_31_view_4_1.png,7.008333333333334,3
+redandblack_1_view_8_1.png,6.45,0
+statue_31_view_11_1.png,6.525,3
+shiva_32_view_2_1.png,5.75,3
+longdress_0_view_3_1.png,8.501275510204081,0
+statue_31_view_2_1.png,6.525,3
+redandblack_33_view_8_1.png,3.394132653061224,3
+longdress_17_view_7_1.png,2.126923076923077,2
+statue_8_view_12_1.png,6.4,1
+Romanoillamp_32_view_11_1.png,6.166666666666667,3
+redandblack_12_view_5_1.png,7.767307692307692,2
+ULB Unicorn_9_view_11_1.png,6.880769230769231,1
+ULB Unicorn_3_view_5_1.png,6.1015625,0
+redandblack_31_view_11_1.png,6.441666666666666,3
+shiva_32_view_7_1.png,5.75,3
+soldier_31_view_4_1.png,7.6640625,3
+redandblack_12_view_6_1.png,7.767307692307692,2
+loot_5_view_6_1.png,2.7083333333333335,0
+Romanoillamp_15_view_3_1.png,7.5442307692307695,2
+redandblack_33_view_2_1.png,3.394132653061224,3
+Romanoillamp_4_view_12_1.png,7.691326530612245,0
+hhi_34_view_5_1.png,1.8673076923076921,3
+hhi_31_view_6_1.png,8.3125,3
+Romanoillamp_16_view_2_1.png,5.125,2
+redandblack_30_view_4_1.png,8.125,3
+loot_1_view_5_1.png,7.0859375,0
+hhi_12_view_6_1.png,8.741666666666667,2
+shiva_31_view_8_1.png,6.825,3
+redandblack_14_view_6_1.png,6.65,2
+loot_31_view_5_1.png,7.7653061224489806,3
+shiva_16_view_12_1.png,5.9438775510204085,2
+loot_5_view_2_1.png,2.7083333333333335,0
+hhi_12_view_2_1.png,8.741666666666667,2
+loot_35_view_2_1.png,1.2230769230769232,3
+hhi_4_view_11_1.png,4.183333333333334,0
+shiva_13_view_9_1.png,6.816666666666666,2
+redandblack_9_view_6_1.png,6.53125,1
+longdress_13_view_8_1.png,8.381377551020408,2
+ULB Unicorn_4_view_10_1.png,4.963461538461539,0
+shiva_6_view_8_1.png,8.5,1
+ULB Unicorn_35_view_3_1.png,1.2999999999999998,3
+hhi_15_view_4_1.png,4.9296875,2
+redandblack_7_view_12_1.png,7.608333333333333,1
+statue_8_view_4_1.png,6.4,1
+Romanoillamp_33_view_10_1.png,3.9362244897959187,3
+statue_1_view_4_1.png,7.6328125,0
+loot_1_view_4_1.png,7.0859375,0
+shiva_17_view_2_1.png,3.4609375,2
+ULB Unicorn_31_view_6_1.png,7.155612244897959,3
+longdress_1_view_5_1.png,6.1596153846153845,0
+longdress_5_view_5_1.png,3.40625,0
+Romanoillamp_5_view_5_1.png,3.6171875,0
+shiva_31_view_7_1.png,6.825,3
+redandblack_8_view_5_1.png,7.247448979591837,1
+shiva_33_view_11_1.png,2.8307692307692305,3
+longdress_6_view_9_1.png,9.682692307692308,1
+loot_13_view_6_1.png,8.613520408163266,2
+ULB Unicorn_0_view_8_1.png,8.220663265306124,0
+ULB Unicorn_30_view_6_1.png,7.767857142857143,3
+loot_13_view_8_1.png,8.613520408163266,2
+Romanoillamp_10_view_8_1.png,6.953125,1
+statue_1_view_6_1.png,7.6328125,0
+redandblack_11_view_7_1.png,4.780769230769231,1
+redandblack_4_view_11_1.png,6.286989795918367,0
+loot_31_view_4_1.png,7.7653061224489806,3
+hhi_6_view_8_1.png,9.796875,1
+loot_3_view_12_1.png,5.208333333333333,0
+statue_10_view_3_1.png,6.588461538461539,1
+shiva_0_view_7_1.png,6.558333333333334,0
+ULB Unicorn_16_view_10_1.png,3.5859375,2
+longdress_32_view_12_1.png,4.55,3
+longdress_30_view_9_1.png,7.358333333333333,3
+hhi_8_view_2_1.png,6.107692307692308,1
+soldier_34_view_4_1.png,1.8671875,3
+redandblack_31_view_5_1.png,6.441666666666666,3
+Romanoillamp_7_view_4_1.png,7.5688775510204085,1
+hhi_30_view_4_1.png,9.464285714285714,3
+soldier_10_view_3_1.png,4.516666666666667,1
+hhi_10_view_6_1.png,4.808333333333334,1
+redandblack_6_view_7_1.png,9.392857142857142,1
+ULB Unicorn_12_view_10_1.png,7.3520408163265305,2
+shiva_11_view_11_1.png,6.244897959183674,1
+loot_3_view_4_1.png,5.208333333333333,0
+ULB Unicorn_9_view_8_1.png,6.880769230769231,1
+hhi_10_view_1_1.png,4.808333333333334,1
+loot_7_view_2_1.png,7.316666666666666,1
+Romanoillamp_11_view_9_1.png,6.2265625,1
+hhi_4_view_7_1.png,4.183333333333334,0
+loot_15_view_4_1.png,5.78125,2
+soldier_0_view_10_1.png,8.3203125,0
+loot_9_view_10_1.png,4.584615384615384,1
+statue_7_view_11_1.png,5.459183673469388,1
+Romanoillamp_33_view_5_1.png,3.9362244897959187,3
+ULB Unicorn_32_view_10_1.png,4.590561224489796,3
+statue_11_view_7_1.png,5.107692307692308,1
+loot_4_view_9_1.png,6.67984693877551,0
+loot_2_view_12_1.png,5.383333333333334,0
+longdress_16_view_9_1.png,4.421875,2
+shiva_16_view_10_1.png,5.9438775510204085,2
+ULB Unicorn_3_view_10_1.png,6.1015625,0
+Romanoillamp_1_view_4_1.png,9.321428571428571,0
+shiva_11_view_9_1.png,6.244897959183674,1
+ULB Unicorn_13_view_10_1.png,5.857692307692308,2
+redandblack_10_view_7_1.png,5.515625,1
+shiva_31_view_12_1.png,6.825,3
+hhi_13_view_5_1.png,6.5346153846153845,2
+ULB Unicorn_15_view_12_1.png,5.525510204081633,2
+Romanoillamp_2_view_4_1.png,9.682692307692308,0
+ULB Unicorn_31_view_5_1.png,7.155612244897959,3
+redandblack_31_view_3_1.png,6.441666666666666,3
+loot_4_view_5_1.png,6.67984693877551,0
+statue_12_view_4_1.png,7.825,2
+loot_7_view_6_1.png,7.316666666666666,1
+hhi_31_view_8_1.png,8.3125,3
+ULB Unicorn_0_view_9_1.png,8.220663265306124,0
+shiva_33_view_7_1.png,2.8307692307692305,3
+longdress_32_view_6_1.png,4.55,3
+ULB Unicorn_15_view_11_1.png,5.525510204081633,2
+statue_5_view_7_1.png,1.453125,0
+soldier_10_view_7_1.png,4.516666666666667,1
+longdress_2_view_12_1.png,6.3046875,0
+shiva_34_view_11_1.png,2.3201530612244903,3
+hhi_0_view_3_1.png,9.516666666666667,0
+hhi_6_view_2_1.png,9.796875,1
+redandblack_35_view_4_1.png,1.848076923076923,3
+ULB Unicorn_9_view_12_1.png,6.880769230769231,1
+ULB Unicorn_35_view_11_1.png,1.2999999999999998,3
+soldier_3_view_5_1.png,6.175000000000001,0
+ULB Unicorn_10_view_8_1.png,6.348076923076923,1
+hhi_31_view_1_1.png,8.3125,3
+ULB Unicorn_7_view_5_1.png,8.3671875,1
+longdress_13_view_9_1.png,8.381377551020408,2
+redandblack_5_view_9_1.png,3.7578125,0
+Romanoillamp_15_view_11_1.png,7.5442307692307695,2
+ULB Unicorn_5_view_7_1.png,2.3801020408163263,0
+Romanoillamp_7_view_7_1.png,7.5688775510204085,1
+hhi_2_view_12_1.png,8.9453125,0
+soldier_17_view_5_1.png,1.9346153846153844,2
+soldier_14_view_5_1.png,7.688775510204081,2
+longdress_32_view_9_1.png,4.55,3
+shiva_5_view_3_1.png,3.2627551020408165,0
+loot_2_view_11_1.png,5.383333333333334,0
+longdress_11_view_1_1.png,4.091666666666667,1
+soldier_33_view_3_1.png,2.2807692307692307,3
+ULB Unicorn_3_view_2_1.png,6.1015625,0
+statue_4_view_9_1.png,3.015625,0
+Romanoillamp_2_view_5_1.png,9.682692307692308,0
+soldier_5_view_7_1.png,3.835459183673469,0
+loot_11_view_7_1.png,4.0625,1
+ULB Unicorn_31_view_8_1.png,7.155612244897959,3
+Romanoillamp_1_view_10_1.png,9.321428571428571,0
+ULB Unicorn_3_view_11_1.png,6.1015625,0
+Romanoillamp_32_view_7_1.png,6.166666666666667,3
+ULB Unicorn_16_view_8_1.png,3.5859375,2
+hhi_4_view_4_1.png,4.183333333333334,0
+redandblack_14_view_2_1.png,6.65,2
+loot_11_view_3_1.png,4.0625,1
+soldier_30_view_4_1.png,7.825,3
+Romanoillamp_33_view_7_1.png,3.9362244897959187,3
+Romanoillamp_11_view_3_1.png,6.2265625,1
+hhi_35_view_5_1.png,1.1953125,3
+hhi_17_view_11_1.png,1.7857142857142858,2
+longdress_17_view_10_1.png,2.126923076923077,2
+Romanoillamp_7_view_12_1.png,7.5688775510204085,1
+redandblack_17_view_4_1.png,2.1416666666666666,2
+hhi_30_view_7_1.png,9.464285714285714,3
+longdress_6_view_7_1.png,9.682692307692308,1
+statue_5_view_8_1.png,1.453125,0
+loot_13_view_9_1.png,8.613520408163266,2
+loot_9_view_8_1.png,4.584615384615384,1
+soldier_32_view_7_1.png,4.334615384615384,3
+soldier_8_view_7_1.png,5.813461538461539,1
+loot_30_view_7_1.png,7.341666666666667,3
+redandblack_8_view_6_1.png,7.247448979591837,1
+shiva_16_view_5_1.png,5.9438775510204085,2
+statue_1_view_5_1.png,7.6328125,0
+hhi_15_view_9_1.png,4.9296875,2
+soldier_30_view_10_1.png,7.825,3
+hhi_9_view_11_1.png,6.140625,1
+Romanoillamp_7_view_9_1.png,7.5688775510204085,1
+Romanoillamp_14_view_10_1.png,8.25,2
+hhi_4_view_5_1.png,4.183333333333334,0
+statue_33_view_2_1.png,2.85,3
+statue_11_view_4_1.png,5.107692307692308,1
+soldier_9_view_1_1.png,6.06923076923077,1
+shiva_12_view_12_1.png,6.975,2
+longdress_33_view_2_1.png,2.515625,3
+Romanoillamp_30_view_6_1.png,9.40625,3
+loot_10_view_6_1.png,4.230867346938775,1
+statue_13_view_2_1.png,6.133333333333334,2
+statue_17_view_3_1.png,1.1875,2
+statue_7_view_2_1.png,5.459183673469388,1
+shiva_32_view_8_1.png,5.75,3
+Romanoillamp_2_view_9_1.png,9.682692307692308,0
+redandblack_34_view_4_1.png,1.8666666666666667,3
+redandblack_0_view_8_1.png,8.167091836734695,0
+ULB Unicorn_2_view_9_1.png,6.975,0
+statue_11_view_5_1.png,5.107692307692308,1
+hhi_35_view_2_1.png,1.1953125,3
+soldier_32_view_2_1.png,4.334615384615384,3
+statue_34_view_1_1.png,1.625,3
+Romanoillamp_15_view_12_1.png,7.5442307692307695,2
+longdress_3_view_1_1.png,5.5078125,0
+loot_12_view_10_1.png,8.267307692307693,2
+loot_33_view_10_1.png,2.825,3
+soldier_16_view_6_1.png,4.1171875,2
+Romanoillamp_8_view_3_1.png,6.619897959183674,1
+statue_2_view_9_1.png,6.168367346938775,0
+loot_14_view_1_1.png,7.676020408163266,2
+loot_35_view_4_1.png,1.2230769230769232,3
+shiva_6_view_9_1.png,8.5,1
+statue_14_view_10_1.png,6.05484693877551,2
+hhi_17_view_12_1.png,1.7857142857142858,2
+longdress_30_view_8_1.png,7.358333333333333,3
+loot_6_view_11_1.png,9.65,1
+hhi_12_view_10_1.png,8.741666666666667,2
+loot_4_view_2_1.png,6.67984693877551,0
+Romanoillamp_5_view_3_1.png,3.6171875,0
+soldier_16_view_8_1.png,4.1171875,2
+hhi_9_view_8_1.png,6.140625,1
+Romanoillamp_32_view_2_1.png,6.166666666666667,3
+shiva_11_view_10_1.png,6.244897959183674,1
+ULB Unicorn_17_view_7_1.png,1.848076923076923,2
+Romanoillamp_35_view_7_1.png,1.5703125,3
+redandblack_35_view_12_1.png,1.848076923076923,3
+ULB Unicorn_5_view_8_1.png,2.3801020408163263,0
+soldier_16_view_11_1.png,4.1171875,2
+hhi_31_view_5_1.png,8.3125,3
+loot_17_view_2_1.png,1.85,2
+longdress_6_view_2_1.png,9.682692307692308,1
+redandblack_16_view_3_1.png,3.7096153846153848,2
+redandblack_9_view_9_1.png,6.53125,1
+redandblack_13_view_8_1.png,6.803846153846154,2
+redandblack_31_view_2_1.png,6.441666666666666,3
+shiva_8_view_12_1.png,7.8442307692307685,1
+statue_2_view_8_1.png,6.168367346938775,0
+redandblack_16_view_12_1.png,3.7096153846153848,2
+loot_32_view_7_1.png,4.775,3
+ULB Unicorn_6_view_6_1.png,7.688461538461539,1
+hhi_10_view_2_1.png,4.808333333333334,1
+loot_2_view_2_1.png,5.383333333333334,0
+soldier_13_view_11_1.png,8.5234375,2
+ULB Unicorn_4_view_1_1.png,4.963461538461539,0
+statue_9_view_2_1.png,5.899234693877552,1
+statue_0_view_9_1.png,6.908333333333333,0
+shiva_1_view_5_1.png,7.834615384615384,0
+hhi_33_view_7_1.png,3.475,3
+redandblack_6_view_8_1.png,9.392857142857142,1
+longdress_2_view_10_1.png,6.3046875,0
+soldier_1_view_6_1.png,5.783333333333333,0
+soldier_7_view_2_1.png,6.950255102040816,1
+loot_10_view_9_1.png,4.230867346938775,1
+shiva_3_view_11_1.png,5.991666666666666,0
+loot_6_view_1_1.png,9.65,1
+ULB Unicorn_2_view_1_1.png,6.975,0
+Romanoillamp_1_view_1_1.png,9.321428571428571,0
+ULB Unicorn_30_view_9_1.png,7.767857142857143,3
+loot_30_view_1_1.png,7.341666666666667,3
+longdress_1_view_8_1.png,6.1596153846153845,0
+ULB Unicorn_11_view_9_1.png,5.9453125,1
+longdress_13_view_12_1.png,8.381377551020408,2
+ULB Unicorn_14_view_9_1.png,6.226923076923077,2
+loot_9_view_7_1.png,4.584615384615384,1
+shiva_33_view_8_1.png,2.8307692307692305,3
+hhi_30_view_11_1.png,9.464285714285714,3
+shiva_8_view_2_1.png,7.8442307692307685,1
+Romanoillamp_12_view_3_1.png,7.941666666666666,2
+shiva_35_view_10_1.png,1.6007653061224494,3
+shiva_4_view_2_1.png,6.6171875,0
+ULB Unicorn_32_view_7_1.png,4.590561224489796,3
+soldier_3_view_1_1.png,6.175000000000001,0
+shiva_10_view_3_1.png,6.7846153846153845,1
+redandblack_1_view_3_1.png,6.45,0
+longdress_14_view_10_1.png,7.744897959183674,2
+Romanoillamp_0_view_6_1.png,9.116666666666667,0
+loot_10_view_12_1.png,4.230867346938775,1
+shiva_1_view_2_1.png,7.834615384615384,0
+statue_15_view_9_1.png,3.965384615384615,2
+shiva_5_view_6_1.png,3.2627551020408165,0
+Romanoillamp_6_view_9_1.png,8.771683673469388,1
+redandblack_34_view_7_1.png,1.8666666666666667,3
+Romanoillamp_0_view_11_1.png,9.116666666666667,0
+longdress_35_view_12_1.png,1.4489795918367352,3
+longdress_30_view_4_1.png,7.358333333333333,3
+shiva_9_view_2_1.png,7.622448979591837,1
+hhi_14_view_7_1.png,7.015625,2
+statue_15_view_3_1.png,3.965384615384615,2
+ULB Unicorn_33_view_9_1.png,2.609375,3
+Romanoillamp_6_view_8_1.png,8.771683673469388,1
+longdress_16_view_3_1.png,4.421875,2
+shiva_11_view_5_1.png,6.244897959183674,1
+loot_1_view_12_1.png,7.0859375,0
+longdress_31_view_4_1.png,6.985969387755103,3
+Romanoillamp_30_view_1_1.png,9.40625,3
+shiva_9_view_6_1.png,7.622448979591837,1
+statue_30_view_5_1.png,6.795918367346938,3
+statue_5_view_10_1.png,1.453125,0
+ULB Unicorn_1_view_7_1.png,7.4057692307692315,0
+ULB Unicorn_14_view_8_1.png,6.226923076923077,2
+hhi_15_view_5_1.png,4.9296875,2
+Romanoillamp_0_view_3_1.png,9.116666666666667,0
+statue_35_view_6_1.png,1.6900510204081638,3
+shiva_17_view_8_1.png,3.4609375,2
+redandblack_11_view_11_1.png,4.780769230769231,1
+longdress_15_view_10_1.png,5.7578125,2
+ULB Unicorn_14_view_4_1.png,6.226923076923077,2
+hhi_34_view_6_1.png,1.8673076923076921,3
+redandblack_14_view_3_1.png,6.65,2
+Romanoillamp_10_view_2_1.png,6.953125,1
+longdress_14_view_12_1.png,7.744897959183674,2
+Romanoillamp_5_view_11_1.png,3.6171875,0
+hhi_6_view_12_1.png,9.796875,1
+longdress_30_view_7_1.png,7.358333333333333,3
+ULB Unicorn_3_view_7_1.png,6.1015625,0
+ULB Unicorn_13_view_1_1.png,5.857692307692308,2
+hhi_16_view_6_1.png,4.056122448979592,2
+longdress_32_view_7_1.png,4.55,3
+redandblack_10_view_1_1.png,5.515625,1
+Romanoillamp_1_view_6_1.png,9.321428571428571,0
+loot_1_view_6_1.png,7.0859375,0
+hhi_33_view_2_1.png,3.475,3
+redandblack_31_view_4_1.png,6.441666666666666,3
+Romanoillamp_11_view_8_1.png,6.2265625,1
+Romanoillamp_16_view_4_1.png,5.125,2
+ULB Unicorn_7_view_12_1.png,8.3671875,1
+statue_34_view_11_1.png,1.625,3
+redandblack_0_view_9_1.png,8.167091836734695,0
+Romanoillamp_35_view_9_1.png,1.5703125,3
+loot_32_view_5_1.png,4.775,3
+Romanoillamp_14_view_5_1.png,8.25,2
+longdress_14_view_5_1.png,7.744897959183674,2
+loot_15_view_10_1.png,5.78125,2
+hhi_11_view_9_1.png,5.0211538461538465,1
+Romanoillamp_12_view_5_1.png,7.941666666666666,2
+statue_8_view_8_1.png,6.4,1
+loot_34_view_12_1.png,2.4923469387755097,3
+shiva_9_view_3_1.png,7.622448979591837,1
+statue_2_view_6_1.png,6.168367346938775,0
+statue_12_view_12_1.png,7.825,2
+Romanoillamp_1_view_9_1.png,9.321428571428571,0
+Romanoillamp_13_view_10_1.png,8.163461538461538,2
+Romanoillamp_12_view_11_1.png,7.941666666666666,2
+redandblack_15_view_6_1.png,5.1640625,2
+soldier_30_view_9_1.png,7.825,3
+ULB Unicorn_6_view_4_1.png,7.688461538461539,1
+shiva_14_view_8_1.png,6.591666666666667,2
+loot_35_view_5_1.png,1.2230769230769232,3
+redandblack_30_view_9_1.png,8.125,3
+redandblack_7_view_6_1.png,7.608333333333333,1
+statue_2_view_12_1.png,6.168367346938775,0
+soldier_2_view_1_1.png,5.832692307692308,0
+longdress_13_view_5_1.png,8.381377551020408,2
+Romanoillamp_3_view_9_1.png,8.622448979591837,0
+ULB Unicorn_17_view_11_1.png,1.848076923076923,2
+redandblack_32_view_7_1.png,5.9609375,3
+statue_33_view_6_1.png,2.85,3
+Romanoillamp_16_view_1_1.png,5.125,2
+hhi_0_view_7_1.png,9.516666666666667,0
+ULB Unicorn_35_view_12_1.png,1.2999999999999998,3
+loot_14_view_4_1.png,7.676020408163266,2
+loot_35_view_9_1.png,1.2230769230769232,3
+hhi_9_view_6_1.png,6.140625,1
+ULB Unicorn_2_view_12_1.png,6.975,0
+longdress_8_view_9_1.png,6.709615384615384,1
+soldier_12_view_10_1.png,7.615384615384615,2
+ULB Unicorn_7_view_6_1.png,8.3671875,1
+ULB Unicorn_14_view_2_1.png,6.226923076923077,2
+shiva_10_view_5_1.png,6.7846153846153845,1
+ULB Unicorn_17_view_3_1.png,1.848076923076923,2
+longdress_7_view_1_1.png,7.526923076923077,1
+hhi_5_view_7_1.png,1.953125,0
+statue_10_view_9_1.png,6.588461538461539,1
+hhi_35_view_9_1.png,1.1953125,3
+shiva_12_view_1_1.png,6.975,2
+Romanoillamp_14_view_3_1.png,8.25,2
+redandblack_9_view_8_1.png,6.53125,1
+statue_1_view_7_1.png,7.6328125,0
+statue_15_view_1_1.png,3.965384615384615,2
+ULB Unicorn_32_view_5_1.png,4.590561224489796,3
+statue_16_view_8_1.png,3.4921875,2
+statue_3_view_9_1.png,4.938775510204081,0
+statue_7_view_9_1.png,5.459183673469388,1
+longdress_13_view_3_1.png,8.381377551020408,2
+hhi_14_view_10_1.png,7.015625,2
+ULB Unicorn_35_view_4_1.png,1.2999999999999998,3
+loot_13_view_3_1.png,8.613520408163266,2
+statue_2_view_1_1.png,6.168367346938775,0
+shiva_31_view_3_1.png,6.825,3
+statue_16_view_6_1.png,3.4921875,2
+hhi_11_view_6_1.png,5.0211538461538465,1
+statue_34_view_7_1.png,1.625,3
+loot_34_view_7_1.png,2.4923469387755097,3
+redandblack_7_view_5_1.png,7.608333333333333,1
+longdress_13_view_4_1.png,8.381377551020408,2
+loot_17_view_3_1.png,1.85,2
+loot_0_view_7_1.png,6.996153846153846,0
+soldier_1_view_5_1.png,5.783333333333333,0
+soldier_2_view_11_1.png,5.832692307692308,0
+soldier_6_view_6_1.png,9.583333333333334,1
+hhi_7_view_4_1.png,6.776923076923077,1
+longdress_12_view_10_1.png,8.161538461538461,2
+hhi_4_view_3_1.png,4.183333333333334,0
+soldier_6_view_8_1.png,9.583333333333334,1
+ULB Unicorn_8_view_11_1.png,6.553571428571429,1
+soldier_11_view_11_1.png,3.9094387755102042,1
+longdress_12_view_8_1.png,8.161538461538461,2
+shiva_0_view_4_1.png,6.558333333333334,0
+ULB Unicorn_32_view_4_1.png,4.590561224489796,3
+shiva_14_view_11_1.png,6.591666666666667,2
+loot_5_view_7_1.png,2.7083333333333335,0
+loot_13_view_4_1.png,8.613520408163266,2
+loot_6_view_6_1.png,9.65,1
+longdress_14_view_8_1.png,7.744897959183674,2
+soldier_16_view_10_1.png,4.1171875,2
+hhi_0_view_9_1.png,9.516666666666667,0
+loot_13_view_11_1.png,8.613520408163266,2
+Romanoillamp_3_view_2_1.png,8.622448979591837,0
+statue_31_view_6_1.png,6.525,3
+statue_5_view_5_1.png,1.453125,0
+loot_34_view_6_1.png,2.4923469387755097,3
+redandblack_11_view_2_1.png,4.780769230769231,1
+statue_15_view_2_1.png,3.965384615384615,2
+shiva_32_view_10_1.png,5.75,3
+soldier_17_view_9_1.png,1.9346153846153844,2
+longdress_4_view_9_1.png,7.11734693877551,0
+ULB Unicorn_31_view_1_1.png,7.155612244897959,3
+statue_6_view_2_1.png,7.40625,1
+shiva_1_view_12_1.png,7.834615384615384,0
+ULB Unicorn_15_view_4_1.png,5.525510204081633,2
+ULB Unicorn_33_view_10_1.png,2.609375,3
+Romanoillamp_13_view_12_1.png,8.163461538461538,2
+loot_2_view_5_1.png,5.383333333333334,0
+redandblack_0_view_10_1.png,8.167091836734695,0
+soldier_8_view_4_1.png,5.813461538461539,1
+longdress_1_view_10_1.png,6.1596153846153845,0
+shiva_14_view_9_1.png,6.591666666666667,2
+longdress_31_view_7_1.png,6.985969387755103,3
+statue_16_view_5_1.png,3.4921875,2
+longdress_34_view_10_1.png,1.9872448979591835,3
+loot_34_view_8_1.png,2.4923469387755097,3
+statue_2_view_2_1.png,6.168367346938775,0
+statue_4_view_6_1.png,3.015625,0
+ULB Unicorn_17_view_6_1.png,1.848076923076923,2
+ULB Unicorn_35_view_9_1.png,1.2999999999999998,3
+redandblack_30_view_2_1.png,8.125,3
+ULB Unicorn_6_view_3_1.png,7.688461538461539,1
+longdress_6_view_4_1.png,9.682692307692308,1
+soldier_12_view_3_1.png,7.615384615384615,2
+statue_11_view_3_1.png,5.107692307692308,1
+statue_10_view_5_1.png,6.588461538461539,1
+statue_11_view_12_1.png,5.107692307692308,1
+loot_3_view_8_1.png,5.208333333333333,0
+statue_35_view_4_1.png,1.6900510204081638,3
+ULB Unicorn_33_view_5_1.png,2.609375,3
+hhi_5_view_4_1.png,1.953125,0
+Romanoillamp_34_view_12_1.png,3.7734375,3
+soldier_1_view_10_1.png,5.783333333333333,0
+redandblack_31_view_12_1.png,6.441666666666666,3
+longdress_32_view_5_1.png,4.55,3
+shiva_10_view_2_1.png,6.7846153846153845,1
+longdress_33_view_3_1.png,2.515625,3
+longdress_35_view_5_1.png,1.4489795918367352,3
+soldier_31_view_5_1.png,7.6640625,3
+redandblack_9_view_1_1.png,6.53125,1
+longdress_35_view_6_1.png,1.4489795918367352,3
+redandblack_14_view_8_1.png,6.65,2
+soldier_8_view_9_1.png,5.813461538461539,1
+shiva_16_view_9_1.png,5.9438775510204085,2
+redandblack_1_view_2_1.png,6.45,0
+loot_16_view_10_1.png,2.9749999999999996,2
+ULB Unicorn_4_view_5_1.png,4.963461538461539,0
+soldier_11_view_1_1.png,3.9094387755102042,1
+longdress_34_view_12_1.png,1.9872448979591835,3
+longdress_33_view_12_1.png,2.515625,3
+soldier_14_view_6_1.png,7.688775510204081,2
+ULB Unicorn_2_view_10_1.png,6.975,0
+soldier_13_view_5_1.png,8.5234375,2
+ULB Unicorn_34_view_12_1.png,1.8576923076923075,3
+hhi_10_view_9_1.png,4.808333333333334,1
+hhi_10_view_3_1.png,4.808333333333334,1
+shiva_14_view_12_1.png,6.591666666666667,2
+statue_6_view_6_1.png,7.40625,1
+Romanoillamp_33_view_8_1.png,3.9362244897959187,3
+ULB Unicorn_35_view_1_1.png,1.2999999999999998,3
+loot_5_view_11_1.png,2.7083333333333335,0
+soldier_13_view_8_1.png,8.5234375,2
+longdress_31_view_2_1.png,6.985969387755103,3
+hhi_14_view_3_1.png,7.015625,2
+hhi_15_view_7_1.png,4.9296875,2
+redandblack_9_view_2_1.png,6.53125,1
+statue_10_view_12_1.png,6.588461538461539,1
+soldier_3_view_11_1.png,6.175000000000001,0
+redandblack_8_view_7_1.png,7.247448979591837,1
+Romanoillamp_11_view_1_1.png,6.2265625,1
+ULB Unicorn_1_view_6_1.png,7.4057692307692315,0
+Romanoillamp_8_view_9_1.png,6.619897959183674,1
+soldier_13_view_3_1.png,8.5234375,2
+ULB Unicorn_5_view_11_1.png,2.3801020408163263,0
+hhi_31_view_7_1.png,8.3125,3
+statue_8_view_10_1.png,6.4,1
+hhi_4_view_6_1.png,4.183333333333334,0
+longdress_13_view_11_1.png,8.381377551020408,2
+Romanoillamp_14_view_11_1.png,8.25,2
+soldier_13_view_9_1.png,8.5234375,2
+soldier_17_view_11_1.png,1.9346153846153844,2
+shiva_12_view_10_1.png,6.975,2
+redandblack_33_view_9_1.png,3.394132653061224,3
+redandblack_11_view_1_1.png,4.780769230769231,1
+statue_9_view_7_1.png,5.899234693877552,1
+soldier_16_view_2_1.png,4.1171875,2
+ULB Unicorn_17_view_10_1.png,1.848076923076923,2
+Romanoillamp_12_view_7_1.png,7.941666666666666,2
+longdress_9_view_12_1.png,4.9272959183673475,1
+longdress_33_view_11_1.png,2.515625,3
+shiva_0_view_12_1.png,6.558333333333334,0
+hhi_4_view_8_1.png,4.183333333333334,0
+statue_14_view_3_1.png,6.05484693877551,2
+shiva_34_view_6_1.png,2.3201530612244903,3
+loot_4_view_12_1.png,6.67984693877551,0
+loot_33_view_12_1.png,2.825,3
+ULB Unicorn_34_view_10_1.png,1.8576923076923075,3
+statue_10_view_6_1.png,6.588461538461539,1
+statue_7_view_4_1.png,5.459183673469388,1
+shiva_31_view_6_1.png,6.825,3
+statue_30_view_2_1.png,6.795918367346938,3
+Romanoillamp_10_view_5_1.png,6.953125,1
+Romanoillamp_11_view_2_1.png,6.2265625,1
+Romanoillamp_0_view_10_1.png,9.116666666666667,0
+soldier_4_view_6_1.png,5.083333333333333,0
+soldier_15_view_9_1.png,5.623076923076923,2
+ULB Unicorn_33_view_6_1.png,2.609375,3
+longdress_3_view_5_1.png,5.5078125,0
+statue_16_view_12_1.png,3.4921875,2
+longdress_10_view_6_1.png,4.90625,1
+longdress_2_view_9_1.png,6.3046875,0
+soldier_17_view_2_1.png,1.9346153846153844,2
+hhi_8_view_5_1.png,6.107692307692308,1
+Romanoillamp_35_view_6_1.png,1.5703125,3
+Romanoillamp_31_view_2_1.png,7.008333333333334,3
+ULB Unicorn_0_view_12_1.png,8.220663265306124,0
+redandblack_8_view_2_1.png,7.247448979591837,1
+redandblack_33_view_3_1.png,3.394132653061224,3
+soldier_12_view_8_1.png,7.615384615384615,2
+ULB Unicorn_10_view_4_1.png,6.348076923076923,1
+statue_1_view_10_1.png,7.6328125,0
+ULB Unicorn_11_view_12_1.png,5.9453125,1
+longdress_0_view_2_1.png,8.501275510204081,0
+shiva_16_view_3_1.png,5.9438775510204085,2
+ULB Unicorn_9_view_10_1.png,6.880769230769231,1
+Romanoillamp_2_view_12_1.png,9.682692307692308,0
+statue_9_view_8_1.png,5.899234693877552,1
+hhi_6_view_7_1.png,9.796875,1
+redandblack_2_view_12_1.png,6.734375,0
+soldier_0_view_5_1.png,8.3203125,0
+hhi_16_view_10_1.png,4.056122448979592,2
+statue_4_view_8_1.png,3.015625,0
+redandblack_1_view_1_1.png,6.45,0
+hhi_0_view_6_1.png,9.516666666666667,0
+loot_0_view_11_1.png,6.996153846153846,0
+ULB Unicorn_8_view_10_1.png,6.553571428571429,1
+hhi_13_view_8_1.png,6.5346153846153845,2
+longdress_1_view_12_1.png,6.1596153846153845,0
+statue_0_view_1_1.png,6.908333333333333,0
+loot_16_view_9_1.png,2.9749999999999996,2
+soldier_5_view_8_1.png,3.835459183673469,0
+loot_11_view_8_1.png,4.0625,1
+Romanoillamp_10_view_10_1.png,6.953125,1
+redandblack_12_view_12_1.png,7.767307692307692,2
+shiva_7_view_8_1.png,6.917091836734694,1
+shiva_0_view_3_1.png,6.558333333333334,0
+Romanoillamp_13_view_6_1.png,8.163461538461538,2
+Romanoillamp_35_view_11_1.png,1.5703125,3
+Romanoillamp_5_view_8_1.png,3.6171875,0
+ULB Unicorn_12_view_1_1.png,7.3520408163265305,2
+soldier_5_view_10_1.png,3.835459183673469,0
+shiva_2_view_11_1.png,7.767307692307692,0
+statue_11_view_6_1.png,5.107692307692308,1
+redandblack_5_view_3_1.png,3.7578125,0
+ULB Unicorn_3_view_3_1.png,6.1015625,0
+shiva_15_view_10_1.png,6.331632653061225,2
+longdress_31_view_5_1.png,6.985969387755103,3
+loot_14_view_8_1.png,7.676020408163266,2
+hhi_3_view_3_1.png,7.371153846153846,0
+redandblack_8_view_1_1.png,7.247448979591837,1
+loot_8_view_9_1.png,5.396683673469388,1
+Romanoillamp_15_view_9_1.png,7.5442307692307695,2
+ULB Unicorn_9_view_1_1.png,6.880769230769231,1
+loot_15_view_1_1.png,5.78125,2
+Romanoillamp_34_view_2_1.png,3.7734375,3
+loot_11_view_12_1.png,4.0625,1
+soldier_3_view_4_1.png,6.175000000000001,0
+longdress_15_view_8_1.png,5.7578125,2
+Romanoillamp_34_view_10_1.png,3.7734375,3
+soldier_2_view_10_1.png,5.832692307692308,0
+soldier_14_view_12_1.png,7.688775510204081,2
+loot_11_view_6_1.png,4.0625,1
+redandblack_14_view_4_1.png,6.65,2
+soldier_17_view_7_1.png,1.9346153846153844,2
+Romanoillamp_9_view_11_1.png,7.808333333333334,1
+hhi_15_view_10_1.png,4.9296875,2
+shiva_9_view_1_1.png,7.622448979591837,1
+redandblack_2_view_5_1.png,6.734375,0
+longdress_1_view_1_1.png,6.1596153846153845,0
+ULB Unicorn_3_view_12_1.png,6.1015625,0
+loot_11_view_10_1.png,4.0625,1
+ULB Unicorn_30_view_4_1.png,7.767857142857143,3
+shiva_4_view_4_1.png,6.6171875,0
+redandblack_16_view_8_1.png,3.7096153846153848,2
+ULB Unicorn_12_view_3_1.png,7.3520408163265305,2
+hhi_35_view_8_1.png,1.1953125,3
+Romanoillamp_5_view_7_1.png,3.6171875,0
+loot_4_view_8_1.png,6.67984693877551,0
+shiva_31_view_9_1.png,6.825,3
+Romanoillamp_3_view_10_1.png,8.622448979591837,0
+Romanoillamp_4_view_9_1.png,7.691326530612245,0
+loot_30_view_6_1.png,7.341666666666667,3
+hhi_16_view_4_1.png,4.056122448979592,2
+redandblack_13_view_9_1.png,6.803846153846154,2
+Romanoillamp_5_view_1_1.png,3.6171875,0
+shiva_9_view_7_1.png,7.622448979591837,1
+loot_3_view_1_1.png,5.208333333333333,0
+soldier_8_view_12_1.png,5.813461538461539,1
+redandblack_34_view_12_1.png,1.8666666666666667,3
+longdress_35_view_8_1.png,1.4489795918367352,3
+shiva_4_view_7_1.png,6.6171875,0
+shiva_10_view_7_1.png,6.7846153846153845,1
+longdress_17_view_5_1.png,2.126923076923077,2
+statue_12_view_8_1.png,7.825,2
+ULB Unicorn_12_view_9_1.png,7.3520408163265305,2
+soldier_10_view_4_1.png,4.516666666666667,1
+shiva_0_view_5_1.png,6.558333333333334,0
+hhi_13_view_6_1.png,6.5346153846153845,2
+longdress_6_view_8_1.png,9.682692307692308,1
+longdress_8_view_5_1.png,6.709615384615384,1
+soldier_8_view_11_1.png,5.813461538461539,1
+shiva_4_view_8_1.png,6.6171875,0
+redandblack_17_view_1_1.png,2.1416666666666666,2
+shiva_0_view_9_1.png,6.558333333333334,0
+Romanoillamp_34_view_7_1.png,3.7734375,3
+ULB Unicorn_6_view_10_1.png,7.688461538461539,1
+Romanoillamp_13_view_5_1.png,8.163461538461538,2
+soldier_35_view_2_1.png,1.2346938775510208,3
+statue_9_view_12_1.png,5.899234693877552,1
+soldier_12_view_2_1.png,7.615384615384615,2
+soldier_0_view_7_1.png,8.3203125,0
+loot_13_view_12_1.png,8.613520408163266,2
+loot_32_view_2_1.png,4.775,3
+statue_12_view_11_1.png,7.825,2
+hhi_9_view_10_1.png,6.140625,1
+longdress_11_view_2_1.png,4.091666666666667,1
+loot_35_view_7_1.png,1.2230769230769232,3
+shiva_17_view_4_1.png,3.4609375,2
+ULB Unicorn_13_view_5_1.png,5.857692307692308,2
+statue_4_view_1_1.png,3.015625,0
+redandblack_31_view_10_1.png,6.441666666666666,3
+ULB Unicorn_4_view_2_1.png,4.963461538461539,0
+Romanoillamp_2_view_8_1.png,9.682692307692308,0
+hhi_11_view_3_1.png,5.0211538461538465,1
+longdress_4_view_7_1.png,7.11734693877551,0
+shiva_15_view_3_1.png,6.331632653061225,2
+hhi_1_view_11_1.png,7.7109375,0
+longdress_11_view_11_1.png,4.091666666666667,1
+redandblack_2_view_7_1.png,6.734375,0
+loot_0_view_12_1.png,6.996153846153846,0
+hhi_1_view_6_1.png,7.7109375,0
+ULB Unicorn_34_view_9_1.png,1.8576923076923075,3
+statue_11_view_8_1.png,5.107692307692308,1
+hhi_17_view_4_1.png,1.7857142857142858,2
+soldier_32_view_11_1.png,4.334615384615384,3
+shiva_32_view_5_1.png,5.75,3
+statue_30_view_11_1.png,6.795918367346938,3
+hhi_17_view_1_1.png,1.7857142857142858,2
+loot_15_view_3_1.png,5.78125,2
+ULB Unicorn_17_view_5_1.png,1.848076923076923,2
+Romanoillamp_17_view_2_1.png,2.723076923076923,2
+loot_33_view_3_1.png,2.825,3
+soldier_30_view_2_1.png,7.825,3
+Romanoillamp_0_view_4_1.png,9.116666666666667,0
+soldier_2_view_6_1.png,5.832692307692308,0
+loot_33_view_8_1.png,2.825,3
+hhi_5_view_3_1.png,1.953125,0
+loot_16_view_8_1.png,2.9749999999999996,2
+soldier_14_view_8_1.png,7.688775510204081,2
+hhi_33_view_8_1.png,3.475,3
+Romanoillamp_1_view_8_1.png,9.321428571428571,0
+soldier_35_view_12_1.png,1.2346938775510208,3
+longdress_10_view_5_1.png,4.90625,1
+statue_3_view_7_1.png,4.938775510204081,0
+soldier_9_view_10_1.png,6.06923076923077,1
+hhi_34_view_10_1.png,1.8673076923076921,3
+soldier_13_view_12_1.png,8.5234375,2
+soldier_6_view_11_1.png,9.583333333333334,1
+loot_16_view_1_1.png,2.9749999999999996,2
+ULB Unicorn_5_view_12_1.png,2.3801020408163263,0
+hhi_3_view_8_1.png,7.371153846153846,0
+hhi_2_view_9_1.png,8.9453125,0
+shiva_3_view_1_1.png,5.991666666666666,0
+redandblack_6_view_3_1.png,9.392857142857142,1
+longdress_8_view_4_1.png,6.709615384615384,1
+statue_8_view_3_1.png,6.4,1
+shiva_9_view_9_1.png,7.622448979591837,1
+longdress_6_view_10_1.png,9.682692307692308,1
+hhi_32_view_10_1.png,6.836734693877552,3
+ULB Unicorn_12_view_6_1.png,7.3520408163265305,2
+longdress_12_view_1_1.png,8.161538461538461,2
+hhi_13_view_2_1.png,6.5346153846153845,2
+statue_31_view_7_1.png,6.525,3
+statue_33_view_3_1.png,2.85,3
+soldier_32_view_12_1.png,4.334615384615384,3
+Romanoillamp_8_view_7_1.png,6.619897959183674,1
+loot_35_view_10_1.png,1.2230769230769232,3
+redandblack_12_view_9_1.png,7.767307692307692,2
+longdress_10_view_1_1.png,4.90625,1
+longdress_33_view_7_1.png,2.515625,3
+shiva_30_view_8_1.png,8.8359375,3
+shiva_31_view_2_1.png,6.825,3
+shiva_4_view_5_1.png,6.6171875,0
+hhi_15_view_8_1.png,4.9296875,2
+ULB Unicorn_30_view_12_1.png,7.767857142857143,3
+redandblack_5_view_11_1.png,3.7578125,0
+Romanoillamp_6_view_1_1.png,8.771683673469388,1
+longdress_3_view_6_1.png,5.5078125,0
+hhi_33_view_4_1.png,3.475,3
+redandblack_35_view_9_1.png,1.848076923076923,3
+statue_17_view_1_1.png,1.1875,2
+shiva_30_view_1_1.png,8.8359375,3
+longdress_15_view_2_1.png,5.7578125,2
+loot_10_view_11_1.png,4.230867346938775,1
+loot_7_view_5_1.png,7.316666666666666,1
+soldier_31_view_11_1.png,7.6640625,3
+statue_31_view_9_1.png,6.525,3
+soldier_7_view_11_1.png,6.950255102040816,1
+ULB Unicorn_35_view_6_1.png,1.2999999999999998,3
+shiva_30_view_2_1.png,8.8359375,3
+longdress_12_view_7_1.png,8.161538461538461,2
+Romanoillamp_8_view_4_1.png,6.619897959183674,1
+Romanoillamp_17_view_10_1.png,2.723076923076923,2
+soldier_11_view_4_1.png,3.9094387755102042,1
+loot_2_view_6_1.png,5.383333333333334,0
+statue_7_view_6_1.png,5.459183673469388,1
+redandblack_10_view_11_1.png,5.515625,1
+soldier_7_view_8_1.png,6.950255102040816,1
+soldier_15_view_2_1.png,5.623076923076923,2
+longdress_1_view_2_1.png,6.1596153846153845,0
+statue_6_view_8_1.png,7.40625,1
+longdress_8_view_1_1.png,6.709615384615384,1
+Romanoillamp_2_view_6_1.png,9.682692307692308,0
+ULB Unicorn_17_view_9_1.png,1.848076923076923,2
+ULB Unicorn_7_view_8_1.png,8.3671875,1
+loot_8_view_12_1.png,5.396683673469388,1
+statue_0_view_6_1.png,6.908333333333333,0
+longdress_12_view_11_1.png,8.161538461538461,2
+hhi_6_view_6_1.png,9.796875,1
+redandblack_17_view_6_1.png,2.1416666666666666,2
+shiva_6_view_1_1.png,8.5,1
+hhi_11_view_2_1.png,5.0211538461538465,1
+hhi_31_view_12_1.png,8.3125,3
+longdress_13_view_2_1.png,8.381377551020408,2
+statue_6_view_4_1.png,7.40625,1
+ULB Unicorn_16_view_5_1.png,3.5859375,2
+longdress_32_view_8_1.png,4.55,3
+hhi_16_view_5_1.png,4.056122448979592,2
+hhi_6_view_5_1.png,9.796875,1
+ULB Unicorn_33_view_7_1.png,2.609375,3
+hhi_31_view_10_1.png,8.3125,3
+longdress_30_view_2_1.png,7.358333333333333,3
+ULB Unicorn_34_view_1_1.png,1.8576923076923075,3
+loot_15_view_11_1.png,5.78125,2
+loot_7_view_10_1.png,7.316666666666666,1
+soldier_12_view_4_1.png,7.615384615384615,2
+longdress_5_view_7_1.png,3.40625,0
+loot_32_view_12_1.png,4.775,3
+loot_7_view_8_1.png,7.316666666666666,1
+shiva_16_view_6_1.png,5.9438775510204085,2
+redandblack_32_view_5_1.png,5.9609375,3
+hhi_34_view_3_1.png,1.8673076923076921,3
+soldier_15_view_7_1.png,5.623076923076923,2
+ULB Unicorn_1_view_2_1.png,7.4057692307692315,0
+redandblack_13_view_2_1.png,6.803846153846154,2
+statue_4_view_5_1.png,3.015625,0
+Romanoillamp_3_view_11_1.png,8.622448979591837,0
+Romanoillamp_3_view_4_1.png,8.622448979591837,0
+ULB Unicorn_16_view_6_1.png,3.5859375,2
+redandblack_34_view_1_1.png,1.8666666666666667,3
+redandblack_9_view_5_1.png,6.53125,1
+redandblack_5_view_7_1.png,3.7578125,0
+hhi_14_view_6_1.png,7.015625,2
+longdress_34_view_4_1.png,1.9872448979591835,3
+soldier_10_view_2_1.png,4.516666666666667,1
+loot_30_view_9_1.png,7.341666666666667,3
+redandblack_35_view_1_1.png,1.848076923076923,3
+Romanoillamp_3_view_1_1.png,8.622448979591837,0
+Romanoillamp_11_view_10_1.png,6.2265625,1
+redandblack_8_view_9_1.png,7.247448979591837,1
+loot_34_view_11_1.png,2.4923469387755097,3
+redandblack_11_view_12_1.png,4.780769230769231,1
+soldier_4_view_10_1.png,5.083333333333333,0
+shiva_7_view_7_1.png,6.917091836734694,1
+Romanoillamp_11_view_12_1.png,6.2265625,1
+Romanoillamp_34_view_9_1.png,3.7734375,3
+hhi_13_view_4_1.png,6.5346153846153845,2
+longdress_11_view_6_1.png,4.091666666666667,1
+Romanoillamp_2_view_10_1.png,9.682692307692308,0
+Romanoillamp_11_view_5_1.png,6.2265625,1
+statue_16_view_2_1.png,3.4921875,2
+shiva_2_view_7_1.png,7.767307692307692,0
+redandblack_15_view_4_1.png,5.1640625,2
+soldier_5_view_5_1.png,3.835459183673469,0
+redandblack_32_view_1_1.png,5.9609375,3
+Romanoillamp_35_view_3_1.png,1.5703125,3
+longdress_17_view_9_1.png,2.126923076923077,2
+longdress_16_view_8_1.png,4.421875,2
+hhi_32_view_3_1.png,6.836734693877552,3
+loot_10_view_4_1.png,4.230867346938775,1
+redandblack_32_view_8_1.png,5.9609375,3
+longdress_15_view_7_1.png,5.7578125,2
+redandblack_15_view_3_1.png,5.1640625,2
+ULB Unicorn_14_view_5_1.png,6.226923076923077,2
+soldier_4_view_11_1.png,5.083333333333333,0
+loot_33_view_1_1.png,2.825,3
+soldier_33_view_2_1.png,2.2807692307692307,3
+longdress_9_view_4_1.png,4.9272959183673475,1
+Romanoillamp_31_view_6_1.png,7.008333333333334,3
+loot_6_view_3_1.png,9.65,1
+redandblack_0_view_3_1.png,8.167091836734695,0
+Romanoillamp_2_view_2_1.png,9.682692307692308,0
+longdress_2_view_2_1.png,6.3046875,0
+loot_12_view_4_1.png,8.267307692307693,2
+soldier_7_view_3_1.png,6.950255102040816,1
+Romanoillamp_10_view_9_1.png,6.953125,1
+soldier_0_view_12_1.png,8.3203125,0
+soldier_5_view_9_1.png,3.835459183673469,0
+shiva_8_view_1_1.png,7.8442307692307685,1
+statue_13_view_5_1.png,6.133333333333334,2
+Romanoillamp_32_view_1_1.png,6.166666666666667,3
+soldier_30_view_11_1.png,7.825,3
+Romanoillamp_9_view_5_1.png,7.808333333333334,1
+hhi_34_view_9_1.png,1.8673076923076921,3
+soldier_11_view_12_1.png,3.9094387755102042,1
+hhi_2_view_1_1.png,8.9453125,0
+soldier_33_view_12_1.png,2.2807692307692307,3
+ULB Unicorn_13_view_9_1.png,5.857692307692308,2
+statue_35_view_2_1.png,1.6900510204081638,3
+hhi_8_view_1_1.png,6.107692307692308,1
+loot_17_view_6_1.png,1.85,2
+ULB Unicorn_15_view_1_1.png,5.525510204081633,2
+ULB Unicorn_1_view_5_1.png,7.4057692307692315,0
+shiva_12_view_11_1.png,6.975,2
+Romanoillamp_0_view_7_1.png,9.116666666666667,0
+redandblack_7_view_10_1.png,7.608333333333333,1
+ULB Unicorn_7_view_2_1.png,8.3671875,1
+statue_10_view_10_1.png,6.588461538461539,1
+loot_7_view_1_1.png,7.316666666666666,1
+loot_4_view_6_1.png,6.67984693877551,0
+shiva_6_view_2_1.png,8.5,1
+shiva_33_view_9_1.png,2.8307692307692305,3
+redandblack_5_view_8_1.png,3.7578125,0
+hhi_6_view_11_1.png,9.796875,1
+ULB Unicorn_16_view_3_1.png,3.5859375,2
+Romanoillamp_4_view_10_1.png,7.691326530612245,0
+ULB Unicorn_16_view_12_1.png,3.5859375,2
+longdress_14_view_1_1.png,7.744897959183674,2
+shiva_10_view_11_1.png,6.7846153846153845,1
+hhi_15_view_2_1.png,4.9296875,2
+longdress_17_view_8_1.png,2.126923076923077,2
+hhi_11_view_1_1.png,5.0211538461538465,1
+ULB Unicorn_5_view_1_1.png,2.3801020408163263,0
+soldier_3_view_3_1.png,6.175000000000001,0
+statue_13_view_6_1.png,6.133333333333334,2
+hhi_33_view_10_1.png,3.475,3
+loot_3_view_9_1.png,5.208333333333333,0
+loot_16_view_6_1.png,2.9749999999999996,2
+Romanoillamp_30_view_7_1.png,9.40625,3
+loot_13_view_5_1.png,8.613520408163266,2
+loot_8_view_2_1.png,5.396683673469388,1
+shiva_31_view_4_1.png,6.825,3
+loot_31_view_10_1.png,7.7653061224489806,3
+soldier_35_view_9_1.png,1.2346938775510208,3
+soldier_16_view_7_1.png,4.1171875,2
+ULB Unicorn_31_view_9_1.png,7.155612244897959,3
+ULB Unicorn_11_view_4_1.png,5.9453125,1
+redandblack_17_view_3_1.png,2.1416666666666666,2
+redandblack_4_view_2_1.png,6.286989795918367,0
+Romanoillamp_13_view_7_1.png,8.163461538461538,2
+hhi_12_view_3_1.png,8.741666666666667,2
+shiva_2_view_9_1.png,7.767307692307692,0
+statue_17_view_9_1.png,1.1875,2
+ULB Unicorn_13_view_2_1.png,5.857692307692308,2
+redandblack_0_view_2_1.png,8.167091836734695,0
+statue_8_view_1_1.png,6.4,1
+longdress_0_view_12_1.png,8.501275510204081,0
+longdress_13_view_10_1.png,8.381377551020408,2
+hhi_9_view_2_1.png,6.140625,1
+longdress_33_view_6_1.png,2.515625,3
+longdress_16_view_6_1.png,4.421875,2
+shiva_15_view_7_1.png,6.331632653061225,2
+redandblack_7_view_7_1.png,7.608333333333333,1
+soldier_2_view_12_1.png,5.832692307692308,0
+longdress_34_view_8_1.png,1.9872448979591835,3
+longdress_17_view_11_1.png,2.126923076923077,2
+ULB Unicorn_7_view_7_1.png,8.3671875,1
+shiva_8_view_3_1.png,7.8442307692307685,1
+statue_5_view_9_1.png,1.453125,0
+ULB Unicorn_3_view_6_1.png,6.1015625,0
+hhi_3_view_11_1.png,7.371153846153846,0
+hhi_10_view_7_1.png,4.808333333333334,1
+statue_16_view_11_1.png,3.4921875,2
+Romanoillamp_1_view_2_1.png,9.321428571428571,0
+longdress_3_view_11_1.png,5.5078125,0
+statue_17_view_10_1.png,1.1875,2
+longdress_11_view_4_1.png,4.091666666666667,1
+soldier_12_view_6_1.png,7.615384615384615,2
+longdress_3_view_3_1.png,5.5078125,0
+longdress_12_view_3_1.png,8.161538461538461,2
+hhi_4_view_1_1.png,4.183333333333334,0
+hhi_16_view_8_1.png,4.056122448979592,2
+shiva_3_view_3_1.png,5.991666666666666,0
+longdress_2_view_3_1.png,6.3046875,0
+statue_35_view_10_1.png,1.6900510204081638,3
+shiva_12_view_3_1.png,6.975,2
+loot_16_view_2_1.png,2.9749999999999996,2
+statue_35_view_12_1.png,1.6900510204081638,3
+redandblack_8_view_4_1.png,7.247448979591837,1
+soldier_32_view_3_1.png,4.334615384615384,3
+ULB Unicorn_14_view_7_1.png,6.226923076923077,2
+ULB Unicorn_10_view_11_1.png,6.348076923076923,1
+soldier_6_view_7_1.png,9.583333333333334,1
+longdress_4_view_4_1.png,7.11734693877551,0
+longdress_15_view_1_1.png,5.7578125,2
+loot_14_view_5_1.png,7.676020408163266,2
+statue_12_view_1_1.png,7.825,2
+longdress_1_view_4_1.png,6.1596153846153845,0
+statue_11_view_2_1.png,5.107692307692308,1
+hhi_33_view_3_1.png,3.475,3
+hhi_34_view_4_1.png,1.8673076923076921,3
+hhi_12_view_7_1.png,8.741666666666667,2
+statue_33_view_8_1.png,2.85,3
+Romanoillamp_12_view_1_1.png,7.941666666666666,2
+hhi_9_view_7_1.png,6.140625,1
+statue_12_view_2_1.png,7.825,2
+redandblack_30_view_3_1.png,8.125,3
+statue_9_view_1_1.png,5.899234693877552,1
+hhi_13_view_12_1.png,6.5346153846153845,2
+longdress_1_view_7_1.png,6.1596153846153845,0
+redandblack_8_view_8_1.png,7.247448979591837,1
+loot_35_view_3_1.png,1.2230769230769232,3
+Romanoillamp_17_view_1_1.png,2.723076923076923,2
+soldier_2_view_7_1.png,5.832692307692308,0
+ULB Unicorn_34_view_11_1.png,1.8576923076923075,3
+loot_3_view_11_1.png,5.208333333333333,0
+redandblack_14_view_10_1.png,6.65,2
+statue_15_view_7_1.png,3.965384615384615,2
+longdress_3_view_7_1.png,5.5078125,0
+hhi_33_view_9_1.png,3.475,3
+longdress_13_view_6_1.png,8.381377551020408,2
+soldier_2_view_3_1.png,5.832692307692308,0
+loot_12_view_3_1.png,8.267307692307693,2
+soldier_33_view_10_1.png,2.2807692307692307,3
+redandblack_16_view_1_1.png,3.7096153846153848,2
+shiva_5_view_11_1.png,3.2627551020408165,0
+ULB Unicorn_10_view_10_1.png,6.348076923076923,1
+ULB Unicorn_0_view_10_1.png,8.220663265306124,0
+hhi_33_view_12_1.png,3.475,3
+hhi_0_view_4_1.png,9.516666666666667,0
+Romanoillamp_0_view_8_1.png,9.116666666666667,0
+soldier_3_view_12_1.png,6.175000000000001,0
+ULB Unicorn_32_view_1_1.png,4.590561224489796,3
+Romanoillamp_7_view_6_1.png,7.5688775510204085,1
+longdress_5_view_12_1.png,3.40625,0
+Romanoillamp_31_view_5_1.png,7.008333333333334,3
+statue_2_view_3_1.png,6.168367346938775,0
+shiva_17_view_9_1.png,3.4609375,2
+shiva_13_view_3_1.png,6.816666666666666,2
+Romanoillamp_3_view_6_1.png,8.622448979591837,0
+loot_0_view_2_1.png,6.996153846153846,0
+soldier_14_view_7_1.png,7.688775510204081,2
+ULB Unicorn_12_view_4_1.png,7.3520408163265305,2
+hhi_12_view_5_1.png,8.741666666666667,2
+loot_7_view_3_1.png,7.316666666666666,1
+statue_14_view_1_1.png,6.05484693877551,2
+longdress_6_view_6_1.png,9.682692307692308,1
+shiva_10_view_9_1.png,6.7846153846153845,1
+loot_5_view_1_1.png,2.7083333333333335,0
+ULB Unicorn_34_view_7_1.png,1.8576923076923075,3
+ULB Unicorn_10_view_5_1.png,6.348076923076923,1
+hhi_15_view_1_1.png,4.9296875,2
+soldier_7_view_9_1.png,6.950255102040816,1
+ULB Unicorn_32_view_9_1.png,4.590561224489796,3
+soldier_17_view_3_1.png,1.9346153846153844,2
+Romanoillamp_2_view_3_1.png,9.682692307692308,0
+Romanoillamp_10_view_11_1.png,6.953125,1
+soldier_32_view_9_1.png,4.334615384615384,3
+hhi_7_view_2_1.png,6.776923076923077,1
+shiva_12_view_5_1.png,6.975,2
+redandblack_12_view_7_1.png,7.767307692307692,2
+hhi_16_view_7_1.png,4.056122448979592,2
+Romanoillamp_17_view_7_1.png,2.723076923076923,2
+loot_0_view_5_1.png,6.996153846153846,0
+redandblack_32_view_6_1.png,5.9609375,3
+loot_16_view_3_1.png,2.9749999999999996,2
+statue_33_view_9_1.png,2.85,3
+soldier_2_view_2_1.png,5.832692307692308,0
+Romanoillamp_16_view_10_1.png,5.125,2
+Romanoillamp_4_view_1_1.png,7.691326530612245,0
+longdress_3_view_2_1.png,5.5078125,0
+loot_34_view_2_1.png,2.4923469387755097,3
+redandblack_4_view_9_1.png,6.286989795918367,0
+Romanoillamp_34_view_3_1.png,3.7734375,3
+hhi_2_view_8_1.png,8.9453125,0
+ULB Unicorn_33_view_1_1.png,2.609375,3
+hhi_16_view_9_1.png,4.056122448979592,2
+statue_9_view_11_1.png,5.899234693877552,1
+Romanoillamp_9_view_9_1.png,7.808333333333334,1
+Romanoillamp_11_view_7_1.png,6.2265625,1
+soldier_11_view_3_1.png,3.9094387755102042,1
+hhi_14_view_12_1.png,7.015625,2
+ULB Unicorn_2_view_8_1.png,6.975,0
+shiva_5_view_4_1.png,3.2627551020408165,0
+soldier_4_view_5_1.png,5.083333333333333,0
+loot_4_view_11_1.png,6.67984693877551,0
+statue_8_view_9_1.png,6.4,1
+shiva_32_view_9_1.png,5.75,3
+Romanoillamp_31_view_8_1.png,7.008333333333334,3
+statue_7_view_1_1.png,5.459183673469388,1
+ULB Unicorn_13_view_3_1.png,5.857692307692308,2
+Romanoillamp_1_view_3_1.png,9.321428571428571,0
+Romanoillamp_4_view_4_1.png,7.691326530612245,0
+loot_31_view_6_1.png,7.7653061224489806,3
+ULB Unicorn_8_view_5_1.png,6.553571428571429,1
+hhi_10_view_8_1.png,4.808333333333334,1
+loot_0_view_4_1.png,6.996153846153846,0
+shiva_3_view_9_1.png,5.991666666666666,0
+soldier_7_view_7_1.png,6.950255102040816,1
+statue_3_view_6_1.png,4.938775510204081,0
+hhi_0_view_2_1.png,9.516666666666667,0
+hhi_1_view_10_1.png,7.7109375,0
+Romanoillamp_13_view_2_1.png,8.163461538461538,2
+redandblack_0_view_6_1.png,8.167091836734695,0
+shiva_12_view_8_1.png,6.975,2
+redandblack_34_view_5_1.png,1.8666666666666667,3
+loot_17_view_11_1.png,1.85,2
+statue_6_view_10_1.png,7.40625,1
+shiva_3_view_10_1.png,5.991666666666666,0
+Romanoillamp_9_view_6_1.png,7.808333333333334,1
+ULB Unicorn_34_view_8_1.png,1.8576923076923075,3
+statue_14_view_2_1.png,6.05484693877551,2
+redandblack_30_view_8_1.png,8.125,3
+Romanoillamp_34_view_5_1.png,3.7734375,3
+shiva_30_view_7_1.png,8.8359375,3
+statue_6_view_5_1.png,7.40625,1
+statue_8_view_7_1.png,6.4,1
+ULB Unicorn_17_view_4_1.png,1.848076923076923,2
+longdress_7_view_11_1.png,7.526923076923077,1
+redandblack_14_view_5_1.png,6.65,2
+statue_33_view_1_1.png,2.85,3
+shiva_6_view_3_1.png,8.5,1
+ULB Unicorn_11_view_10_1.png,5.9453125,1
+longdress_5_view_8_1.png,3.40625,0
+statue_0_view_5_1.png,6.908333333333333,0
+longdress_1_view_11_1.png,6.1596153846153845,0
+longdress_14_view_6_1.png,7.744897959183674,2
+longdress_8_view_3_1.png,6.709615384615384,1
+longdress_0_view_9_1.png,8.501275510204081,0
+ULB Unicorn_16_view_4_1.png,3.5859375,2
+soldier_30_view_12_1.png,7.825,3
+Romanoillamp_14_view_1_1.png,8.25,2
+soldier_10_view_9_1.png,4.516666666666667,1
+Romanoillamp_17_view_6_1.png,2.723076923076923,2
+Romanoillamp_10_view_3_1.png,6.953125,1
+Romanoillamp_30_view_9_1.png,9.40625,3
+longdress_7_view_7_1.png,7.526923076923077,1
+soldier_9_view_12_1.png,6.06923076923077,1
+soldier_14_view_11_1.png,7.688775510204081,2
+longdress_16_view_12_1.png,4.421875,2
+loot_3_view_3_1.png,5.208333333333333,0
+hhi_17_view_6_1.png,1.7857142857142858,2
+statue_13_view_7_1.png,6.133333333333334,2
+soldier_31_view_7_1.png,7.6640625,3
+ULB Unicorn_0_view_4_1.png,8.220663265306124,0
+hhi_8_view_3_1.png,6.107692307692308,1
+statue_5_view_4_1.png,1.453125,0
+shiva_5_view_10_1.png,3.2627551020408165,0
+soldier_4_view_3_1.png,5.083333333333333,0
+shiva_11_view_8_1.png,6.244897959183674,1
+statue_33_view_10_1.png,2.85,3
+statue_1_view_2_1.png,7.6328125,0
+hhi_5_view_5_1.png,1.953125,0
+Romanoillamp_17_view_11_1.png,2.723076923076923,2
+Romanoillamp_16_view_9_1.png,5.125,2
+redandblack_11_view_9_1.png,4.780769230769231,1
+redandblack_31_view_9_1.png,6.441666666666666,3
+statue_1_view_11_1.png,7.6328125,0
+loot_9_view_3_1.png,4.584615384615384,1
+soldier_15_view_1_1.png,5.623076923076923,2
+redandblack_32_view_2_1.png,5.9609375,3
+shiva_0_view_10_1.png,6.558333333333334,0
+statue_11_view_1_1.png,5.107692307692308,1
+ULB Unicorn_9_view_4_1.png,6.880769230769231,1
+Romanoillamp_12_view_9_1.png,7.941666666666666,2
+loot_4_view_7_1.png,6.67984693877551,0
+hhi_1_view_4_1.png,7.7109375,0
+soldier_11_view_5_1.png,3.9094387755102042,1
+redandblack_12_view_2_1.png,7.767307692307692,2
+statue_32_view_11_1.png,6.536989795918367,3
+hhi_1_view_1_1.png,7.7109375,0
+longdress_35_view_1_1.png,1.4489795918367352,3
+redandblack_12_view_10_1.png,7.767307692307692,2
+Romanoillamp_32_view_4_1.png,6.166666666666667,3
+hhi_13_view_1_1.png,6.5346153846153845,2
+longdress_17_view_2_1.png,2.126923076923077,2
+shiva_14_view_10_1.png,6.591666666666667,2
+statue_31_view_8_1.png,6.525,3
+loot_4_view_10_1.png,6.67984693877551,0
+Romanoillamp_2_view_7_1.png,9.682692307692308,0
+ULB Unicorn_10_view_9_1.png,6.348076923076923,1
+longdress_3_view_12_1.png,5.5078125,0
+redandblack_1_view_7_1.png,6.45,0
+shiva_15_view_11_1.png,6.331632653061225,2
+statue_0_view_8_1.png,6.908333333333333,0
+loot_31_view_7_1.png,7.7653061224489806,3
+shiva_16_view_4_1.png,5.9438775510204085,2
+soldier_0_view_1_1.png,8.3203125,0
+redandblack_13_view_12_1.png,6.803846153846154,2
+longdress_10_view_8_1.png,4.90625,1
+longdress_4_view_6_1.png,7.11734693877551,0
+statue_11_view_11_1.png,5.107692307692308,1
+soldier_34_view_7_1.png,1.8671875,3
+ULB Unicorn_8_view_3_1.png,6.553571428571429,1
+redandblack_17_view_12_1.png,2.1416666666666666,2
+loot_10_view_5_1.png,4.230867346938775,1
+soldier_4_view_2_1.png,5.083333333333333,0
+loot_32_view_1_1.png,4.775,3
+loot_9_view_9_1.png,4.584615384615384,1
+soldier_3_view_7_1.png,6.175000000000001,0
+statue_7_view_5_1.png,5.459183673469388,1
+shiva_1_view_10_1.png,7.834615384615384,0
+redandblack_32_view_10_1.png,5.9609375,3
+loot_12_view_8_1.png,8.267307692307693,2
+longdress_2_view_5_1.png,6.3046875,0
+Romanoillamp_4_view_11_1.png,7.691326530612245,0
+shiva_35_view_7_1.png,1.6007653061224494,3
+redandblack_4_view_7_1.png,6.286989795918367,0
+redandblack_33_view_6_1.png,3.394132653061224,3
+statue_32_view_1_1.png,6.536989795918367,3
+redandblack_7_view_2_1.png,7.608333333333333,1
+shiva_7_view_12_1.png,6.917091836734694,1
+shiva_30_view_12_1.png,8.8359375,3
+hhi_7_view_6_1.png,6.776923076923077,1
+soldier_0_view_2_1.png,8.3203125,0
+soldier_5_view_6_1.png,3.835459183673469,0
+redandblack_1_view_9_1.png,6.45,0
+statue_3_view_10_1.png,4.938775510204081,0
+hhi_10_view_11_1.png,4.808333333333334,1
+ULB Unicorn_11_view_11_1.png,5.9453125,1
+redandblack_35_view_6_1.png,1.848076923076923,3
+loot_11_view_5_1.png,4.0625,1
+statue_10_view_11_1.png,6.588461538461539,1
+hhi_4_view_9_1.png,4.183333333333334,0
+hhi_31_view_4_1.png,8.3125,3
+statue_8_view_6_1.png,6.4,1
+loot_12_view_12_1.png,8.267307692307693,2
+statue_30_view_7_1.png,6.795918367346938,3
+shiva_34_view_1_1.png,2.3201530612244903,3
+longdress_7_view_10_1.png,7.526923076923077,1
+redandblack_30_view_1_1.png,8.125,3
+shiva_33_view_5_1.png,2.8307692307692305,3
+soldier_14_view_10_1.png,7.688775510204081,2
+Romanoillamp_2_view_11_1.png,9.682692307692308,0
+redandblack_6_view_2_1.png,9.392857142857142,1
+hhi_32_view_2_1.png,6.836734693877552,3
+soldier_12_view_11_1.png,7.615384615384615,2
+loot_13_view_7_1.png,8.613520408163266,2
+redandblack_7_view_8_1.png,7.608333333333333,1
+hhi_11_view_11_1.png,5.0211538461538465,1
+statue_33_view_11_1.png,2.85,3
+soldier_4_view_9_1.png,5.083333333333333,0
+loot_32_view_10_1.png,4.775,3
+Romanoillamp_31_view_12_1.png,7.008333333333334,3
+shiva_3_view_4_1.png,5.991666666666666,0
+Romanoillamp_13_view_1_1.png,8.163461538461538,2
+soldier_0_view_4_1.png,8.3203125,0
+statue_2_view_5_1.png,6.168367346938775,0
+Romanoillamp_33_view_3_1.png,3.9362244897959187,3
+longdress_13_view_7_1.png,8.381377551020408,2
+hhi_0_view_10_1.png,9.516666666666667,0
+longdress_31_view_6_1.png,6.985969387755103,3
+ULB Unicorn_31_view_2_1.png,7.155612244897959,3
+shiva_31_view_1_1.png,6.825,3
+shiva_2_view_6_1.png,7.767307692307692,0
+ULB Unicorn_14_view_12_1.png,6.226923076923077,2
+hhi_1_view_12_1.png,7.7109375,0
+Romanoillamp_4_view_2_1.png,7.691326530612245,0
+ULB Unicorn_5_view_10_1.png,2.3801020408163263,0
+hhi_7_view_11_1.png,6.776923076923077,1
+longdress_32_view_10_1.png,4.55,3
+loot_15_view_9_1.png,5.78125,2
+hhi_12_view_8_1.png,8.741666666666667,2
+ULB Unicorn_32_view_3_1.png,4.590561224489796,3
+Romanoillamp_4_view_6_1.png,7.691326530612245,0
+redandblack_15_view_5_1.png,5.1640625,2
+statue_15_view_12_1.png,3.965384615384615,2
+loot_13_view_2_1.png,8.613520408163266,2
+longdress_34_view_1_1.png,1.9872448979591835,3
+shiva_0_view_11_1.png,6.558333333333334,0
+redandblack_9_view_12_1.png,6.53125,1
+ULB Unicorn_12_view_2_1.png,7.3520408163265305,2
+ULB Unicorn_7_view_3_1.png,8.3671875,1
+ULB Unicorn_11_view_3_1.png,5.9453125,1
+loot_7_view_7_1.png,7.316666666666666,1
+loot_13_view_10_1.png,8.613520408163266,2
+longdress_9_view_1_1.png,4.9272959183673475,1
+hhi_5_view_10_1.png,1.953125,0
+redandblack_12_view_8_1.png,7.767307692307692,2
+shiva_0_view_1_1.png,6.558333333333334,0
+shiva_13_view_10_1.png,6.816666666666666,2
+hhi_13_view_11_1.png,6.5346153846153845,2
+ULB Unicorn_15_view_8_1.png,5.525510204081633,2
+ULB Unicorn_13_view_12_1.png,5.857692307692308,2
+hhi_8_view_11_1.png,6.107692307692308,1
+hhi_17_view_10_1.png,1.7857142857142858,2
+soldier_10_view_12_1.png,4.516666666666667,1
+longdress_17_view_4_1.png,2.126923076923077,2
+Romanoillamp_30_view_12_1.png,9.40625,3
+ULB Unicorn_15_view_5_1.png,5.525510204081633,2
+ULB Unicorn_11_view_8_1.png,5.9453125,1
+shiva_14_view_1_1.png,6.591666666666667,2
+statue_17_view_4_1.png,1.1875,2
+loot_16_view_11_1.png,2.9749999999999996,2
+statue_13_view_1_1.png,6.133333333333334,2
+hhi_32_view_9_1.png,6.836734693877552,3
+longdress_5_view_3_1.png,3.40625,0
+shiva_2_view_5_1.png,7.767307692307692,0
+shiva_14_view_6_1.png,6.591666666666667,2
+longdress_32_view_2_1.png,4.55,3
+redandblack_35_view_2_1.png,1.848076923076923,3
+redandblack_30_view_6_1.png,8.125,3
+ULB Unicorn_3_view_1_1.png,6.1015625,0
+longdress_10_view_4_1.png,4.90625,1
+soldier_5_view_11_1.png,3.835459183673469,0
+longdress_33_view_1_1.png,2.515625,3
+ULB Unicorn_31_view_10_1.png,7.155612244897959,3
+hhi_32_view_7_1.png,6.836734693877552,3
+redandblack_0_view_12_1.png,8.167091836734695,0
+statue_14_view_8_1.png,6.05484693877551,2
+shiva_12_view_7_1.png,6.975,2
+Romanoillamp_9_view_4_1.png,7.808333333333334,1
+hhi_30_view_3_1.png,9.464285714285714,3
+longdress_17_view_6_1.png,2.126923076923077,2
+Romanoillamp_1_view_12_1.png,9.321428571428571,0
+ULB Unicorn_11_view_5_1.png,5.9453125,1
+soldier_31_view_9_1.png,7.6640625,3
+soldier_32_view_10_1.png,4.334615384615384,3
+redandblack_3_view_4_1.png,4.9,0
+soldier_1_view_4_1.png,5.783333333333333,0
+ULB Unicorn_4_view_9_1.png,4.963461538461539,0
+redandblack_17_view_10_1.png,2.1416666666666666,2
+hhi_11_view_10_1.png,5.0211538461538465,1
+ULB Unicorn_3_view_8_1.png,6.1015625,0
+ULB Unicorn_7_view_1_1.png,8.3671875,1
+loot_3_view_5_1.png,5.208333333333333,0
+shiva_15_view_12_1.png,6.331632653061225,2
+longdress_10_view_3_1.png,4.90625,1
+loot_14_view_11_1.png,7.676020408163266,2
+shiva_0_view_8_1.png,6.558333333333334,0
+Romanoillamp_6_view_3_1.png,8.771683673469388,1
+statue_30_view_1_1.png,6.795918367346938,3
+statue_14_view_7_1.png,6.05484693877551,2
+statue_34_view_9_1.png,1.625,3
+ULB Unicorn_1_view_3_1.png,7.4057692307692315,0
+redandblack_0_view_4_1.png,8.167091836734695,0
+hhi_12_view_4_1.png,8.741666666666667,2
+statue_31_view_12_1.png,6.525,3
+redandblack_33_view_10_1.png,3.394132653061224,3
+Romanoillamp_14_view_4_1.png,8.25,2
+Romanoillamp_34_view_4_1.png,3.7734375,3
+shiva_2_view_2_1.png,7.767307692307692,0
+loot_17_view_8_1.png,1.85,2
+shiva_4_view_12_1.png,6.6171875,0
+loot_32_view_4_1.png,4.775,3
+redandblack_1_view_5_1.png,6.45,0
+redandblack_35_view_11_1.png,1.848076923076923,3
+ULB Unicorn_13_view_8_1.png,5.857692307692308,2
+longdress_12_view_9_1.png,8.161538461538461,2
+Romanoillamp_9_view_12_1.png,7.808333333333334,1
+statue_9_view_3_1.png,5.899234693877552,1
+loot_33_view_5_1.png,2.825,3
+redandblack_6_view_12_1.png,9.392857142857142,1
+ULB Unicorn_33_view_12_1.png,2.609375,3
+loot_34_view_5_1.png,2.4923469387755097,3
+loot_1_view_7_1.png,7.0859375,0
+hhi_8_view_4_1.png,6.107692307692308,1
+Romanoillamp_32_view_3_1.png,6.166666666666667,3
+soldier_3_view_6_1.png,6.175000000000001,0
+longdress_11_view_7_1.png,4.091666666666667,1
+redandblack_3_view_6_1.png,4.9,0
+statue_9_view_4_1.png,5.899234693877552,1
+hhi_5_view_1_1.png,1.953125,0
+Romanoillamp_14_view_9_1.png,8.25,2
+longdress_7_view_6_1.png,7.526923076923077,1
+ULB Unicorn_5_view_3_1.png,2.3801020408163263,0
+longdress_5_view_2_1.png,3.40625,0
+Romanoillamp_14_view_6_1.png,8.25,2
+longdress_6_view_11_1.png,9.682692307692308,1
+loot_4_view_1_1.png,6.67984693877551,0
+hhi_6_view_3_1.png,9.796875,1
+Romanoillamp_4_view_5_1.png,7.691326530612245,0
+loot_3_view_6_1.png,5.208333333333333,0
+loot_1_view_9_1.png,7.0859375,0
+hhi_11_view_12_1.png,5.0211538461538465,1
+redandblack_10_view_9_1.png,5.515625,1
+statue_17_view_8_1.png,1.1875,2
+ULB Unicorn_6_view_11_1.png,7.688461538461539,1
+loot_6_view_12_1.png,9.65,1
+statue_30_view_10_1.png,6.795918367346938,3
+ULB Unicorn_30_view_1_1.png,7.767857142857143,3
+longdress_34_view_11_1.png,1.9872448979591835,3
+Romanoillamp_16_view_11_1.png,5.125,2
+hhi_1_view_3_1.png,7.7109375,0
+soldier_33_view_11_1.png,2.2807692307692307,3
+hhi_17_view_2_1.png,1.7857142857142858,2
+longdress_33_view_8_1.png,2.515625,3
+loot_30_view_2_1.png,7.341666666666667,3
+loot_33_view_6_1.png,2.825,3
+shiva_13_view_4_1.png,6.816666666666666,2
+loot_0_view_9_1.png,6.996153846153846,0
+ULB Unicorn_0_view_6_1.png,8.220663265306124,0
+ULB Unicorn_8_view_1_1.png,6.553571428571429,1
+longdress_7_view_9_1.png,7.526923076923077,1
+soldier_34_view_1_1.png,1.8671875,3
+soldier_0_view_6_1.png,8.3203125,0
+shiva_5_view_9_1.png,3.2627551020408165,0
+ULB Unicorn_2_view_6_1.png,6.975,0
+shiva_1_view_4_1.png,7.834615384615384,0
+statue_10_view_4_1.png,6.588461538461539,1
+hhi_17_view_9_1.png,1.7857142857142858,2
+shiva_35_view_8_1.png,1.6007653061224494,3
+statue_6_view_7_1.png,7.40625,1
+statue_16_view_1_1.png,3.4921875,2
+longdress_2_view_6_1.png,6.3046875,0
+hhi_30_view_6_1.png,9.464285714285714,3
+hhi_6_view_4_1.png,9.796875,1
+Romanoillamp_33_view_1_1.png,3.9362244897959187,3
+statue_4_view_11_1.png,3.015625,0
+loot_7_view_11_1.png,7.316666666666666,1
+soldier_16_view_5_1.png,4.1171875,2
+shiva_7_view_9_1.png,6.917091836734694,1
+ULB Unicorn_35_view_5_1.png,1.2999999999999998,3
+ULB Unicorn_6_view_12_1.png,7.688461538461539,1
+statue_17_view_2_1.png,1.1875,2
+Romanoillamp_12_view_8_1.png,7.941666666666666,2
+hhi_34_view_8_1.png,1.8673076923076921,3
+hhi_32_view_1_1.png,6.836734693877552,3
+ULB Unicorn_30_view_5_1.png,7.767857142857143,3
+statue_0_view_4_1.png,6.908333333333333,0
+soldier_35_view_8_1.png,1.2346938775510208,3
+shiva_15_view_1_1.png,6.331632653061225,2
+shiva_5_view_1_1.png,3.2627551020408165,0
+longdress_4_view_11_1.png,7.11734693877551,0
+shiva_15_view_5_1.png,6.331632653061225,2
+shiva_5_view_8_1.png,3.2627551020408165,0
+redandblack_8_view_11_1.png,7.247448979591837,1
+statue_32_view_8_1.png,6.536989795918367,3
+Romanoillamp_13_view_8_1.png,8.163461538461538,2
+longdress_5_view_4_1.png,3.40625,0
+Romanoillamp_31_view_1_1.png,7.008333333333334,3
+Romanoillamp_3_view_5_1.png,8.622448979591837,0
+loot_12_view_6_1.png,8.267307692307693,2
+redandblack_33_view_5_1.png,3.394132653061224,3
+ULB Unicorn_6_view_2_1.png,7.688461538461539,1
+ULB Unicorn_4_view_8_1.png,4.963461538461539,0
+longdress_8_view_2_1.png,6.709615384615384,1
+soldier_31_view_10_1.png,7.6640625,3
+shiva_2_view_12_1.png,7.767307692307692,0
+loot_31_view_9_1.png,7.7653061224489806,3
+longdress_14_view_7_1.png,7.744897959183674,2
+redandblack_13_view_6_1.png,6.803846153846154,2
+Romanoillamp_32_view_5_1.png,6.166666666666667,3
+redandblack_4_view_8_1.png,6.286989795918367,0
+soldier_32_view_5_1.png,4.334615384615384,3
+longdress_11_view_10_1.png,4.091666666666667,1
+soldier_17_view_12_1.png,1.9346153846153844,2
+hhi_13_view_7_1.png,6.5346153846153845,2
+loot_6_view_2_1.png,9.65,1
+ULB Unicorn_35_view_10_1.png,1.2999999999999998,3
+hhi_32_view_5_1.png,6.836734693877552,3
+ULB Unicorn_15_view_6_1.png,5.525510204081633,2
+Romanoillamp_5_view_10_1.png,3.6171875,0
+ULB Unicorn_10_view_6_1.png,6.348076923076923,1
+soldier_15_view_11_1.png,5.623076923076923,2
+redandblack_5_view_1_1.png,3.7578125,0
+hhi_33_view_5_1.png,3.475,3
+redandblack_11_view_8_1.png,4.780769230769231,1
+Romanoillamp_16_view_8_1.png,5.125,2
+shiva_6_view_12_1.png,8.5,1
+soldier_7_view_5_1.png,6.950255102040816,1
+longdress_30_view_11_1.png,7.358333333333333,3
+loot_30_view_8_1.png,7.341666666666667,3
+loot_31_view_11_1.png,7.7653061224489806,3
+statue_13_view_3_1.png,6.133333333333334,2
+ULB Unicorn_16_view_9_1.png,3.5859375,2
+shiva_11_view_4_1.png,6.244897959183674,1
+statue_3_view_2_1.png,4.938775510204081,0
+soldier_13_view_2_1.png,8.5234375,2
+ULB Unicorn_33_view_4_1.png,2.609375,3
+Romanoillamp_12_view_12_1.png,7.941666666666666,2
+Romanoillamp_31_view_11_1.png,7.008333333333334,3
+Romanoillamp_34_view_11_1.png,3.7734375,3
+soldier_6_view_2_1.png,9.583333333333334,1
+statue_35_view_7_1.png,1.6900510204081638,3
+statue_13_view_4_1.png,6.133333333333334,2
+longdress_7_view_12_1.png,7.526923076923077,1
+shiva_16_view_1_1.png,5.9438775510204085,2
+statue_3_view_12_1.png,4.938775510204081,0
+loot_9_view_12_1.png,4.584615384615384,1
+ULB Unicorn_30_view_2_1.png,7.767857142857143,3
+hhi_32_view_12_1.png,6.836734693877552,3
+ULB Unicorn_32_view_6_1.png,4.590561224489796,3
+statue_9_view_6_1.png,5.899234693877552,1
+hhi_3_view_10_1.png,7.371153846153846,0
+ULB Unicorn_1_view_8_1.png,7.4057692307692315,0
+Romanoillamp_30_view_11_1.png,9.40625,3
+longdress_35_view_10_1.png,1.4489795918367352,3
+soldier_13_view_4_1.png,8.5234375,2
+statue_7_view_7_1.png,5.459183673469388,1
+shiva_32_view_12_1.png,5.75,3
+hhi_16_view_1_1.png,4.056122448979592,2
+soldier_8_view_8_1.png,5.813461538461539,1
+ULB Unicorn_2_view_2_1.png,6.975,0
+Romanoillamp_35_view_10_1.png,1.5703125,3
+Romanoillamp_16_view_7_1.png,5.125,2
+hhi_8_view_8_1.png,6.107692307692308,1
+ULB Unicorn_33_view_11_1.png,2.609375,3
+longdress_30_view_12_1.png,7.358333333333333,3
+soldier_4_view_4_1.png,5.083333333333333,0
+longdress_30_view_6_1.png,7.358333333333333,3
+loot_3_view_2_1.png,5.208333333333333,0
+hhi_30_view_8_1.png,9.464285714285714,3
+shiva_33_view_4_1.png,2.8307692307692305,3
+Romanoillamp_16_view_3_1.png,5.125,2
+redandblack_5_view_4_1.png,3.7578125,0
+redandblack_2_view_9_1.png,6.734375,0
+ULB Unicorn_1_view_10_1.png,7.4057692307692315,0
+loot_34_view_10_1.png,2.4923469387755097,3
+soldier_10_view_1_1.png,4.516666666666667,1
+soldier_7_view_6_1.png,6.950255102040816,1
+statue_35_view_1_1.png,1.6900510204081638,3
+loot_9_view_11_1.png,4.584615384615384,1
+shiva_31_view_11_1.png,6.825,3
+hhi_6_view_10_1.png,9.796875,1
+soldier_34_view_6_1.png,1.8671875,3
+Romanoillamp_3_view_12_1.png,8.622448979591837,0
+shiva_32_view_11_1.png,5.75,3
+redandblack_11_view_5_1.png,4.780769230769231,1
+longdress_0_view_10_1.png,8.501275510204081,0
+Romanoillamp_32_view_8_1.png,6.166666666666667,3
+soldier_35_view_4_1.png,1.2346938775510208,3
+longdress_2_view_11_1.png,6.3046875,0
+redandblack_15_view_8_1.png,5.1640625,2
+loot_34_view_3_1.png,2.4923469387755097,3
+ULB Unicorn_2_view_4_1.png,6.975,0
+shiva_1_view_1_1.png,7.834615384615384,0
+statue_13_view_10_1.png,6.133333333333334,2
+Romanoillamp_9_view_1_1.png,7.808333333333334,1
+soldier_32_view_8_1.png,4.334615384615384,3
+loot_15_view_5_1.png,5.78125,2
+statue_17_view_6_1.png,1.1875,2
+hhi_35_view_7_1.png,1.1953125,3
+soldier_5_view_3_1.png,3.835459183673469,0
+Romanoillamp_8_view_12_1.png,6.619897959183674,1
+statue_5_view_11_1.png,1.453125,0
+redandblack_17_view_11_1.png,2.1416666666666666,2
+shiva_4_view_3_1.png,6.6171875,0
+statue_11_view_10_1.png,5.107692307692308,1
+shiva_34_view_4_1.png,2.3201530612244903,3
+shiva_4_view_11_1.png,6.6171875,0
+shiva_30_view_6_1.png,8.8359375,3
+hhi_7_view_12_1.png,6.776923076923077,1
+ULB Unicorn_4_view_4_1.png,4.963461538461539,0
+shiva_1_view_11_1.png,7.834615384615384,0
+shiva_2_view_3_1.png,7.767307692307692,0
+ULB Unicorn_15_view_10_1.png,5.525510204081633,2
+hhi_3_view_4_1.png,7.371153846153846,0
+shiva_8_view_10_1.png,7.8442307692307685,1
+loot_11_view_1_1.png,4.0625,1
+redandblack_12_view_11_1.png,7.767307692307692,2
+soldier_10_view_5_1.png,4.516666666666667,1
+Romanoillamp_9_view_7_1.png,7.808333333333334,1
+longdress_8_view_11_1.png,6.709615384615384,1
+redandblack_33_view_4_1.png,3.394132653061224,3
+longdress_15_view_6_1.png,5.7578125,2
+redandblack_9_view_4_1.png,6.53125,1
+hhi_7_view_7_1.png,6.776923076923077,1
+loot_9_view_4_1.png,4.584615384615384,1
+shiva_17_view_12_1.png,3.4609375,2
+shiva_34_view_7_1.png,2.3201530612244903,3
+shiva_17_view_6_1.png,3.4609375,2
+loot_1_view_11_1.png,7.0859375,0
+longdress_4_view_12_1.png,7.11734693877551,0
+hhi_35_view_6_1.png,1.1953125,3
+shiva_8_view_6_1.png,7.8442307692307685,1
+soldier_11_view_10_1.png,3.9094387755102042,1
+longdress_34_view_7_1.png,1.9872448979591835,3
+longdress_14_view_11_1.png,7.744897959183674,2
+shiva_11_view_2_1.png,6.244897959183674,1
+longdress_0_view_1_1.png,8.501275510204081,0
+Romanoillamp_10_view_7_1.png,6.953125,1
+Romanoillamp_35_view_2_1.png,1.5703125,3
+Romanoillamp_34_view_1_1.png,3.7734375,3
+shiva_11_view_1_1.png,6.244897959183674,1
+soldier_13_view_10_1.png,8.5234375,2
+Romanoillamp_30_view_2_1.png,9.40625,3
+Romanoillamp_30_view_5_1.png,9.40625,3
+soldier_4_view_8_1.png,5.083333333333333,0
+Romanoillamp_11_view_4_1.png,6.2265625,1
+statue_4_view_7_1.png,3.015625,0
+soldier_6_view_3_1.png,9.583333333333334,1
+soldier_9_view_9_1.png,6.06923076923077,1
+loot_8_view_3_1.png,5.396683673469388,1
+loot_35_view_11_1.png,1.2230769230769232,3
+Romanoillamp_8_view_8_1.png,6.619897959183674,1
+redandblack_15_view_9_1.png,5.1640625,2
+soldier_5_view_1_1.png,3.835459183673469,0
+ULB Unicorn_9_view_5_1.png,6.880769230769231,1
+statue_16_view_7_1.png,3.4921875,2
+hhi_14_view_11_1.png,7.015625,2
+soldier_3_view_9_1.png,6.175000000000001,0
+Romanoillamp_15_view_10_1.png,7.5442307692307695,2
+redandblack_34_view_6_1.png,1.8666666666666667,3
+longdress_6_view_3_1.png,9.682692307692308,1
+Romanoillamp_15_view_6_1.png,7.5442307692307695,2
+hhi_10_view_12_1.png,4.808333333333334,1
+statue_14_view_5_1.png,6.05484693877551,2
+hhi_1_view_7_1.png,7.7109375,0
+redandblack_10_view_3_1.png,5.515625,1
+longdress_35_view_4_1.png,1.4489795918367352,3
+soldier_1_view_3_1.png,5.783333333333333,0
+statue_12_view_5_1.png,7.825,2
+redandblack_9_view_10_1.png,6.53125,1
+redandblack_8_view_3_1.png,7.247448979591837,1
+Romanoillamp_16_view_5_1.png,5.125,2
+soldier_7_view_1_1.png,6.950255102040816,1
+longdress_10_view_2_1.png,4.90625,1
+shiva_34_view_9_1.png,2.3201530612244903,3
+Romanoillamp_14_view_12_1.png,8.25,2
+soldier_15_view_10_1.png,5.623076923076923,2
+Romanoillamp_15_view_8_1.png,7.5442307692307695,2
+longdress_32_view_3_1.png,4.55,3
+redandblack_10_view_12_1.png,5.515625,1
+longdress_31_view_9_1.png,6.985969387755103,3
+soldier_15_view_3_1.png,5.623076923076923,2
+hhi_16_view_11_1.png,4.056122448979592,2
+hhi_32_view_11_1.png,6.836734693877552,3
+ULB Unicorn_15_view_7_1.png,5.525510204081633,2
+ULB Unicorn_16_view_2_1.png,3.5859375,2
+statue_4_view_10_1.png,3.015625,0
+longdress_16_view_2_1.png,4.421875,2
+loot_5_view_4_1.png,2.7083333333333335,0
+redandblack_17_view_9_1.png,2.1416666666666666,2
+loot_35_view_6_1.png,1.2230769230769232,3
+hhi_30_view_9_1.png,9.464285714285714,3
+shiva_33_view_1_1.png,2.8307692307692305,3
+Romanoillamp_15_view_4_1.png,7.5442307692307695,2
+Romanoillamp_33_view_2_1.png,3.9362244897959187,3
+statue_32_view_10_1.png,6.536989795918367,3
+ULB Unicorn_11_view_1_1.png,5.9453125,1
+hhi_35_view_12_1.png,1.1953125,3
+redandblack_5_view_5_1.png,3.7578125,0
+hhi_30_view_10_1.png,9.464285714285714,3
+ULB Unicorn_31_view_4_1.png,7.155612244897959,3
+hhi_17_view_3_1.png,1.7857142857142858,2
+Romanoillamp_31_view_3_1.png,7.008333333333334,3
+loot_7_view_9_1.png,7.316666666666666,1
+loot_8_view_8_1.png,5.396683673469388,1
+ULB Unicorn_30_view_8_1.png,7.767857142857143,3
+hhi_17_view_7_1.png,1.7857142857142858,2
+redandblack_32_view_11_1.png,5.9609375,3
+ULB Unicorn_34_view_4_1.png,1.8576923076923075,3
+Romanoillamp_3_view_3_1.png,8.622448979591837,0
+statue_9_view_10_1.png,5.899234693877552,1
+loot_2_view_7_1.png,5.383333333333334,0
+ULB Unicorn_30_view_7_1.png,7.767857142857143,3
+ULB Unicorn_13_view_6_1.png,5.857692307692308,2
+longdress_34_view_9_1.png,1.9872448979591835,3
+shiva_11_view_7_1.png,6.244897959183674,1
+statue_13_view_8_1.png,6.133333333333334,2
+shiva_8_view_5_1.png,7.8442307692307685,1
+longdress_4_view_5_1.png,7.11734693877551,0
+Romanoillamp_33_view_4_1.png,3.9362244897959187,3
+hhi_33_view_6_1.png,3.475,3
+longdress_0_view_11_1.png,8.501275510204081,0
+soldier_14_view_9_1.png,7.688775510204081,2
+longdress_30_view_3_1.png,7.358333333333333,3
+longdress_16_view_4_1.png,4.421875,2
+statue_10_view_2_1.png,6.588461538461539,1
+longdress_2_view_7_1.png,6.3046875,0
+redandblack_32_view_3_1.png,5.9609375,3
+ULB Unicorn_8_view_6_1.png,6.553571428571429,1
+longdress_9_view_6_1.png,4.9272959183673475,1
+soldier_9_view_3_1.png,6.06923076923077,1
+longdress_15_view_12_1.png,5.7578125,2
+Romanoillamp_30_view_10_1.png,9.40625,3
+Romanoillamp_9_view_10_1.png,7.808333333333334,1
+ULB Unicorn_10_view_2_1.png,6.348076923076923,1
+loot_5_view_9_1.png,2.7083333333333335,0
+longdress_5_view_6_1.png,3.40625,0
+redandblack_16_view_2_1.png,3.7096153846153848,2
+loot_10_view_10_1.png,4.230867346938775,1
+longdress_9_view_7_1.png,4.9272959183673475,1
+redandblack_33_view_7_1.png,3.394132653061224,3
+redandblack_11_view_3_1.png,4.780769230769231,1
+shiva_3_view_7_1.png,5.991666666666666,0
+longdress_6_view_12_1.png,9.682692307692308,1
+longdress_16_view_10_1.png,4.421875,2
+statue_34_view_3_1.png,1.625,3
+shiva_13_view_5_1.png,6.816666666666666,2
+soldier_16_view_1_1.png,4.1171875,2
+shiva_35_view_12_1.png,1.6007653061224494,3
+loot_5_view_3_1.png,2.7083333333333335,0
+loot_14_view_10_1.png,7.676020408163266,2
+longdress_31_view_8_1.png,6.985969387755103,3
+loot_12_view_2_1.png,8.267307692307693,2
+loot_8_view_6_1.png,5.396683673469388,1
+ULB Unicorn_17_view_12_1.png,1.848076923076923,2
+statue_0_view_7_1.png,6.908333333333333,0
+shiva_1_view_7_1.png,7.834615384615384,0
+shiva_32_view_1_1.png,5.75,3
+Romanoillamp_30_view_8_1.png,9.40625,3
+redandblack_13_view_1_1.png,6.803846153846154,2
+longdress_7_view_2_1.png,7.526923076923077,1
+statue_3_view_11_1.png,4.938775510204081,0
+shiva_13_view_8_1.png,6.816666666666666,2
+ULB Unicorn_6_view_5_1.png,7.688461538461539,1
+shiva_32_view_3_1.png,5.75,3
+longdress_31_view_11_1.png,6.985969387755103,3
+Romanoillamp_5_view_6_1.png,3.6171875,0
+shiva_1_view_9_1.png,7.834615384615384,0
+hhi_5_view_11_1.png,1.953125,0
+ULB Unicorn_5_view_6_1.png,2.3801020408163263,0
+soldier_34_view_9_1.png,1.8671875,3
+redandblack_35_view_10_1.png,1.848076923076923,3
+ULB Unicorn_5_view_9_1.png,2.3801020408163263,0
+redandblack_10_view_4_1.png,5.515625,1
+hhi_10_view_4_1.png,4.808333333333334,1
+redandblack_17_view_7_1.png,2.1416666666666666,2
+soldier_30_view_7_1.png,7.825,3
+redandblack_11_view_10_1.png,4.780769230769231,1
+soldier_7_view_10_1.png,6.950255102040816,1
+Romanoillamp_6_view_10_1.png,8.771683673469388,1
+Romanoillamp_31_view_7_1.png,7.008333333333334,3
+hhi_7_view_9_1.png,6.776923076923077,1
+redandblack_3_view_12_1.png,4.9,0
+shiva_4_view_10_1.png,6.6171875,0
+statue_4_view_3_1.png,3.015625,0
+redandblack_32_view_9_1.png,5.9609375,3
+shiva_10_view_1_1.png,6.7846153846153845,1
+Romanoillamp_10_view_4_1.png,6.953125,1
+ULB Unicorn_9_view_2_1.png,6.880769230769231,1
+hhi_3_view_12_1.png,7.371153846153846,0
+redandblack_35_view_5_1.png,1.848076923076923,3
+hhi_0_view_11_1.png,9.516666666666667,0
+shiva_35_view_6_1.png,1.6007653061224494,3
+redandblack_12_view_1_1.png,7.767307692307692,2
+hhi_2_view_6_1.png,8.9453125,0
+Romanoillamp_31_view_9_1.png,7.008333333333334,3
+statue_31_view_3_1.png,6.525,3
+ULB Unicorn_34_view_2_1.png,1.8576923076923075,3
+statue_35_view_3_1.png,1.6900510204081638,3
+statue_6_view_11_1.png,7.40625,1
+loot_14_view_12_1.png,7.676020408163266,2
+shiva_8_view_11_1.png,7.8442307692307685,1
+Romanoillamp_17_view_8_1.png,2.723076923076923,2
+loot_17_view_10_1.png,1.85,2
+soldier_16_view_3_1.png,4.1171875,2
+loot_31_view_2_1.png,7.7653061224489806,3
+soldier_8_view_2_1.png,5.813461538461539,1
+soldier_31_view_6_1.png,7.6640625,3
+Romanoillamp_7_view_5_1.png,7.5688775510204085,1
+loot_4_view_3_1.png,6.67984693877551,0
+Romanoillamp_35_view_8_1.png,1.5703125,3
+soldier_13_view_1_1.png,8.5234375,2
+soldier_34_view_3_1.png,1.8671875,3
+hhi_1_view_9_1.png,7.7109375,0
+redandblack_35_view_8_1.png,1.848076923076923,3
+Romanoillamp_5_view_2_1.png,3.6171875,0
+redandblack_31_view_8_1.png,6.441666666666666,3
+ULB Unicorn_15_view_2_1.png,5.525510204081633,2
+shiva_30_view_4_1.png,8.8359375,3
+redandblack_13_view_4_1.png,6.803846153846154,2
+redandblack_33_view_12_1.png,3.394132653061224,3
+Romanoillamp_8_view_5_1.png,6.619897959183674,1
+Romanoillamp_15_view_1_1.png,7.5442307692307695,2
+hhi_6_view_9_1.png,9.796875,1
+loot_10_view_1_1.png,4.230867346938775,1
+loot_0_view_1_1.png,6.996153846153846,0
+statue_16_view_3_1.png,3.4921875,2
+ULB Unicorn_34_view_6_1.png,1.8576923076923075,3
+redandblack_6_view_6_1.png,9.392857142857142,1
+soldier_1_view_9_1.png,5.783333333333333,0
+Romanoillamp_9_view_2_1.png,7.808333333333334,1
+redandblack_16_view_6_1.png,3.7096153846153848,2
+soldier_8_view_3_1.png,5.813461538461539,1
+Romanoillamp_7_view_8_1.png,7.5688775510204085,1
+statue_7_view_8_1.png,5.459183673469388,1
+soldier_2_view_5_1.png,5.832692307692308,0
+longdress_14_view_4_1.png,7.744897959183674,2
+Romanoillamp_1_view_11_1.png,9.321428571428571,0
+ULB Unicorn_9_view_9_1.png,6.880769230769231,1
+shiva_10_view_6_1.png,6.7846153846153845,1
+Romanoillamp_8_view_1_1.png,6.619897959183674,1
+ULB Unicorn_7_view_10_1.png,8.3671875,1
+statue_15_view_4_1.png,3.965384615384615,2
+hhi_34_view_7_1.png,1.8673076923076921,3
+longdress_30_view_5_1.png,7.358333333333333,3
+redandblack_16_view_7_1.png,3.7096153846153848,2
+soldier_1_view_1_1.png,5.783333333333333,0
+loot_15_view_7_1.png,5.78125,2
+Romanoillamp_4_view_3_1.png,7.691326530612245,0
+redandblack_15_view_1_1.png,5.1640625,2
+statue_10_view_7_1.png,6.588461538461539,1
+hhi_11_view_8_1.png,5.0211538461538465,1
+ULB Unicorn_33_view_2_1.png,2.609375,3
+Romanoillamp_6_view_5_1.png,8.771683673469388,1
+soldier_9_view_8_1.png,6.06923076923077,1
+statue_5_view_1_1.png,1.453125,0
+ULB Unicorn_0_view_2_1.png,8.220663265306124,0
+ULB Unicorn_4_view_6_1.png,4.963461538461539,0
+hhi_2_view_3_1.png,8.9453125,0
+hhi_15_view_3_1.png,4.9296875,2
+Romanoillamp_33_view_12_1.png,3.9362244897959187,3
+loot_32_view_3_1.png,4.775,3

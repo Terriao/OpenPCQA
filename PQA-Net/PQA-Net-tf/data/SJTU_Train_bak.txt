@@ -1,0 +1,2016 @@
+redandblack_0_view_1_1.png,8.167091836734695,0
+redandblack_0_view_2_1.png,8.167091836734695,0
+redandblack_0_view_3_1.png,8.167091836734695,0
+redandblack_0_view_4_1.png,8.167091836734695,0
+redandblack_0_view_5_1.png,8.167091836734695,0
+redandblack_0_view_6_1.png,8.167091836734695,0
+redandblack_0_view_7_1.png,8.167091836734695,0
+redandblack_0_view_8_1.png,8.167091836734695,0
+redandblack_0_view_9_1.png,8.167091836734695,0
+redandblack_0_view_10_1.png,8.167091836734695,0
+redandblack_0_view_11_1.png,8.167091836734695,0
+redandblack_0_view_12_1.png,8.167091836734695,0
+redandblack_1_view_1_1.png,6.45,0
+redandblack_1_view_2_1.png,6.45,0
+redandblack_1_view_3_1.png,6.45,0
+redandblack_1_view_4_1.png,6.45,0
+redandblack_1_view_5_1.png,6.45,0
+redandblack_1_view_6_1.png,6.45,0
+redandblack_1_view_7_1.png,6.45,0
+redandblack_1_view_8_1.png,6.45,0
+redandblack_1_view_9_1.png,6.45,0
+redandblack_1_view_10_1.png,6.45,0
+redandblack_1_view_11_1.png,6.45,0
+redandblack_1_view_12_1.png,6.45,0
+redandblack_10_view_1_1.png,5.515625,1
+redandblack_10_view_2_1.png,5.515625,1
+redandblack_10_view_3_1.png,5.515625,1
+redandblack_10_view_4_1.png,5.515625,1
+redandblack_10_view_5_1.png,5.515625,1
+redandblack_10_view_6_1.png,5.515625,1
+redandblack_10_view_7_1.png,5.515625,1
+redandblack_10_view_8_1.png,5.515625,1
+redandblack_10_view_9_1.png,5.515625,1
+redandblack_10_view_10_1.png,5.515625,1
+redandblack_10_view_11_1.png,5.515625,1
+redandblack_10_view_12_1.png,5.515625,1
+redandblack_11_view_1_1.png,4.780769230769231,1
+redandblack_11_view_2_1.png,4.780769230769231,1
+redandblack_11_view_3_1.png,4.780769230769231,1
+redandblack_11_view_4_1.png,4.780769230769231,1
+redandblack_11_view_5_1.png,4.780769230769231,1
+redandblack_11_view_6_1.png,4.780769230769231,1
+redandblack_11_view_7_1.png,4.780769230769231,1
+redandblack_11_view_8_1.png,4.780769230769231,1
+redandblack_11_view_9_1.png,4.780769230769231,1
+redandblack_11_view_10_1.png,4.780769230769231,1
+redandblack_11_view_11_1.png,4.780769230769231,1
+redandblack_11_view_12_1.png,4.780769230769231,1
+redandblack_12_view_1_1.png,7.767307692307692,2
+redandblack_12_view_2_1.png,7.767307692307692,2
+redandblack_12_view_3_1.png,7.767307692307692,2
+redandblack_12_view_4_1.png,7.767307692307692,2
+redandblack_12_view_5_1.png,7.767307692307692,2
+redandblack_12_view_6_1.png,7.767307692307692,2
+redandblack_12_view_7_1.png,7.767307692307692,2
+redandblack_12_view_8_1.png,7.767307692307692,2
+redandblack_12_view_9_1.png,7.767307692307692,2
+redandblack_12_view_10_1.png,7.767307692307692,2
+redandblack_12_view_11_1.png,7.767307692307692,2
+redandblack_12_view_12_1.png,7.767307692307692,2
+redandblack_13_view_1_1.png,6.803846153846154,2
+redandblack_13_view_2_1.png,6.803846153846154,2
+redandblack_13_view_3_1.png,6.803846153846154,2
+redandblack_13_view_4_1.png,6.803846153846154,2
+redandblack_13_view_5_1.png,6.803846153846154,2
+redandblack_13_view_6_1.png,6.803846153846154,2
+redandblack_13_view_7_1.png,6.803846153846154,2
+redandblack_13_view_8_1.png,6.803846153846154,2
+redandblack_13_view_9_1.png,6.803846153846154,2
+redandblack_13_view_10_1.png,6.803846153846154,2
+redandblack_13_view_11_1.png,6.803846153846154,2
+redandblack_13_view_12_1.png,6.803846153846154,2
+redandblack_14_view_1_1.png,6.65,2
+redandblack_14_view_2_1.png,6.65,2
+redandblack_14_view_3_1.png,6.65,2
+redandblack_14_view_4_1.png,6.65,2
+redandblack_14_view_5_1.png,6.65,2
+redandblack_14_view_6_1.png,6.65,2
+redandblack_14_view_7_1.png,6.65,2
+redandblack_14_view_8_1.png,6.65,2
+redandblack_14_view_9_1.png,6.65,2
+redandblack_14_view_10_1.png,6.65,2
+redandblack_14_view_11_1.png,6.65,2
+redandblack_14_view_12_1.png,6.65,2
+redandblack_15_view_1_1.png,5.1640625,2
+redandblack_15_view_2_1.png,5.1640625,2
+redandblack_15_view_3_1.png,5.1640625,2
+redandblack_15_view_4_1.png,5.1640625,2
+redandblack_15_view_5_1.png,5.1640625,2
+redandblack_15_view_6_1.png,5.1640625,2
+redandblack_15_view_7_1.png,5.1640625,2
+redandblack_15_view_8_1.png,5.1640625,2
+redandblack_15_view_9_1.png,5.1640625,2
+redandblack_15_view_10_1.png,5.1640625,2
+redandblack_15_view_11_1.png,5.1640625,2
+redandblack_15_view_12_1.png,5.1640625,2
+redandblack_16_view_1_1.png,3.7096153846153848,2
+redandblack_16_view_2_1.png,3.7096153846153848,2
+redandblack_16_view_3_1.png,3.7096153846153848,2
+redandblack_16_view_4_1.png,3.7096153846153848,2
+redandblack_16_view_5_1.png,3.7096153846153848,2
+redandblack_16_view_6_1.png,3.7096153846153848,2
+redandblack_16_view_7_1.png,3.7096153846153848,2
+redandblack_16_view_8_1.png,3.7096153846153848,2
+redandblack_16_view_9_1.png,3.7096153846153848,2
+redandblack_16_view_10_1.png,3.7096153846153848,2
+redandblack_16_view_11_1.png,3.7096153846153848,2
+redandblack_16_view_12_1.png,3.7096153846153848,2
+redandblack_17_view_1_1.png,2.1416666666666666,2
+redandblack_17_view_2_1.png,2.1416666666666666,2
+redandblack_17_view_3_1.png,2.1416666666666666,2
+redandblack_17_view_4_1.png,2.1416666666666666,2
+redandblack_17_view_5_1.png,2.1416666666666666,2
+redandblack_17_view_6_1.png,2.1416666666666666,2
+redandblack_17_view_7_1.png,2.1416666666666666,2
+redandblack_17_view_8_1.png,2.1416666666666666,2
+redandblack_17_view_9_1.png,2.1416666666666666,2
+redandblack_17_view_10_1.png,2.1416666666666666,2
+redandblack_17_view_11_1.png,2.1416666666666666,2
+redandblack_17_view_12_1.png,2.1416666666666666,2
+redandblack_2_view_1_1.png,6.734375,0
+redandblack_2_view_2_1.png,6.734375,0
+redandblack_2_view_3_1.png,6.734375,0
+redandblack_2_view_4_1.png,6.734375,0
+redandblack_2_view_5_1.png,6.734375,0
+redandblack_2_view_6_1.png,6.734375,0
+redandblack_2_view_7_1.png,6.734375,0
+redandblack_2_view_8_1.png,6.734375,0
+redandblack_2_view_9_1.png,6.734375,0
+redandblack_2_view_10_1.png,6.734375,0
+redandblack_2_view_11_1.png,6.734375,0
+redandblack_2_view_12_1.png,6.734375,0
+redandblack_3_view_1_1.png,4.9,0
+redandblack_3_view_2_1.png,4.9,0
+redandblack_3_view_3_1.png,4.9,0
+redandblack_3_view_4_1.png,4.9,0
+redandblack_3_view_5_1.png,4.9,0
+redandblack_3_view_6_1.png,4.9,0
+redandblack_3_view_7_1.png,4.9,0
+redandblack_3_view_8_1.png,4.9,0
+redandblack_3_view_9_1.png,4.9,0
+redandblack_3_view_10_1.png,4.9,0
+redandblack_3_view_11_1.png,4.9,0
+redandblack_3_view_12_1.png,4.9,0
+redandblack_30_view_1_1.png,8.125,3
+redandblack_30_view_2_1.png,8.125,3
+redandblack_30_view_3_1.png,8.125,3
+redandblack_30_view_4_1.png,8.125,3
+redandblack_30_view_5_1.png,8.125,3
+redandblack_30_view_6_1.png,8.125,3
+redandblack_30_view_7_1.png,8.125,3
+redandblack_30_view_8_1.png,8.125,3
+redandblack_30_view_9_1.png,8.125,3
+redandblack_30_view_10_1.png,8.125,3
+redandblack_30_view_11_1.png,8.125,3
+redandblack_30_view_12_1.png,8.125,3
+redandblack_31_view_1_1.png,6.441666666666666,3
+redandblack_31_view_2_1.png,6.441666666666666,3
+redandblack_31_view_3_1.png,6.441666666666666,3
+redandblack_31_view_4_1.png,6.441666666666666,3
+redandblack_31_view_5_1.png,6.441666666666666,3
+redandblack_31_view_6_1.png,6.441666666666666,3
+redandblack_31_view_7_1.png,6.441666666666666,3
+redandblack_31_view_8_1.png,6.441666666666666,3
+redandblack_31_view_9_1.png,6.441666666666666,3
+redandblack_31_view_10_1.png,6.441666666666666,3
+redandblack_31_view_11_1.png,6.441666666666666,3
+redandblack_31_view_12_1.png,6.441666666666666,3
+redandblack_32_view_1_1.png,5.9609375,3
+redandblack_32_view_2_1.png,5.9609375,3
+redandblack_32_view_3_1.png,5.9609375,3
+redandblack_32_view_4_1.png,5.9609375,3
+redandblack_32_view_5_1.png,5.9609375,3
+redandblack_32_view_6_1.png,5.9609375,3
+redandblack_32_view_7_1.png,5.9609375,3
+redandblack_32_view_8_1.png,5.9609375,3
+redandblack_32_view_9_1.png,5.9609375,3
+redandblack_32_view_10_1.png,5.9609375,3
+redandblack_32_view_11_1.png,5.9609375,3
+redandblack_32_view_12_1.png,5.9609375,3
+redandblack_33_view_1_1.png,3.394132653061224,3
+redandblack_33_view_2_1.png,3.394132653061224,3
+redandblack_33_view_3_1.png,3.394132653061224,3
+redandblack_33_view_4_1.png,3.394132653061224,3
+redandblack_33_view_5_1.png,3.394132653061224,3
+redandblack_33_view_6_1.png,3.394132653061224,3
+redandblack_33_view_7_1.png,3.394132653061224,3
+redandblack_33_view_8_1.png,3.394132653061224,3
+redandblack_33_view_9_1.png,3.394132653061224,3
+redandblack_33_view_10_1.png,3.394132653061224,3
+redandblack_33_view_11_1.png,3.394132653061224,3
+redandblack_33_view_12_1.png,3.394132653061224,3
+redandblack_34_view_1_1.png,1.8666666666666667,3
+redandblack_34_view_2_1.png,1.8666666666666667,3
+redandblack_34_view_3_1.png,1.8666666666666667,3
+redandblack_34_view_4_1.png,1.8666666666666667,3
+redandblack_34_view_5_1.png,1.8666666666666667,3
+redandblack_34_view_6_1.png,1.8666666666666667,3
+redandblack_34_view_7_1.png,1.8666666666666667,3
+redandblack_34_view_8_1.png,1.8666666666666667,3
+redandblack_34_view_9_1.png,1.8666666666666667,3
+redandblack_34_view_10_1.png,1.8666666666666667,3
+redandblack_34_view_11_1.png,1.8666666666666667,3
+redandblack_34_view_12_1.png,1.8666666666666667,3
+redandblack_35_view_1_1.png,1.848076923076923,3
+redandblack_35_view_2_1.png,1.848076923076923,3
+redandblack_35_view_3_1.png,1.848076923076923,3
+redandblack_35_view_4_1.png,1.848076923076923,3
+redandblack_35_view_5_1.png,1.848076923076923,3
+redandblack_35_view_6_1.png,1.848076923076923,3
+redandblack_35_view_7_1.png,1.848076923076923,3
+redandblack_35_view_8_1.png,1.848076923076923,3
+redandblack_35_view_9_1.png,1.848076923076923,3
+redandblack_35_view_10_1.png,1.848076923076923,3
+redandblack_35_view_11_1.png,1.848076923076923,3
+redandblack_35_view_12_1.png,1.848076923076923,3
+redandblack_4_view_1_1.png,6.286989795918367,0
+redandblack_4_view_2_1.png,6.286989795918367,0
+redandblack_4_view_3_1.png,6.286989795918367,0
+redandblack_4_view_4_1.png,6.286989795918367,0
+redandblack_4_view_5_1.png,6.286989795918367,0
+redandblack_4_view_6_1.png,6.286989795918367,0
+redandblack_4_view_7_1.png,6.286989795918367,0
+redandblack_4_view_8_1.png,6.286989795918367,0
+redandblack_4_view_9_1.png,6.286989795918367,0
+redandblack_4_view_10_1.png,6.286989795918367,0
+redandblack_4_view_11_1.png,6.286989795918367,0
+redandblack_4_view_12_1.png,6.286989795918367,0
+redandblack_5_view_1_1.png,3.7578125,0
+redandblack_5_view_2_1.png,3.7578125,0
+redandblack_5_view_3_1.png,3.7578125,0
+redandblack_5_view_4_1.png,3.7578125,0
+redandblack_5_view_5_1.png,3.7578125,0
+redandblack_5_view_6_1.png,3.7578125,0
+redandblack_5_view_7_1.png,3.7578125,0
+redandblack_5_view_8_1.png,3.7578125,0
+redandblack_5_view_9_1.png,3.7578125,0
+redandblack_5_view_10_1.png,3.7578125,0
+redandblack_5_view_11_1.png,3.7578125,0
+redandblack_5_view_12_1.png,3.7578125,0
+redandblack_6_view_1_1.png,9.392857142857142,1
+redandblack_6_view_2_1.png,9.392857142857142,1
+redandblack_6_view_3_1.png,9.392857142857142,1
+redandblack_6_view_4_1.png,9.392857142857142,1
+redandblack_6_view_5_1.png,9.392857142857142,1
+redandblack_6_view_6_1.png,9.392857142857142,1
+redandblack_6_view_7_1.png,9.392857142857142,1
+redandblack_6_view_8_1.png,9.392857142857142,1
+redandblack_6_view_9_1.png,9.392857142857142,1
+redandblack_6_view_10_1.png,9.392857142857142,1
+redandblack_6_view_11_1.png,9.392857142857142,1
+redandblack_6_view_12_1.png,9.392857142857142,1
+redandblack_7_view_1_1.png,7.608333333333333,1
+redandblack_7_view_2_1.png,7.608333333333333,1
+redandblack_7_view_3_1.png,7.608333333333333,1
+redandblack_7_view_4_1.png,7.608333333333333,1
+redandblack_7_view_5_1.png,7.608333333333333,1
+redandblack_7_view_6_1.png,7.608333333333333,1
+redandblack_7_view_7_1.png,7.608333333333333,1
+redandblack_7_view_8_1.png,7.608333333333333,1
+redandblack_7_view_9_1.png,7.608333333333333,1
+redandblack_7_view_10_1.png,7.608333333333333,1
+redandblack_7_view_11_1.png,7.608333333333333,1
+redandblack_7_view_12_1.png,7.608333333333333,1
+redandblack_8_view_1_1.png,7.247448979591837,1
+redandblack_8_view_2_1.png,7.247448979591837,1
+redandblack_8_view_3_1.png,7.247448979591837,1
+redandblack_8_view_4_1.png,7.247448979591837,1
+redandblack_8_view_5_1.png,7.247448979591837,1
+redandblack_8_view_6_1.png,7.247448979591837,1
+redandblack_8_view_7_1.png,7.247448979591837,1
+redandblack_8_view_8_1.png,7.247448979591837,1
+redandblack_8_view_9_1.png,7.247448979591837,1
+redandblack_8_view_10_1.png,7.247448979591837,1
+redandblack_8_view_11_1.png,7.247448979591837,1
+redandblack_8_view_12_1.png,7.247448979591837,1
+redandblack_9_view_1_1.png,6.53125,1
+redandblack_9_view_2_1.png,6.53125,1
+redandblack_9_view_3_1.png,6.53125,1
+redandblack_9_view_4_1.png,6.53125,1
+redandblack_9_view_5_1.png,6.53125,1
+redandblack_9_view_6_1.png,6.53125,1
+redandblack_9_view_7_1.png,6.53125,1
+redandblack_9_view_8_1.png,6.53125,1
+redandblack_9_view_9_1.png,6.53125,1
+redandblack_9_view_10_1.png,6.53125,1
+redandblack_9_view_11_1.png,6.53125,1
+redandblack_9_view_12_1.png,6.53125,1
+ULB Unicorn_0_view_1_1.png,8.220663265306124,0
+ULB Unicorn_0_view_2_1.png,8.220663265306124,0
+ULB Unicorn_0_view_3_1.png,8.220663265306124,0
+ULB Unicorn_0_view_4_1.png,8.220663265306124,0
+ULB Unicorn_0_view_5_1.png,8.220663265306124,0
+ULB Unicorn_0_view_6_1.png,8.220663265306124,0
+ULB Unicorn_0_view_7_1.png,8.220663265306124,0
+ULB Unicorn_0_view_8_1.png,8.220663265306124,0
+ULB Unicorn_0_view_9_1.png,8.220663265306124,0
+ULB Unicorn_0_view_10_1.png,8.220663265306124,0
+ULB Unicorn_0_view_11_1.png,8.220663265306124,0
+ULB Unicorn_0_view_12_1.png,8.220663265306124,0
+ULB Unicorn_1_view_1_1.png,7.4057692307692315,0
+ULB Unicorn_1_view_2_1.png,7.4057692307692315,0
+ULB Unicorn_1_view_3_1.png,7.4057692307692315,0
+ULB Unicorn_1_view_4_1.png,7.4057692307692315,0
+ULB Unicorn_1_view_5_1.png,7.4057692307692315,0
+ULB Unicorn_1_view_6_1.png,7.4057692307692315,0
+ULB Unicorn_1_view_7_1.png,7.4057692307692315,0
+ULB Unicorn_1_view_8_1.png,7.4057692307692315,0
+ULB Unicorn_1_view_9_1.png,7.4057692307692315,0
+ULB Unicorn_1_view_10_1.png,7.4057692307692315,0
+ULB Unicorn_1_view_11_1.png,7.4057692307692315,0
+ULB Unicorn_1_view_12_1.png,7.4057692307692315,0
+ULB Unicorn_10_view_1_1.png,6.348076923076923,1
+ULB Unicorn_10_view_2_1.png,6.348076923076923,1
+ULB Unicorn_10_view_3_1.png,6.348076923076923,1
+ULB Unicorn_10_view_4_1.png,6.348076923076923,1
+ULB Unicorn_10_view_5_1.png,6.348076923076923,1
+ULB Unicorn_10_view_6_1.png,6.348076923076923,1
+ULB Unicorn_10_view_7_1.png,6.348076923076923,1
+ULB Unicorn_10_view_8_1.png,6.348076923076923,1
+ULB Unicorn_10_view_9_1.png,6.348076923076923,1
+ULB Unicorn_10_view_10_1.png,6.348076923076923,1
+ULB Unicorn_10_view_11_1.png,6.348076923076923,1
+ULB Unicorn_10_view_12_1.png,6.348076923076923,1
+ULB Unicorn_11_view_1_1.png,5.9453125,1
+ULB Unicorn_11_view_2_1.png,5.9453125,1
+ULB Unicorn_11_view_3_1.png,5.9453125,1
+ULB Unicorn_11_view_4_1.png,5.9453125,1
+ULB Unicorn_11_view_5_1.png,5.9453125,1
+ULB Unicorn_11_view_6_1.png,5.9453125,1
+ULB Unicorn_11_view_7_1.png,5.9453125,1
+ULB Unicorn_11_view_8_1.png,5.9453125,1
+ULB Unicorn_11_view_9_1.png,5.9453125,1
+ULB Unicorn_11_view_10_1.png,5.9453125,1
+ULB Unicorn_11_view_11_1.png,5.9453125,1
+ULB Unicorn_11_view_12_1.png,5.9453125,1
+ULB Unicorn_12_view_1_1.png,7.3520408163265305,2
+ULB Unicorn_12_view_2_1.png,7.3520408163265305,2
+ULB Unicorn_12_view_3_1.png,7.3520408163265305,2
+ULB Unicorn_12_view_4_1.png,7.3520408163265305,2
+ULB Unicorn_12_view_5_1.png,7.3520408163265305,2
+ULB Unicorn_12_view_6_1.png,7.3520408163265305,2
+ULB Unicorn_12_view_7_1.png,7.3520408163265305,2
+ULB Unicorn_12_view_8_1.png,7.3520408163265305,2
+ULB Unicorn_12_view_9_1.png,7.3520408163265305,2
+ULB Unicorn_12_view_10_1.png,7.3520408163265305,2
+ULB Unicorn_12_view_11_1.png,7.3520408163265305,2
+ULB Unicorn_12_view_12_1.png,7.3520408163265305,2
+ULB Unicorn_13_view_1_1.png,5.857692307692308,2
+ULB Unicorn_13_view_2_1.png,5.857692307692308,2
+ULB Unicorn_13_view_3_1.png,5.857692307692308,2
+ULB Unicorn_13_view_4_1.png,5.857692307692308,2
+ULB Unicorn_13_view_5_1.png,5.857692307692308,2
+ULB Unicorn_13_view_6_1.png,5.857692307692308,2
+ULB Unicorn_13_view_7_1.png,5.857692307692308,2
+ULB Unicorn_13_view_8_1.png,5.857692307692308,2
+ULB Unicorn_13_view_9_1.png,5.857692307692308,2
+ULB Unicorn_13_view_10_1.png,5.857692307692308,2
+ULB Unicorn_13_view_11_1.png,5.857692307692308,2
+ULB Unicorn_13_view_12_1.png,5.857692307692308,2
+ULB Unicorn_14_view_1_1.png,6.226923076923077,2
+ULB Unicorn_14_view_2_1.png,6.226923076923077,2
+ULB Unicorn_14_view_3_1.png,6.226923076923077,2
+ULB Unicorn_14_view_4_1.png,6.226923076923077,2
+ULB Unicorn_14_view_5_1.png,6.226923076923077,2
+ULB Unicorn_14_view_6_1.png,6.226923076923077,2
+ULB Unicorn_14_view_7_1.png,6.226923076923077,2
+ULB Unicorn_14_view_8_1.png,6.226923076923077,2
+ULB Unicorn_14_view_9_1.png,6.226923076923077,2
+ULB Unicorn_14_view_10_1.png,6.226923076923077,2
+ULB Unicorn_14_view_11_1.png,6.226923076923077,2
+ULB Unicorn_14_view_12_1.png,6.226923076923077,2
+ULB Unicorn_15_view_1_1.png,5.525510204081633,2
+ULB Unicorn_15_view_2_1.png,5.525510204081633,2
+ULB Unicorn_15_view_3_1.png,5.525510204081633,2
+ULB Unicorn_15_view_4_1.png,5.525510204081633,2
+ULB Unicorn_15_view_5_1.png,5.525510204081633,2
+ULB Unicorn_15_view_6_1.png,5.525510204081633,2
+ULB Unicorn_15_view_7_1.png,5.525510204081633,2
+ULB Unicorn_15_view_8_1.png,5.525510204081633,2
+ULB Unicorn_15_view_9_1.png,5.525510204081633,2
+ULB Unicorn_15_view_10_1.png,5.525510204081633,2
+ULB Unicorn_15_view_11_1.png,5.525510204081633,2
+ULB Unicorn_15_view_12_1.png,5.525510204081633,2
+ULB Unicorn_16_view_1_1.png,3.5859375,2
+ULB Unicorn_16_view_2_1.png,3.5859375,2
+ULB Unicorn_16_view_3_1.png,3.5859375,2
+ULB Unicorn_16_view_4_1.png,3.5859375,2
+ULB Unicorn_16_view_5_1.png,3.5859375,2
+ULB Unicorn_16_view_6_1.png,3.5859375,2
+ULB Unicorn_16_view_7_1.png,3.5859375,2
+ULB Unicorn_16_view_8_1.png,3.5859375,2
+ULB Unicorn_16_view_9_1.png,3.5859375,2
+ULB Unicorn_16_view_10_1.png,3.5859375,2
+ULB Unicorn_16_view_11_1.png,3.5859375,2
+ULB Unicorn_16_view_12_1.png,3.5859375,2
+ULB Unicorn_17_view_1_1.png,1.848076923076923,2
+ULB Unicorn_17_view_2_1.png,1.848076923076923,2
+ULB Unicorn_17_view_3_1.png,1.848076923076923,2
+ULB Unicorn_17_view_4_1.png,1.848076923076923,2
+ULB Unicorn_17_view_5_1.png,1.848076923076923,2
+ULB Unicorn_17_view_6_1.png,1.848076923076923,2
+ULB Unicorn_17_view_7_1.png,1.848076923076923,2
+ULB Unicorn_17_view_8_1.png,1.848076923076923,2
+ULB Unicorn_17_view_9_1.png,1.848076923076923,2
+ULB Unicorn_17_view_10_1.png,1.848076923076923,2
+ULB Unicorn_17_view_11_1.png,1.848076923076923,2
+ULB Unicorn_17_view_12_1.png,1.848076923076923,2
+ULB Unicorn_2_view_1_1.png,6.975,0
+ULB Unicorn_2_view_2_1.png,6.975,0
+ULB Unicorn_2_view_3_1.png,6.975,0
+ULB Unicorn_2_view_4_1.png,6.975,0
+ULB Unicorn_2_view_5_1.png,6.975,0
+ULB Unicorn_2_view_6_1.png,6.975,0
+ULB Unicorn_2_view_7_1.png,6.975,0
+ULB Unicorn_2_view_8_1.png,6.975,0
+ULB Unicorn_2_view_9_1.png,6.975,0
+ULB Unicorn_2_view_10_1.png,6.975,0
+ULB Unicorn_2_view_11_1.png,6.975,0
+ULB Unicorn_2_view_12_1.png,6.975,0
+ULB Unicorn_3_view_1_1.png,6.1015625,0
+ULB Unicorn_3_view_2_1.png,6.1015625,0
+ULB Unicorn_3_view_3_1.png,6.1015625,0
+ULB Unicorn_3_view_4_1.png,6.1015625,0
+ULB Unicorn_3_view_5_1.png,6.1015625,0
+ULB Unicorn_3_view_6_1.png,6.1015625,0
+ULB Unicorn_3_view_7_1.png,6.1015625,0
+ULB Unicorn_3_view_8_1.png,6.1015625,0
+ULB Unicorn_3_view_9_1.png,6.1015625,0
+ULB Unicorn_3_view_10_1.png,6.1015625,0
+ULB Unicorn_3_view_11_1.png,6.1015625,0
+ULB Unicorn_3_view_12_1.png,6.1015625,0
+ULB Unicorn_30_view_1_1.png,7.767857142857143,3
+ULB Unicorn_30_view_2_1.png,7.767857142857143,3
+ULB Unicorn_30_view_3_1.png,7.767857142857143,3
+ULB Unicorn_30_view_4_1.png,7.767857142857143,3
+ULB Unicorn_30_view_5_1.png,7.767857142857143,3
+ULB Unicorn_30_view_6_1.png,7.767857142857143,3
+ULB Unicorn_30_view_7_1.png,7.767857142857143,3
+ULB Unicorn_30_view_8_1.png,7.767857142857143,3
+ULB Unicorn_30_view_9_1.png,7.767857142857143,3
+ULB Unicorn_30_view_10_1.png,7.767857142857143,3
+ULB Unicorn_30_view_11_1.png,7.767857142857143,3
+ULB Unicorn_30_view_12_1.png,7.767857142857143,3
+ULB Unicorn_31_view_1_1.png,7.155612244897959,3
+ULB Unicorn_31_view_2_1.png,7.155612244897959,3
+ULB Unicorn_31_view_3_1.png,7.155612244897959,3
+ULB Unicorn_31_view_4_1.png,7.155612244897959,3
+ULB Unicorn_31_view_5_1.png,7.155612244897959,3
+ULB Unicorn_31_view_6_1.png,7.155612244897959,3
+ULB Unicorn_31_view_7_1.png,7.155612244897959,3
+ULB Unicorn_31_view_8_1.png,7.155612244897959,3
+ULB Unicorn_31_view_9_1.png,7.155612244897959,3
+ULB Unicorn_31_view_10_1.png,7.155612244897959,3
+ULB Unicorn_31_view_11_1.png,7.155612244897959,3
+ULB Unicorn_31_view_12_1.png,7.155612244897959,3
+ULB Unicorn_32_view_1_1.png,4.590561224489796,3
+ULB Unicorn_32_view_2_1.png,4.590561224489796,3
+ULB Unicorn_32_view_3_1.png,4.590561224489796,3
+ULB Unicorn_32_view_4_1.png,4.590561224489796,3
+ULB Unicorn_32_view_5_1.png,4.590561224489796,3
+ULB Unicorn_32_view_6_1.png,4.590561224489796,3
+ULB Unicorn_32_view_7_1.png,4.590561224489796,3
+ULB Unicorn_32_view_8_1.png,4.590561224489796,3
+ULB Unicorn_32_view_9_1.png,4.590561224489796,3
+ULB Unicorn_32_view_10_1.png,4.590561224489796,3
+ULB Unicorn_32_view_11_1.png,4.590561224489796,3
+ULB Unicorn_32_view_12_1.png,4.590561224489796,3
+ULB Unicorn_33_view_1_1.png,2.609375,3
+ULB Unicorn_33_view_2_1.png,2.609375,3
+ULB Unicorn_33_view_3_1.png,2.609375,3
+ULB Unicorn_33_view_4_1.png,2.609375,3
+ULB Unicorn_33_view_5_1.png,2.609375,3
+ULB Unicorn_33_view_6_1.png,2.609375,3
+ULB Unicorn_33_view_7_1.png,2.609375,3
+ULB Unicorn_33_view_8_1.png,2.609375,3
+ULB Unicorn_33_view_9_1.png,2.609375,3
+ULB Unicorn_33_view_10_1.png,2.609375,3
+ULB Unicorn_33_view_11_1.png,2.609375,3
+ULB Unicorn_33_view_12_1.png,2.609375,3
+ULB Unicorn_34_view_1_1.png,1.8576923076923075,3
+ULB Unicorn_34_view_2_1.png,1.8576923076923075,3
+ULB Unicorn_34_view_3_1.png,1.8576923076923075,3
+ULB Unicorn_34_view_4_1.png,1.8576923076923075,3
+ULB Unicorn_34_view_5_1.png,1.8576923076923075,3
+ULB Unicorn_34_view_6_1.png,1.8576923076923075,3
+ULB Unicorn_34_view_7_1.png,1.8576923076923075,3
+ULB Unicorn_34_view_8_1.png,1.8576923076923075,3
+ULB Unicorn_34_view_9_1.png,1.8576923076923075,3
+ULB Unicorn_34_view_10_1.png,1.8576923076923075,3
+ULB Unicorn_34_view_11_1.png,1.8576923076923075,3
+ULB Unicorn_34_view_12_1.png,1.8576923076923075,3
+ULB Unicorn_35_view_1_1.png,1.2999999999999998,3
+ULB Unicorn_35_view_2_1.png,1.2999999999999998,3
+ULB Unicorn_35_view_3_1.png,1.2999999999999998,3
+ULB Unicorn_35_view_4_1.png,1.2999999999999998,3
+ULB Unicorn_35_view_5_1.png,1.2999999999999998,3
+ULB Unicorn_35_view_6_1.png,1.2999999999999998,3
+ULB Unicorn_35_view_7_1.png,1.2999999999999998,3
+ULB Unicorn_35_view_8_1.png,1.2999999999999998,3
+ULB Unicorn_35_view_9_1.png,1.2999999999999998,3
+ULB Unicorn_35_view_10_1.png,1.2999999999999998,3
+ULB Unicorn_35_view_11_1.png,1.2999999999999998,3
+ULB Unicorn_35_view_12_1.png,1.2999999999999998,3
+ULB Unicorn_4_view_1_1.png,4.963461538461539,0
+ULB Unicorn_4_view_2_1.png,4.963461538461539,0
+ULB Unicorn_4_view_3_1.png,4.963461538461539,0
+ULB Unicorn_4_view_4_1.png,4.963461538461539,0
+ULB Unicorn_4_view_5_1.png,4.963461538461539,0
+ULB Unicorn_4_view_6_1.png,4.963461538461539,0
+ULB Unicorn_4_view_7_1.png,4.963461538461539,0
+ULB Unicorn_4_view_8_1.png,4.963461538461539,0
+ULB Unicorn_4_view_9_1.png,4.963461538461539,0
+ULB Unicorn_4_view_10_1.png,4.963461538461539,0
+ULB Unicorn_4_view_11_1.png,4.963461538461539,0
+ULB Unicorn_4_view_12_1.png,4.963461538461539,0
+ULB Unicorn_5_view_1_1.png,2.3801020408163263,0
+ULB Unicorn_5_view_2_1.png,2.3801020408163263,0
+ULB Unicorn_5_view_3_1.png,2.3801020408163263,0
+ULB Unicorn_5_view_4_1.png,2.3801020408163263,0
+ULB Unicorn_5_view_5_1.png,2.3801020408163263,0
+ULB Unicorn_5_view_6_1.png,2.3801020408163263,0
+ULB Unicorn_5_view_7_1.png,2.3801020408163263,0
+ULB Unicorn_5_view_8_1.png,2.3801020408163263,0
+ULB Unicorn_5_view_9_1.png,2.3801020408163263,0
+ULB Unicorn_5_view_10_1.png,2.3801020408163263,0
+ULB Unicorn_5_view_11_1.png,2.3801020408163263,0
+ULB Unicorn_5_view_12_1.png,2.3801020408163263,0
+ULB Unicorn_6_view_1_1.png,7.688461538461539,1
+ULB Unicorn_6_view_2_1.png,7.688461538461539,1
+ULB Unicorn_6_view_3_1.png,7.688461538461539,1
+ULB Unicorn_6_view_4_1.png,7.688461538461539,1
+ULB Unicorn_6_view_5_1.png,7.688461538461539,1
+ULB Unicorn_6_view_6_1.png,7.688461538461539,1
+ULB Unicorn_6_view_7_1.png,7.688461538461539,1
+ULB Unicorn_6_view_8_1.png,7.688461538461539,1
+ULB Unicorn_6_view_9_1.png,7.688461538461539,1
+ULB Unicorn_6_view_10_1.png,7.688461538461539,1
+ULB Unicorn_6_view_11_1.png,7.688461538461539,1
+ULB Unicorn_6_view_12_1.png,7.688461538461539,1
+ULB Unicorn_7_view_1_1.png,8.3671875,1
+ULB Unicorn_7_view_2_1.png,8.3671875,1
+ULB Unicorn_7_view_3_1.png,8.3671875,1
+ULB Unicorn_7_view_4_1.png,8.3671875,1
+ULB Unicorn_7_view_5_1.png,8.3671875,1
+ULB Unicorn_7_view_6_1.png,8.3671875,1
+ULB Unicorn_7_view_7_1.png,8.3671875,1
+ULB Unicorn_7_view_8_1.png,8.3671875,1
+ULB Unicorn_7_view_9_1.png,8.3671875,1
+ULB Unicorn_7_view_10_1.png,8.3671875,1
+ULB Unicorn_7_view_11_1.png,8.3671875,1
+ULB Unicorn_7_view_12_1.png,8.3671875,1
+ULB Unicorn_8_view_1_1.png,6.553571428571429,1
+ULB Unicorn_8_view_2_1.png,6.553571428571429,1
+ULB Unicorn_8_view_3_1.png,6.553571428571429,1
+ULB Unicorn_8_view_4_1.png,6.553571428571429,1
+ULB Unicorn_8_view_5_1.png,6.553571428571429,1
+ULB Unicorn_8_view_6_1.png,6.553571428571429,1
+ULB Unicorn_8_view_7_1.png,6.553571428571429,1
+ULB Unicorn_8_view_8_1.png,6.553571428571429,1
+ULB Unicorn_8_view_9_1.png,6.553571428571429,1
+ULB Unicorn_8_view_10_1.png,6.553571428571429,1
+ULB Unicorn_8_view_11_1.png,6.553571428571429,1
+ULB Unicorn_8_view_12_1.png,6.553571428571429,1
+ULB Unicorn_9_view_1_1.png,6.880769230769231,1
+ULB Unicorn_9_view_2_1.png,6.880769230769231,1
+ULB Unicorn_9_view_3_1.png,6.880769230769231,1
+ULB Unicorn_9_view_4_1.png,6.880769230769231,1
+ULB Unicorn_9_view_5_1.png,6.880769230769231,1
+ULB Unicorn_9_view_6_1.png,6.880769230769231,1
+ULB Unicorn_9_view_7_1.png,6.880769230769231,1
+ULB Unicorn_9_view_8_1.png,6.880769230769231,1
+ULB Unicorn_9_view_9_1.png,6.880769230769231,1
+ULB Unicorn_9_view_10_1.png,6.880769230769231,1
+ULB Unicorn_9_view_11_1.png,6.880769230769231,1
+ULB Unicorn_9_view_12_1.png,6.880769230769231,1
+soldier_0_view_1_1.png,8.3203125,0
+soldier_0_view_2_1.png,8.3203125,0
+soldier_0_view_3_1.png,8.3203125,0
+soldier_0_view_4_1.png,8.3203125,0
+soldier_0_view_5_1.png,8.3203125,0
+soldier_0_view_6_1.png,8.3203125,0
+soldier_0_view_7_1.png,8.3203125,0
+soldier_0_view_8_1.png,8.3203125,0
+soldier_0_view_9_1.png,8.3203125,0
+soldier_0_view_10_1.png,8.3203125,0
+soldier_0_view_11_1.png,8.3203125,0
+soldier_0_view_12_1.png,8.3203125,0
+soldier_1_view_1_1.png,5.783333333333333,0
+soldier_1_view_2_1.png,5.783333333333333,0
+soldier_1_view_3_1.png,5.783333333333333,0
+soldier_1_view_4_1.png,5.783333333333333,0
+soldier_1_view_5_1.png,5.783333333333333,0
+soldier_1_view_6_1.png,5.783333333333333,0
+soldier_1_view_7_1.png,5.783333333333333,0
+soldier_1_view_8_1.png,5.783333333333333,0
+soldier_1_view_9_1.png,5.783333333333333,0
+soldier_1_view_10_1.png,5.783333333333333,0
+soldier_1_view_11_1.png,5.783333333333333,0
+soldier_1_view_12_1.png,5.783333333333333,0
+soldier_10_view_1_1.png,4.516666666666667,1
+soldier_10_view_2_1.png,4.516666666666667,1
+soldier_10_view_3_1.png,4.516666666666667,1
+soldier_10_view_4_1.png,4.516666666666667,1
+soldier_10_view_5_1.png,4.516666666666667,1
+soldier_10_view_6_1.png,4.516666666666667,1
+soldier_10_view_7_1.png,4.516666666666667,1
+soldier_10_view_8_1.png,4.516666666666667,1
+soldier_10_view_9_1.png,4.516666666666667,1
+soldier_10_view_10_1.png,4.516666666666667,1
+soldier_10_view_11_1.png,4.516666666666667,1
+soldier_10_view_12_1.png,4.516666666666667,1
+soldier_11_view_1_1.png,3.9094387755102042,1
+soldier_11_view_2_1.png,3.9094387755102042,1
+soldier_11_view_3_1.png,3.9094387755102042,1
+soldier_11_view_4_1.png,3.9094387755102042,1
+soldier_11_view_5_1.png,3.9094387755102042,1
+soldier_11_view_6_1.png,3.9094387755102042,1
+soldier_11_view_7_1.png,3.9094387755102042,1
+soldier_11_view_8_1.png,3.9094387755102042,1
+soldier_11_view_9_1.png,3.9094387755102042,1
+soldier_11_view_10_1.png,3.9094387755102042,1
+soldier_11_view_11_1.png,3.9094387755102042,1
+soldier_11_view_12_1.png,3.9094387755102042,1
+soldier_12_view_1_1.png,7.615384615384615,2
+soldier_12_view_2_1.png,7.615384615384615,2
+soldier_12_view_3_1.png,7.615384615384615,2
+soldier_12_view_4_1.png,7.615384615384615,2
+soldier_12_view_5_1.png,7.615384615384615,2
+soldier_12_view_6_1.png,7.615384615384615,2
+soldier_12_view_7_1.png,7.615384615384615,2
+soldier_12_view_8_1.png,7.615384615384615,2
+soldier_12_view_9_1.png,7.615384615384615,2
+soldier_12_view_10_1.png,7.615384615384615,2
+soldier_12_view_11_1.png,7.615384615384615,2
+soldier_12_view_12_1.png,7.615384615384615,2
+soldier_13_view_1_1.png,8.5234375,2
+soldier_13_view_2_1.png,8.5234375,2
+soldier_13_view_3_1.png,8.5234375,2
+soldier_13_view_4_1.png,8.5234375,2
+soldier_13_view_5_1.png,8.5234375,2
+soldier_13_view_6_1.png,8.5234375,2
+soldier_13_view_7_1.png,8.5234375,2
+soldier_13_view_8_1.png,8.5234375,2
+soldier_13_view_9_1.png,8.5234375,2
+soldier_13_view_10_1.png,8.5234375,2
+soldier_13_view_11_1.png,8.5234375,2
+soldier_13_view_12_1.png,8.5234375,2
+soldier_14_view_1_1.png,7.688775510204081,2
+soldier_14_view_2_1.png,7.688775510204081,2
+soldier_14_view_3_1.png,7.688775510204081,2
+soldier_14_view_4_1.png,7.688775510204081,2
+soldier_14_view_5_1.png,7.688775510204081,2
+soldier_14_view_6_1.png,7.688775510204081,2
+soldier_14_view_7_1.png,7.688775510204081,2
+soldier_14_view_8_1.png,7.688775510204081,2
+soldier_14_view_9_1.png,7.688775510204081,2
+soldier_14_view_10_1.png,7.688775510204081,2
+soldier_14_view_11_1.png,7.688775510204081,2
+soldier_14_view_12_1.png,7.688775510204081,2
+soldier_15_view_1_1.png,5.623076923076923,2
+soldier_15_view_2_1.png,5.623076923076923,2
+soldier_15_view_3_1.png,5.623076923076923,2
+soldier_15_view_4_1.png,5.623076923076923,2
+soldier_15_view_5_1.png,5.623076923076923,2
+soldier_15_view_6_1.png,5.623076923076923,2
+soldier_15_view_7_1.png,5.623076923076923,2
+soldier_15_view_8_1.png,5.623076923076923,2
+soldier_15_view_9_1.png,5.623076923076923,2
+soldier_15_view_10_1.png,5.623076923076923,2
+soldier_15_view_11_1.png,5.623076923076923,2
+soldier_15_view_12_1.png,5.623076923076923,2
+soldier_16_view_1_1.png,4.1171875,2
+soldier_16_view_2_1.png,4.1171875,2
+soldier_16_view_3_1.png,4.1171875,2
+soldier_16_view_4_1.png,4.1171875,2
+soldier_16_view_5_1.png,4.1171875,2
+soldier_16_view_6_1.png,4.1171875,2
+soldier_16_view_7_1.png,4.1171875,2
+soldier_16_view_8_1.png,4.1171875,2
+soldier_16_view_9_1.png,4.1171875,2
+soldier_16_view_10_1.png,4.1171875,2
+soldier_16_view_11_1.png,4.1171875,2
+soldier_16_view_12_1.png,4.1171875,2
+soldier_17_view_1_1.png,1.9346153846153844,2
+soldier_17_view_2_1.png,1.9346153846153844,2
+soldier_17_view_3_1.png,1.9346153846153844,2
+soldier_17_view_4_1.png,1.9346153846153844,2
+soldier_17_view_5_1.png,1.9346153846153844,2
+soldier_17_view_6_1.png,1.9346153846153844,2
+soldier_17_view_7_1.png,1.9346153846153844,2
+soldier_17_view_8_1.png,1.9346153846153844,2
+soldier_17_view_9_1.png,1.9346153846153844,2
+soldier_17_view_10_1.png,1.9346153846153844,2
+soldier_17_view_11_1.png,1.9346153846153844,2
+soldier_17_view_12_1.png,1.9346153846153844,2
+soldier_2_view_1_1.png,5.832692307692308,0
+soldier_2_view_2_1.png,5.832692307692308,0
+soldier_2_view_3_1.png,5.832692307692308,0
+soldier_2_view_4_1.png,5.832692307692308,0
+soldier_2_view_5_1.png,5.832692307692308,0
+soldier_2_view_6_1.png,5.832692307692308,0
+soldier_2_view_7_1.png,5.832692307692308,0
+soldier_2_view_8_1.png,5.832692307692308,0
+soldier_2_view_9_1.png,5.832692307692308,0
+soldier_2_view_10_1.png,5.832692307692308,0
+soldier_2_view_11_1.png,5.832692307692308,0
+soldier_2_view_12_1.png,5.832692307692308,0
+soldier_3_view_1_1.png,6.175000000000001,0
+soldier_3_view_2_1.png,6.175000000000001,0
+soldier_3_view_3_1.png,6.175000000000001,0
+soldier_3_view_4_1.png,6.175000000000001,0
+soldier_3_view_5_1.png,6.175000000000001,0
+soldier_3_view_6_1.png,6.175000000000001,0
+soldier_3_view_7_1.png,6.175000000000001,0
+soldier_3_view_8_1.png,6.175000000000001,0
+soldier_3_view_9_1.png,6.175000000000001,0
+soldier_3_view_10_1.png,6.175000000000001,0
+soldier_3_view_11_1.png,6.175000000000001,0
+soldier_3_view_12_1.png,6.175000000000001,0
+soldier_30_view_1_1.png,7.825,3
+soldier_30_view_2_1.png,7.825,3
+soldier_30_view_3_1.png,7.825,3
+soldier_30_view_4_1.png,7.825,3
+soldier_30_view_5_1.png,7.825,3
+soldier_30_view_6_1.png,7.825,3
+soldier_30_view_7_1.png,7.825,3
+soldier_30_view_8_1.png,7.825,3
+soldier_30_view_9_1.png,7.825,3
+soldier_30_view_10_1.png,7.825,3
+soldier_30_view_11_1.png,7.825,3
+soldier_30_view_12_1.png,7.825,3
+soldier_31_view_1_1.png,7.6640625,3
+soldier_31_view_2_1.png,7.6640625,3
+soldier_31_view_3_1.png,7.6640625,3
+soldier_31_view_4_1.png,7.6640625,3
+soldier_31_view_5_1.png,7.6640625,3
+soldier_31_view_6_1.png,7.6640625,3
+soldier_31_view_7_1.png,7.6640625,3
+soldier_31_view_8_1.png,7.6640625,3
+soldier_31_view_9_1.png,7.6640625,3
+soldier_31_view_10_1.png,7.6640625,3
+soldier_31_view_11_1.png,7.6640625,3
+soldier_31_view_12_1.png,7.6640625,3
+soldier_32_view_1_1.png,4.334615384615384,3
+soldier_32_view_2_1.png,4.334615384615384,3
+soldier_32_view_3_1.png,4.334615384615384,3
+soldier_32_view_4_1.png,4.334615384615384,3
+soldier_32_view_5_1.png,4.334615384615384,3
+soldier_32_view_6_1.png,4.334615384615384,3
+soldier_32_view_7_1.png,4.334615384615384,3
+soldier_32_view_8_1.png,4.334615384615384,3
+soldier_32_view_9_1.png,4.334615384615384,3
+soldier_32_view_10_1.png,4.334615384615384,3
+soldier_32_view_11_1.png,4.334615384615384,3
+soldier_32_view_12_1.png,4.334615384615384,3
+soldier_33_view_1_1.png,2.2807692307692307,3
+soldier_33_view_2_1.png,2.2807692307692307,3
+soldier_33_view_3_1.png,2.2807692307692307,3
+soldier_33_view_4_1.png,2.2807692307692307,3
+soldier_33_view_5_1.png,2.2807692307692307,3
+soldier_33_view_6_1.png,2.2807692307692307,3
+soldier_33_view_7_1.png,2.2807692307692307,3
+soldier_33_view_8_1.png,2.2807692307692307,3
+soldier_33_view_9_1.png,2.2807692307692307,3
+soldier_33_view_10_1.png,2.2807692307692307,3
+soldier_33_view_11_1.png,2.2807692307692307,3
+soldier_33_view_12_1.png,2.2807692307692307,3
+soldier_34_view_1_1.png,1.8671875,3
+soldier_34_view_2_1.png,1.8671875,3
+soldier_34_view_3_1.png,1.8671875,3
+soldier_34_view_4_1.png,1.8671875,3
+soldier_34_view_5_1.png,1.8671875,3
+soldier_34_view_6_1.png,1.8671875,3
+soldier_34_view_7_1.png,1.8671875,3
+soldier_34_view_8_1.png,1.8671875,3
+soldier_34_view_9_1.png,1.8671875,3
+soldier_34_view_10_1.png,1.8671875,3
+soldier_34_view_11_1.png,1.8671875,3
+soldier_34_view_12_1.png,1.8671875,3
+soldier_35_view_1_1.png,1.2346938775510208,3
+soldier_35_view_2_1.png,1.2346938775510208,3
+soldier_35_view_3_1.png,1.2346938775510208,3
+soldier_35_view_4_1.png,1.2346938775510208,3
+soldier_35_view_5_1.png,1.2346938775510208,3
+soldier_35_view_6_1.png,1.2346938775510208,3
+soldier_35_view_7_1.png,1.2346938775510208,3
+soldier_35_view_8_1.png,1.2346938775510208,3
+soldier_35_view_9_1.png,1.2346938775510208,3
+soldier_35_view_10_1.png,1.2346938775510208,3
+soldier_35_view_11_1.png,1.2346938775510208,3
+soldier_35_view_12_1.png,1.2346938775510208,3
+soldier_4_view_1_1.png,5.083333333333333,0
+soldier_4_view_2_1.png,5.083333333333333,0
+soldier_4_view_3_1.png,5.083333333333333,0
+soldier_4_view_4_1.png,5.083333333333333,0
+soldier_4_view_5_1.png,5.083333333333333,0
+soldier_4_view_6_1.png,5.083333333333333,0
+soldier_4_view_7_1.png,5.083333333333333,0
+soldier_4_view_8_1.png,5.083333333333333,0
+soldier_4_view_9_1.png,5.083333333333333,0
+soldier_4_view_10_1.png,5.083333333333333,0
+soldier_4_view_11_1.png,5.083333333333333,0
+soldier_4_view_12_1.png,5.083333333333333,0
+soldier_5_view_1_1.png,3.835459183673469,0
+soldier_5_view_2_1.png,3.835459183673469,0
+soldier_5_view_3_1.png,3.835459183673469,0
+soldier_5_view_4_1.png,3.835459183673469,0
+soldier_5_view_5_1.png,3.835459183673469,0
+soldier_5_view_6_1.png,3.835459183673469,0
+soldier_5_view_7_1.png,3.835459183673469,0
+soldier_5_view_8_1.png,3.835459183673469,0
+soldier_5_view_9_1.png,3.835459183673469,0
+soldier_5_view_10_1.png,3.835459183673469,0
+soldier_5_view_11_1.png,3.835459183673469,0
+soldier_5_view_12_1.png,3.835459183673469,0
+soldier_6_view_1_1.png,9.583333333333334,1
+soldier_6_view_2_1.png,9.583333333333334,1
+soldier_6_view_3_1.png,9.583333333333334,1
+soldier_6_view_4_1.png,9.583333333333334,1
+soldier_6_view_5_1.png,9.583333333333334,1
+soldier_6_view_6_1.png,9.583333333333334,1
+soldier_6_view_7_1.png,9.583333333333334,1
+soldier_6_view_8_1.png,9.583333333333334,1
+soldier_6_view_9_1.png,9.583333333333334,1
+soldier_6_view_10_1.png,9.583333333333334,1
+soldier_6_view_11_1.png,9.583333333333334,1
+soldier_6_view_12_1.png,9.583333333333334,1
+soldier_7_view_1_1.png,6.950255102040816,1
+soldier_7_view_2_1.png,6.950255102040816,1
+soldier_7_view_3_1.png,6.950255102040816,1
+soldier_7_view_4_1.png,6.950255102040816,1
+soldier_7_view_5_1.png,6.950255102040816,1
+soldier_7_view_6_1.png,6.950255102040816,1
+soldier_7_view_7_1.png,6.950255102040816,1
+soldier_7_view_8_1.png,6.950255102040816,1
+soldier_7_view_9_1.png,6.950255102040816,1
+soldier_7_view_10_1.png,6.950255102040816,1
+soldier_7_view_11_1.png,6.950255102040816,1
+soldier_7_view_12_1.png,6.950255102040816,1
+soldier_8_view_1_1.png,5.813461538461539,1
+soldier_8_view_2_1.png,5.813461538461539,1
+soldier_8_view_3_1.png,5.813461538461539,1
+soldier_8_view_4_1.png,5.813461538461539,1
+soldier_8_view_5_1.png,5.813461538461539,1
+soldier_8_view_6_1.png,5.813461538461539,1
+soldier_8_view_7_1.png,5.813461538461539,1
+soldier_8_view_8_1.png,5.813461538461539,1
+soldier_8_view_9_1.png,5.813461538461539,1
+soldier_8_view_10_1.png,5.813461538461539,1
+soldier_8_view_11_1.png,5.813461538461539,1
+soldier_8_view_12_1.png,5.813461538461539,1
+soldier_9_view_1_1.png,6.06923076923077,1
+soldier_9_view_2_1.png,6.06923076923077,1
+soldier_9_view_3_1.png,6.06923076923077,1
+soldier_9_view_4_1.png,6.06923076923077,1
+soldier_9_view_5_1.png,6.06923076923077,1
+soldier_9_view_6_1.png,6.06923076923077,1
+soldier_9_view_7_1.png,6.06923076923077,1
+soldier_9_view_8_1.png,6.06923076923077,1
+soldier_9_view_9_1.png,6.06923076923077,1
+soldier_9_view_10_1.png,6.06923076923077,1
+soldier_9_view_11_1.png,6.06923076923077,1
+soldier_9_view_12_1.png,6.06923076923077,1
+longdress_0_view_1_1.png,8.501275510204081,0
+longdress_0_view_2_1.png,8.501275510204081,0
+longdress_0_view_3_1.png,8.501275510204081,0
+longdress_0_view_4_1.png,8.501275510204081,0
+longdress_0_view_5_1.png,8.501275510204081,0
+longdress_0_view_6_1.png,8.501275510204081,0
+longdress_0_view_7_1.png,8.501275510204081,0
+longdress_0_view_8_1.png,8.501275510204081,0
+longdress_0_view_9_1.png,8.501275510204081,0
+longdress_0_view_10_1.png,8.501275510204081,0
+longdress_0_view_11_1.png,8.501275510204081,0
+longdress_0_view_12_1.png,8.501275510204081,0
+longdress_1_view_1_1.png,6.1596153846153845,0
+longdress_1_view_2_1.png,6.1596153846153845,0
+longdress_1_view_3_1.png,6.1596153846153845,0
+longdress_1_view_4_1.png,6.1596153846153845,0
+longdress_1_view_5_1.png,6.1596153846153845,0
+longdress_1_view_6_1.png,6.1596153846153845,0
+longdress_1_view_7_1.png,6.1596153846153845,0
+longdress_1_view_8_1.png,6.1596153846153845,0
+longdress_1_view_9_1.png,6.1596153846153845,0
+longdress_1_view_10_1.png,6.1596153846153845,0
+longdress_1_view_11_1.png,6.1596153846153845,0
+longdress_1_view_12_1.png,6.1596153846153845,0
+longdress_10_view_1_1.png,4.90625,1
+longdress_10_view_2_1.png,4.90625,1
+longdress_10_view_3_1.png,4.90625,1
+longdress_10_view_4_1.png,4.90625,1
+longdress_10_view_5_1.png,4.90625,1
+longdress_10_view_6_1.png,4.90625,1
+longdress_10_view_7_1.png,4.90625,1
+longdress_10_view_8_1.png,4.90625,1
+longdress_10_view_9_1.png,4.90625,1
+longdress_10_view_10_1.png,4.90625,1
+longdress_10_view_11_1.png,4.90625,1
+longdress_10_view_12_1.png,4.90625,1
+longdress_11_view_1_1.png,4.091666666666667,1
+longdress_11_view_2_1.png,4.091666666666667,1
+longdress_11_view_3_1.png,4.091666666666667,1
+longdress_11_view_4_1.png,4.091666666666667,1
+longdress_11_view_5_1.png,4.091666666666667,1
+longdress_11_view_6_1.png,4.091666666666667,1
+longdress_11_view_7_1.png,4.091666666666667,1
+longdress_11_view_8_1.png,4.091666666666667,1
+longdress_11_view_9_1.png,4.091666666666667,1
+longdress_11_view_10_1.png,4.091666666666667,1
+longdress_11_view_11_1.png,4.091666666666667,1
+longdress_11_view_12_1.png,4.091666666666667,1
+longdress_12_view_1_1.png,8.161538461538461,2
+longdress_12_view_2_1.png,8.161538461538461,2
+longdress_12_view_3_1.png,8.161538461538461,2
+longdress_12_view_4_1.png,8.161538461538461,2
+longdress_12_view_5_1.png,8.161538461538461,2
+longdress_12_view_6_1.png,8.161538461538461,2
+longdress_12_view_7_1.png,8.161538461538461,2
+longdress_12_view_8_1.png,8.161538461538461,2
+longdress_12_view_9_1.png,8.161538461538461,2
+longdress_12_view_10_1.png,8.161538461538461,2
+longdress_12_view_11_1.png,8.161538461538461,2
+longdress_12_view_12_1.png,8.161538461538461,2
+longdress_13_view_1_1.png,8.381377551020408,2
+longdress_13_view_2_1.png,8.381377551020408,2
+longdress_13_view_3_1.png,8.381377551020408,2
+longdress_13_view_4_1.png,8.381377551020408,2
+longdress_13_view_5_1.png,8.381377551020408,2
+longdress_13_view_6_1.png,8.381377551020408,2
+longdress_13_view_7_1.png,8.381377551020408,2
+longdress_13_view_8_1.png,8.381377551020408,2
+longdress_13_view_9_1.png,8.381377551020408,2
+longdress_13_view_10_1.png,8.381377551020408,2
+longdress_13_view_11_1.png,8.381377551020408,2
+longdress_13_view_12_1.png,8.381377551020408,2
+longdress_14_view_1_1.png,7.744897959183674,2
+longdress_14_view_2_1.png,7.744897959183674,2
+longdress_14_view_3_1.png,7.744897959183674,2
+longdress_14_view_4_1.png,7.744897959183674,2
+longdress_14_view_5_1.png,7.744897959183674,2
+longdress_14_view_6_1.png,7.744897959183674,2
+longdress_14_view_7_1.png,7.744897959183674,2
+longdress_14_view_8_1.png,7.744897959183674,2
+longdress_14_view_9_1.png,7.744897959183674,2
+longdress_14_view_10_1.png,7.744897959183674,2
+longdress_14_view_11_1.png,7.744897959183674,2
+longdress_14_view_12_1.png,7.744897959183674,2
+longdress_15_view_1_1.png,5.7578125,2
+longdress_15_view_2_1.png,5.7578125,2
+longdress_15_view_3_1.png,5.7578125,2
+longdress_15_view_4_1.png,5.7578125,2
+longdress_15_view_5_1.png,5.7578125,2
+longdress_15_view_6_1.png,5.7578125,2
+longdress_15_view_7_1.png,5.7578125,2
+longdress_15_view_8_1.png,5.7578125,2
+longdress_15_view_9_1.png,5.7578125,2
+longdress_15_view_10_1.png,5.7578125,2
+longdress_15_view_11_1.png,5.7578125,2
+longdress_15_view_12_1.png,5.7578125,2
+longdress_16_view_1_1.png,4.421875,2
+longdress_16_view_2_1.png,4.421875,2
+longdress_16_view_3_1.png,4.421875,2
+longdress_16_view_4_1.png,4.421875,2
+longdress_16_view_5_1.png,4.421875,2
+longdress_16_view_6_1.png,4.421875,2
+longdress_16_view_7_1.png,4.421875,2
+longdress_16_view_8_1.png,4.421875,2
+longdress_16_view_9_1.png,4.421875,2
+longdress_16_view_10_1.png,4.421875,2
+longdress_16_view_11_1.png,4.421875,2
+longdress_16_view_12_1.png,4.421875,2
+longdress_17_view_1_1.png,2.126923076923077,2
+longdress_17_view_2_1.png,2.126923076923077,2
+longdress_17_view_3_1.png,2.126923076923077,2
+longdress_17_view_4_1.png,2.126923076923077,2
+longdress_17_view_5_1.png,2.126923076923077,2
+longdress_17_view_6_1.png,2.126923076923077,2
+longdress_17_view_7_1.png,2.126923076923077,2
+longdress_17_view_8_1.png,2.126923076923077,2
+longdress_17_view_9_1.png,2.126923076923077,2
+longdress_17_view_10_1.png,2.126923076923077,2
+longdress_17_view_11_1.png,2.126923076923077,2
+longdress_17_view_12_1.png,2.126923076923077,2
+longdress_2_view_1_1.png,6.3046875,0
+longdress_2_view_2_1.png,6.3046875,0
+longdress_2_view_3_1.png,6.3046875,0
+longdress_2_view_4_1.png,6.3046875,0
+longdress_2_view_5_1.png,6.3046875,0
+longdress_2_view_6_1.png,6.3046875,0
+longdress_2_view_7_1.png,6.3046875,0
+longdress_2_view_8_1.png,6.3046875,0
+longdress_2_view_9_1.png,6.3046875,0
+longdress_2_view_10_1.png,6.3046875,0
+longdress_2_view_11_1.png,6.3046875,0
+longdress_2_view_12_1.png,6.3046875,0
+longdress_3_view_1_1.png,5.5078125,0
+longdress_3_view_2_1.png,5.5078125,0
+longdress_3_view_3_1.png,5.5078125,0
+longdress_3_view_4_1.png,5.5078125,0
+longdress_3_view_5_1.png,5.5078125,0
+longdress_3_view_6_1.png,5.5078125,0
+longdress_3_view_7_1.png,5.5078125,0
+longdress_3_view_8_1.png,5.5078125,0
+longdress_3_view_9_1.png,5.5078125,0
+longdress_3_view_10_1.png,5.5078125,0
+longdress_3_view_11_1.png,5.5078125,0
+longdress_3_view_12_1.png,5.5078125,0
+longdress_30_view_1_1.png,7.358333333333333,3
+longdress_30_view_2_1.png,7.358333333333333,3
+longdress_30_view_3_1.png,7.358333333333333,3
+longdress_30_view_4_1.png,7.358333333333333,3
+longdress_30_view_5_1.png,7.358333333333333,3
+longdress_30_view_6_1.png,7.358333333333333,3
+longdress_30_view_7_1.png,7.358333333333333,3
+longdress_30_view_8_1.png,7.358333333333333,3
+longdress_30_view_9_1.png,7.358333333333333,3
+longdress_30_view_10_1.png,7.358333333333333,3
+longdress_30_view_11_1.png,7.358333333333333,3
+longdress_30_view_12_1.png,7.358333333333333,3
+longdress_31_view_1_1.png,6.985969387755103,3
+longdress_31_view_2_1.png,6.985969387755103,3
+longdress_31_view_3_1.png,6.985969387755103,3
+longdress_31_view_4_1.png,6.985969387755103,3
+longdress_31_view_5_1.png,6.985969387755103,3
+longdress_31_view_6_1.png,6.985969387755103,3
+longdress_31_view_7_1.png,6.985969387755103,3
+longdress_31_view_8_1.png,6.985969387755103,3
+longdress_31_view_9_1.png,6.985969387755103,3
+longdress_31_view_10_1.png,6.985969387755103,3
+longdress_31_view_11_1.png,6.985969387755103,3
+longdress_31_view_12_1.png,6.985969387755103,3
+longdress_32_view_1_1.png,4.55,3
+longdress_32_view_2_1.png,4.55,3
+longdress_32_view_3_1.png,4.55,3
+longdress_32_view_4_1.png,4.55,3
+longdress_32_view_5_1.png,4.55,3
+longdress_32_view_6_1.png,4.55,3
+longdress_32_view_7_1.png,4.55,3
+longdress_32_view_8_1.png,4.55,3
+longdress_32_view_9_1.png,4.55,3
+longdress_32_view_10_1.png,4.55,3
+longdress_32_view_11_1.png,4.55,3
+longdress_32_view_12_1.png,4.55,3
+longdress_33_view_1_1.png,2.515625,3
+longdress_33_view_2_1.png,2.515625,3
+longdress_33_view_3_1.png,2.515625,3
+longdress_33_view_4_1.png,2.515625,3
+longdress_33_view_5_1.png,2.515625,3
+longdress_33_view_6_1.png,2.515625,3
+longdress_33_view_7_1.png,2.515625,3
+longdress_33_view_8_1.png,2.515625,3
+longdress_33_view_9_1.png,2.515625,3
+longdress_33_view_10_1.png,2.515625,3
+longdress_33_view_11_1.png,2.515625,3
+longdress_33_view_12_1.png,2.515625,3
+longdress_34_view_1_1.png,1.9872448979591835,3
+longdress_34_view_2_1.png,1.9872448979591835,3
+longdress_34_view_3_1.png,1.9872448979591835,3
+longdress_34_view_4_1.png,1.9872448979591835,3
+longdress_34_view_5_1.png,1.9872448979591835,3
+longdress_34_view_6_1.png,1.9872448979591835,3
+longdress_34_view_7_1.png,1.9872448979591835,3
+longdress_34_view_8_1.png,1.9872448979591835,3
+longdress_34_view_9_1.png,1.9872448979591835,3
+longdress_34_view_10_1.png,1.9872448979591835,3
+longdress_34_view_11_1.png,1.9872448979591835,3
+longdress_34_view_12_1.png,1.9872448979591835,3
+longdress_35_view_1_1.png,1.4489795918367352,3
+longdress_35_view_2_1.png,1.4489795918367352,3
+longdress_35_view_3_1.png,1.4489795918367352,3
+longdress_35_view_4_1.png,1.4489795918367352,3
+longdress_35_view_5_1.png,1.4489795918367352,3
+longdress_35_view_6_1.png,1.4489795918367352,3
+longdress_35_view_7_1.png,1.4489795918367352,3
+longdress_35_view_8_1.png,1.4489795918367352,3
+longdress_35_view_9_1.png,1.4489795918367352,3
+longdress_35_view_10_1.png,1.4489795918367352,3
+longdress_35_view_11_1.png,1.4489795918367352,3
+longdress_35_view_12_1.png,1.4489795918367352,3
+longdress_4_view_1_1.png,7.11734693877551,0
+longdress_4_view_2_1.png,7.11734693877551,0
+longdress_4_view_3_1.png,7.11734693877551,0
+longdress_4_view_4_1.png,7.11734693877551,0
+longdress_4_view_5_1.png,7.11734693877551,0
+longdress_4_view_6_1.png,7.11734693877551,0
+longdress_4_view_7_1.png,7.11734693877551,0
+longdress_4_view_8_1.png,7.11734693877551,0
+longdress_4_view_9_1.png,7.11734693877551,0
+longdress_4_view_10_1.png,7.11734693877551,0
+longdress_4_view_11_1.png,7.11734693877551,0
+longdress_4_view_12_1.png,7.11734693877551,0
+longdress_5_view_1_1.png,3.40625,0
+longdress_5_view_2_1.png,3.40625,0
+longdress_5_view_3_1.png,3.40625,0
+longdress_5_view_4_1.png,3.40625,0
+longdress_5_view_5_1.png,3.40625,0
+longdress_5_view_6_1.png,3.40625,0
+longdress_5_view_7_1.png,3.40625,0
+longdress_5_view_8_1.png,3.40625,0
+longdress_5_view_9_1.png,3.40625,0
+longdress_5_view_10_1.png,3.40625,0
+longdress_5_view_11_1.png,3.40625,0
+longdress_5_view_12_1.png,3.40625,0
+longdress_6_view_1_1.png,9.682692307692308,1
+longdress_6_view_2_1.png,9.682692307692308,1
+longdress_6_view_3_1.png,9.682692307692308,1
+longdress_6_view_4_1.png,9.682692307692308,1
+longdress_6_view_5_1.png,9.682692307692308,1
+longdress_6_view_6_1.png,9.682692307692308,1
+longdress_6_view_7_1.png,9.682692307692308,1
+longdress_6_view_8_1.png,9.682692307692308,1
+longdress_6_view_9_1.png,9.682692307692308,1
+longdress_6_view_10_1.png,9.682692307692308,1
+longdress_6_view_11_1.png,9.682692307692308,1
+longdress_6_view_12_1.png,9.682692307692308,1
+longdress_7_view_1_1.png,7.526923076923077,1
+longdress_7_view_2_1.png,7.526923076923077,1
+longdress_7_view_3_1.png,7.526923076923077,1
+longdress_7_view_4_1.png,7.526923076923077,1
+longdress_7_view_5_1.png,7.526923076923077,1
+longdress_7_view_6_1.png,7.526923076923077,1
+longdress_7_view_7_1.png,7.526923076923077,1
+longdress_7_view_8_1.png,7.526923076923077,1
+longdress_7_view_9_1.png,7.526923076923077,1
+longdress_7_view_10_1.png,7.526923076923077,1
+longdress_7_view_11_1.png,7.526923076923077,1
+longdress_7_view_12_1.png,7.526923076923077,1
+longdress_8_view_1_1.png,6.709615384615384,1
+longdress_8_view_2_1.png,6.709615384615384,1
+longdress_8_view_3_1.png,6.709615384615384,1
+longdress_8_view_4_1.png,6.709615384615384,1
+longdress_8_view_5_1.png,6.709615384615384,1
+longdress_8_view_6_1.png,6.709615384615384,1
+longdress_8_view_7_1.png,6.709615384615384,1
+longdress_8_view_8_1.png,6.709615384615384,1
+longdress_8_view_9_1.png,6.709615384615384,1
+longdress_8_view_10_1.png,6.709615384615384,1
+longdress_8_view_11_1.png,6.709615384615384,1
+longdress_8_view_12_1.png,6.709615384615384,1
+longdress_9_view_1_1.png,4.9272959183673475,1
+longdress_9_view_2_1.png,4.9272959183673475,1
+longdress_9_view_3_1.png,4.9272959183673475,1
+longdress_9_view_4_1.png,4.9272959183673475,1
+longdress_9_view_5_1.png,4.9272959183673475,1
+longdress_9_view_6_1.png,4.9272959183673475,1
+longdress_9_view_7_1.png,4.9272959183673475,1
+longdress_9_view_8_1.png,4.9272959183673475,1
+longdress_9_view_9_1.png,4.9272959183673475,1
+longdress_9_view_10_1.png,4.9272959183673475,1
+longdress_9_view_11_1.png,4.9272959183673475,1
+longdress_9_view_12_1.png,4.9272959183673475,1
+statue_0_view_1_1.png,6.908333333333333,0
+statue_0_view_2_1.png,6.908333333333333,0
+statue_0_view_3_1.png,6.908333333333333,0
+statue_0_view_4_1.png,6.908333333333333,0
+statue_0_view_5_1.png,6.908333333333333,0
+statue_0_view_6_1.png,6.908333333333333,0
+statue_0_view_7_1.png,6.908333333333333,0
+statue_0_view_8_1.png,6.908333333333333,0
+statue_0_view_9_1.png,6.908333333333333,0
+statue_0_view_10_1.png,6.908333333333333,0
+statue_0_view_11_1.png,6.908333333333333,0
+statue_0_view_12_1.png,6.908333333333333,0
+statue_1_view_1_1.png,7.6328125,0
+statue_1_view_2_1.png,7.6328125,0
+statue_1_view_3_1.png,7.6328125,0
+statue_1_view_4_1.png,7.6328125,0
+statue_1_view_5_1.png,7.6328125,0
+statue_1_view_6_1.png,7.6328125,0
+statue_1_view_7_1.png,7.6328125,0
+statue_1_view_8_1.png,7.6328125,0
+statue_1_view_9_1.png,7.6328125,0
+statue_1_view_10_1.png,7.6328125,0
+statue_1_view_11_1.png,7.6328125,0
+statue_1_view_12_1.png,7.6328125,0
+statue_10_view_1_1.png,6.588461538461539,1
+statue_10_view_2_1.png,6.588461538461539,1
+statue_10_view_3_1.png,6.588461538461539,1
+statue_10_view_4_1.png,6.588461538461539,1
+statue_10_view_5_1.png,6.588461538461539,1
+statue_10_view_6_1.png,6.588461538461539,1
+statue_10_view_7_1.png,6.588461538461539,1
+statue_10_view_8_1.png,6.588461538461539,1
+statue_10_view_9_1.png,6.588461538461539,1
+statue_10_view_10_1.png,6.588461538461539,1
+statue_10_view_11_1.png,6.588461538461539,1
+statue_10_view_12_1.png,6.588461538461539,1
+statue_11_view_1_1.png,5.107692307692308,1
+statue_11_view_2_1.png,5.107692307692308,1
+statue_11_view_3_1.png,5.107692307692308,1
+statue_11_view_4_1.png,5.107692307692308,1
+statue_11_view_5_1.png,5.107692307692308,1
+statue_11_view_6_1.png,5.107692307692308,1
+statue_11_view_7_1.png,5.107692307692308,1
+statue_11_view_8_1.png,5.107692307692308,1
+statue_11_view_9_1.png,5.107692307692308,1
+statue_11_view_10_1.png,5.107692307692308,1
+statue_11_view_11_1.png,5.107692307692308,1
+statue_11_view_12_1.png,5.107692307692308,1
+statue_12_view_1_1.png,7.825,2
+statue_12_view_2_1.png,7.825,2
+statue_12_view_3_1.png,7.825,2
+statue_12_view_4_1.png,7.825,2
+statue_12_view_5_1.png,7.825,2
+statue_12_view_6_1.png,7.825,2
+statue_12_view_7_1.png,7.825,2
+statue_12_view_8_1.png,7.825,2
+statue_12_view_9_1.png,7.825,2
+statue_12_view_10_1.png,7.825,2
+statue_12_view_11_1.png,7.825,2
+statue_12_view_12_1.png,7.825,2
+statue_13_view_1_1.png,6.133333333333334,2
+statue_13_view_2_1.png,6.133333333333334,2
+statue_13_view_3_1.png,6.133333333333334,2
+statue_13_view_4_1.png,6.133333333333334,2
+statue_13_view_5_1.png,6.133333333333334,2
+statue_13_view_6_1.png,6.133333333333334,2
+statue_13_view_7_1.png,6.133333333333334,2
+statue_13_view_8_1.png,6.133333333333334,2
+statue_13_view_9_1.png,6.133333333333334,2
+statue_13_view_10_1.png,6.133333333333334,2
+statue_13_view_11_1.png,6.133333333333334,2
+statue_13_view_12_1.png,6.133333333333334,2
+statue_14_view_1_1.png,6.05484693877551,2
+statue_14_view_2_1.png,6.05484693877551,2
+statue_14_view_3_1.png,6.05484693877551,2
+statue_14_view_4_1.png,6.05484693877551,2
+statue_14_view_5_1.png,6.05484693877551,2
+statue_14_view_6_1.png,6.05484693877551,2
+statue_14_view_7_1.png,6.05484693877551,2
+statue_14_view_8_1.png,6.05484693877551,2
+statue_14_view_9_1.png,6.05484693877551,2
+statue_14_view_10_1.png,6.05484693877551,2
+statue_14_view_11_1.png,6.05484693877551,2
+statue_14_view_12_1.png,6.05484693877551,2
+statue_15_view_1_1.png,3.965384615384615,2
+statue_15_view_2_1.png,3.965384615384615,2
+statue_15_view_3_1.png,3.965384615384615,2
+statue_15_view_4_1.png,3.965384615384615,2
+statue_15_view_5_1.png,3.965384615384615,2
+statue_15_view_6_1.png,3.965384615384615,2
+statue_15_view_7_1.png,3.965384615384615,2
+statue_15_view_8_1.png,3.965384615384615,2
+statue_15_view_9_1.png,3.965384615384615,2
+statue_15_view_10_1.png,3.965384615384615,2
+statue_15_view_11_1.png,3.965384615384615,2
+statue_15_view_12_1.png,3.965384615384615,2
+statue_16_view_1_1.png,3.4921875,2
+statue_16_view_2_1.png,3.4921875,2
+statue_16_view_3_1.png,3.4921875,2
+statue_16_view_4_1.png,3.4921875,2
+statue_16_view_5_1.png,3.4921875,2
+statue_16_view_6_1.png,3.4921875,2
+statue_16_view_7_1.png,3.4921875,2
+statue_16_view_8_1.png,3.4921875,2
+statue_16_view_9_1.png,3.4921875,2
+statue_16_view_10_1.png,3.4921875,2
+statue_16_view_11_1.png,3.4921875,2
+statue_16_view_12_1.png,3.4921875,2
+statue_17_view_1_1.png,1.1875,2
+statue_17_view_2_1.png,1.1875,2
+statue_17_view_3_1.png,1.1875,2
+statue_17_view_4_1.png,1.1875,2
+statue_17_view_5_1.png,1.1875,2
+statue_17_view_6_1.png,1.1875,2
+statue_17_view_7_1.png,1.1875,2
+statue_17_view_8_1.png,1.1875,2
+statue_17_view_9_1.png,1.1875,2
+statue_17_view_10_1.png,1.1875,2
+statue_17_view_11_1.png,1.1875,2
+statue_17_view_12_1.png,1.1875,2
+statue_2_view_1_1.png,6.168367346938775,0
+statue_2_view_2_1.png,6.168367346938775,0
+statue_2_view_3_1.png,6.168367346938775,0
+statue_2_view_4_1.png,6.168367346938775,0
+statue_2_view_5_1.png,6.168367346938775,0
+statue_2_view_6_1.png,6.168367346938775,0
+statue_2_view_7_1.png,6.168367346938775,0
+statue_2_view_8_1.png,6.168367346938775,0
+statue_2_view_9_1.png,6.168367346938775,0
+statue_2_view_10_1.png,6.168367346938775,0
+statue_2_view_11_1.png,6.168367346938775,0
+statue_2_view_12_1.png,6.168367346938775,0
+statue_3_view_1_1.png,4.938775510204081,0
+statue_3_view_2_1.png,4.938775510204081,0
+statue_3_view_3_1.png,4.938775510204081,0
+statue_3_view_4_1.png,4.938775510204081,0
+statue_3_view_5_1.png,4.938775510204081,0
+statue_3_view_6_1.png,4.938775510204081,0
+statue_3_view_7_1.png,4.938775510204081,0
+statue_3_view_8_1.png,4.938775510204081,0
+statue_3_view_9_1.png,4.938775510204081,0
+statue_3_view_10_1.png,4.938775510204081,0
+statue_3_view_11_1.png,4.938775510204081,0
+statue_3_view_12_1.png,4.938775510204081,0
+statue_30_view_1_1.png,6.795918367346938,3
+statue_30_view_2_1.png,6.795918367346938,3
+statue_30_view_3_1.png,6.795918367346938,3
+statue_30_view_4_1.png,6.795918367346938,3
+statue_30_view_5_1.png,6.795918367346938,3
+statue_30_view_6_1.png,6.795918367346938,3
+statue_30_view_7_1.png,6.795918367346938,3
+statue_30_view_8_1.png,6.795918367346938,3
+statue_30_view_9_1.png,6.795918367346938,3
+statue_30_view_10_1.png,6.795918367346938,3
+statue_30_view_11_1.png,6.795918367346938,3
+statue_30_view_12_1.png,6.795918367346938,3
+statue_31_view_1_1.png,6.525,3
+statue_31_view_2_1.png,6.525,3
+statue_31_view_3_1.png,6.525,3
+statue_31_view_4_1.png,6.525,3
+statue_31_view_5_1.png,6.525,3
+statue_31_view_6_1.png,6.525,3
+statue_31_view_7_1.png,6.525,3
+statue_31_view_8_1.png,6.525,3
+statue_31_view_9_1.png,6.525,3
+statue_31_view_10_1.png,6.525,3
+statue_31_view_11_1.png,6.525,3
+statue_31_view_12_1.png,6.525,3
+statue_32_view_1_1.png,6.536989795918367,3
+statue_32_view_2_1.png,6.536989795918367,3
+statue_32_view_3_1.png,6.536989795918367,3
+statue_32_view_4_1.png,6.536989795918367,3
+statue_32_view_5_1.png,6.536989795918367,3
+statue_32_view_6_1.png,6.536989795918367,3
+statue_32_view_7_1.png,6.536989795918367,3
+statue_32_view_8_1.png,6.536989795918367,3
+statue_32_view_9_1.png,6.536989795918367,3
+statue_32_view_10_1.png,6.536989795918367,3
+statue_32_view_11_1.png,6.536989795918367,3
+statue_32_view_12_1.png,6.536989795918367,3
+statue_33_view_1_1.png,2.85,3
+statue_33_view_2_1.png,2.85,3
+statue_33_view_3_1.png,2.85,3
+statue_33_view_4_1.png,2.85,3
+statue_33_view_5_1.png,2.85,3
+statue_33_view_6_1.png,2.85,3
+statue_33_view_7_1.png,2.85,3
+statue_33_view_8_1.png,2.85,3
+statue_33_view_9_1.png,2.85,3
+statue_33_view_10_1.png,2.85,3
+statue_33_view_11_1.png,2.85,3
+statue_33_view_12_1.png,2.85,3
+statue_34_view_1_1.png,1.625,3
+statue_34_view_2_1.png,1.625,3
+statue_34_view_3_1.png,1.625,3
+statue_34_view_4_1.png,1.625,3
+statue_34_view_5_1.png,1.625,3
+statue_34_view_6_1.png,1.625,3
+statue_34_view_7_1.png,1.625,3
+statue_34_view_8_1.png,1.625,3
+statue_34_view_9_1.png,1.625,3
+statue_34_view_10_1.png,1.625,3
+statue_34_view_11_1.png,1.625,3
+statue_34_view_12_1.png,1.625,3
+statue_35_view_1_1.png,1.6900510204081638,3
+statue_35_view_2_1.png,1.6900510204081638,3
+statue_35_view_3_1.png,1.6900510204081638,3
+statue_35_view_4_1.png,1.6900510204081638,3
+statue_35_view_5_1.png,1.6900510204081638,3
+statue_35_view_6_1.png,1.6900510204081638,3
+statue_35_view_7_1.png,1.6900510204081638,3
+statue_35_view_8_1.png,1.6900510204081638,3
+statue_35_view_9_1.png,1.6900510204081638,3
+statue_35_view_10_1.png,1.6900510204081638,3
+statue_35_view_11_1.png,1.6900510204081638,3
+statue_35_view_12_1.png,1.6900510204081638,3
+statue_4_view_1_1.png,3.015625,0
+statue_4_view_2_1.png,3.015625,0
+statue_4_view_3_1.png,3.015625,0
+statue_4_view_4_1.png,3.015625,0
+statue_4_view_5_1.png,3.015625,0
+statue_4_view_6_1.png,3.015625,0
+statue_4_view_7_1.png,3.015625,0
+statue_4_view_8_1.png,3.015625,0
+statue_4_view_9_1.png,3.015625,0
+statue_4_view_10_1.png,3.015625,0
+statue_4_view_11_1.png,3.015625,0
+statue_4_view_12_1.png,3.015625,0
+statue_5_view_1_1.png,1.453125,0
+statue_5_view_2_1.png,1.453125,0
+statue_5_view_3_1.png,1.453125,0
+statue_5_view_4_1.png,1.453125,0
+statue_5_view_5_1.png,1.453125,0
+statue_5_view_6_1.png,1.453125,0
+statue_5_view_7_1.png,1.453125,0
+statue_5_view_8_1.png,1.453125,0
+statue_5_view_9_1.png,1.453125,0
+statue_5_view_10_1.png,1.453125,0
+statue_5_view_11_1.png,1.453125,0
+statue_5_view_12_1.png,1.453125,0
+statue_6_view_1_1.png,7.40625,1
+statue_6_view_2_1.png,7.40625,1
+statue_6_view_3_1.png,7.40625,1
+statue_6_view_4_1.png,7.40625,1
+statue_6_view_5_1.png,7.40625,1
+statue_6_view_6_1.png,7.40625,1
+statue_6_view_7_1.png,7.40625,1
+statue_6_view_8_1.png,7.40625,1
+statue_6_view_9_1.png,7.40625,1
+statue_6_view_10_1.png,7.40625,1
+statue_6_view_11_1.png,7.40625,1
+statue_6_view_12_1.png,7.40625,1
+statue_7_view_1_1.png,5.459183673469388,1
+statue_7_view_2_1.png,5.459183673469388,1
+statue_7_view_3_1.png,5.459183673469388,1
+statue_7_view_4_1.png,5.459183673469388,1
+statue_7_view_5_1.png,5.459183673469388,1
+statue_7_view_6_1.png,5.459183673469388,1
+statue_7_view_7_1.png,5.459183673469388,1
+statue_7_view_8_1.png,5.459183673469388,1
+statue_7_view_9_1.png,5.459183673469388,1
+statue_7_view_10_1.png,5.459183673469388,1
+statue_7_view_11_1.png,5.459183673469388,1
+statue_7_view_12_1.png,5.459183673469388,1
+statue_8_view_1_1.png,6.4,1
+statue_8_view_2_1.png,6.4,1
+statue_8_view_3_1.png,6.4,1
+statue_8_view_4_1.png,6.4,1
+statue_8_view_5_1.png,6.4,1
+statue_8_view_6_1.png,6.4,1
+statue_8_view_7_1.png,6.4,1
+statue_8_view_8_1.png,6.4,1
+statue_8_view_9_1.png,6.4,1
+statue_8_view_10_1.png,6.4,1
+statue_8_view_11_1.png,6.4,1
+statue_8_view_12_1.png,6.4,1
+statue_9_view_1_1.png,5.899234693877552,1
+statue_9_view_2_1.png,5.899234693877552,1
+statue_9_view_3_1.png,5.899234693877552,1
+statue_9_view_4_1.png,5.899234693877552,1
+statue_9_view_5_1.png,5.899234693877552,1
+statue_9_view_6_1.png,5.899234693877552,1
+statue_9_view_7_1.png,5.899234693877552,1
+statue_9_view_8_1.png,5.899234693877552,1
+statue_9_view_9_1.png,5.899234693877552,1
+statue_9_view_10_1.png,5.899234693877552,1
+statue_9_view_11_1.png,5.899234693877552,1
+statue_9_view_12_1.png,5.899234693877552,1
+shiva_0_view_1_1.png,6.558333333333334,0
+shiva_0_view_2_1.png,6.558333333333334,0
+shiva_0_view_3_1.png,6.558333333333334,0
+shiva_0_view_4_1.png,6.558333333333334,0
+shiva_0_view_5_1.png,6.558333333333334,0
+shiva_0_view_6_1.png,6.558333333333334,0
+shiva_0_view_7_1.png,6.558333333333334,0
+shiva_0_view_8_1.png,6.558333333333334,0
+shiva_0_view_9_1.png,6.558333333333334,0
+shiva_0_view_10_1.png,6.558333333333334,0
+shiva_0_view_11_1.png,6.558333333333334,0
+shiva_0_view_12_1.png,6.558333333333334,0
+shiva_1_view_1_1.png,7.834615384615384,0
+shiva_1_view_2_1.png,7.834615384615384,0
+shiva_1_view_3_1.png,7.834615384615384,0
+shiva_1_view_4_1.png,7.834615384615384,0
+shiva_1_view_5_1.png,7.834615384615384,0
+shiva_1_view_6_1.png,7.834615384615384,0
+shiva_1_view_7_1.png,7.834615384615384,0
+shiva_1_view_8_1.png,7.834615384615384,0
+shiva_1_view_9_1.png,7.834615384615384,0
+shiva_1_view_10_1.png,7.834615384615384,0
+shiva_1_view_11_1.png,7.834615384615384,0
+shiva_1_view_12_1.png,7.834615384615384,0
+shiva_10_view_1_1.png,6.7846153846153845,1
+shiva_10_view_2_1.png,6.7846153846153845,1
+shiva_10_view_3_1.png,6.7846153846153845,1
+shiva_10_view_4_1.png,6.7846153846153845,1
+shiva_10_view_5_1.png,6.7846153846153845,1
+shiva_10_view_6_1.png,6.7846153846153845,1
+shiva_10_view_7_1.png,6.7846153846153845,1
+shiva_10_view_8_1.png,6.7846153846153845,1
+shiva_10_view_9_1.png,6.7846153846153845,1
+shiva_10_view_10_1.png,6.7846153846153845,1
+shiva_10_view_11_1.png,6.7846153846153845,1
+shiva_10_view_12_1.png,6.7846153846153845,1
+shiva_11_view_1_1.png,6.244897959183674,1
+shiva_11_view_2_1.png,6.244897959183674,1
+shiva_11_view_3_1.png,6.244897959183674,1
+shiva_11_view_4_1.png,6.244897959183674,1
+shiva_11_view_5_1.png,6.244897959183674,1
+shiva_11_view_6_1.png,6.244897959183674,1
+shiva_11_view_7_1.png,6.244897959183674,1
+shiva_11_view_8_1.png,6.244897959183674,1
+shiva_11_view_9_1.png,6.244897959183674,1
+shiva_11_view_10_1.png,6.244897959183674,1
+shiva_11_view_11_1.png,6.244897959183674,1
+shiva_11_view_12_1.png,6.244897959183674,1
+shiva_12_view_1_1.png,6.975,2
+shiva_12_view_2_1.png,6.975,2
+shiva_12_view_3_1.png,6.975,2
+shiva_12_view_4_1.png,6.975,2
+shiva_12_view_5_1.png,6.975,2
+shiva_12_view_6_1.png,6.975,2
+shiva_12_view_7_1.png,6.975,2
+shiva_12_view_8_1.png,6.975,2
+shiva_12_view_9_1.png,6.975,2
+shiva_12_view_10_1.png,6.975,2
+shiva_12_view_11_1.png,6.975,2
+shiva_12_view_12_1.png,6.975,2
+shiva_13_view_1_1.png,6.816666666666666,2
+shiva_13_view_2_1.png,6.816666666666666,2
+shiva_13_view_3_1.png,6.816666666666666,2
+shiva_13_view_4_1.png,6.816666666666666,2
+shiva_13_view_5_1.png,6.816666666666666,2
+shiva_13_view_6_1.png,6.816666666666666,2
+shiva_13_view_7_1.png,6.816666666666666,2
+shiva_13_view_8_1.png,6.816666666666666,2
+shiva_13_view_9_1.png,6.816666666666666,2
+shiva_13_view_10_1.png,6.816666666666666,2
+shiva_13_view_11_1.png,6.816666666666666,2
+shiva_13_view_12_1.png,6.816666666666666,2
+shiva_14_view_1_1.png,6.591666666666667,2
+shiva_14_view_2_1.png,6.591666666666667,2
+shiva_14_view_3_1.png,6.591666666666667,2
+shiva_14_view_4_1.png,6.591666666666667,2
+shiva_14_view_5_1.png,6.591666666666667,2
+shiva_14_view_6_1.png,6.591666666666667,2
+shiva_14_view_7_1.png,6.591666666666667,2
+shiva_14_view_8_1.png,6.591666666666667,2
+shiva_14_view_9_1.png,6.591666666666667,2
+shiva_14_view_10_1.png,6.591666666666667,2
+shiva_14_view_11_1.png,6.591666666666667,2
+shiva_14_view_12_1.png,6.591666666666667,2
+shiva_15_view_1_1.png,6.331632653061225,2
+shiva_15_view_2_1.png,6.331632653061225,2
+shiva_15_view_3_1.png,6.331632653061225,2
+shiva_15_view_4_1.png,6.331632653061225,2
+shiva_15_view_5_1.png,6.331632653061225,2
+shiva_15_view_6_1.png,6.331632653061225,2
+shiva_15_view_7_1.png,6.331632653061225,2
+shiva_15_view_8_1.png,6.331632653061225,2
+shiva_15_view_9_1.png,6.331632653061225,2
+shiva_15_view_10_1.png,6.331632653061225,2
+shiva_15_view_11_1.png,6.331632653061225,2
+shiva_15_view_12_1.png,6.331632653061225,2
+shiva_16_view_1_1.png,5.9438775510204085,2
+shiva_16_view_2_1.png,5.9438775510204085,2
+shiva_16_view_3_1.png,5.9438775510204085,2
+shiva_16_view_4_1.png,5.9438775510204085,2
+shiva_16_view_5_1.png,5.9438775510204085,2
+shiva_16_view_6_1.png,5.9438775510204085,2
+shiva_16_view_7_1.png,5.9438775510204085,2
+shiva_16_view_8_1.png,5.9438775510204085,2
+shiva_16_view_9_1.png,5.9438775510204085,2
+shiva_16_view_10_1.png,5.9438775510204085,2
+shiva_16_view_11_1.png,5.9438775510204085,2
+shiva_16_view_12_1.png,5.9438775510204085,2
+shiva_17_view_1_1.png,3.4609375,2
+shiva_17_view_2_1.png,3.4609375,2
+shiva_17_view_3_1.png,3.4609375,2
+shiva_17_view_4_1.png,3.4609375,2
+shiva_17_view_5_1.png,3.4609375,2
+shiva_17_view_6_1.png,3.4609375,2
+shiva_17_view_7_1.png,3.4609375,2
+shiva_17_view_8_1.png,3.4609375,2
+shiva_17_view_9_1.png,3.4609375,2
+shiva_17_view_10_1.png,3.4609375,2
+shiva_17_view_11_1.png,3.4609375,2
+shiva_17_view_12_1.png,3.4609375,2
+shiva_2_view_1_1.png,7.767307692307692,0
+shiva_2_view_2_1.png,7.767307692307692,0
+shiva_2_view_3_1.png,7.767307692307692,0
+shiva_2_view_4_1.png,7.767307692307692,0
+shiva_2_view_5_1.png,7.767307692307692,0
+shiva_2_view_6_1.png,7.767307692307692,0
+shiva_2_view_7_1.png,7.767307692307692,0
+shiva_2_view_8_1.png,7.767307692307692,0
+shiva_2_view_9_1.png,7.767307692307692,0
+shiva_2_view_10_1.png,7.767307692307692,0
+shiva_2_view_11_1.png,7.767307692307692,0
+shiva_2_view_12_1.png,7.767307692307692,0
+shiva_3_view_1_1.png,5.991666666666666,0
+shiva_3_view_2_1.png,5.991666666666666,0
+shiva_3_view_3_1.png,5.991666666666666,0
+shiva_3_view_4_1.png,5.991666666666666,0
+shiva_3_view_5_1.png,5.991666666666666,0
+shiva_3_view_6_1.png,5.991666666666666,0
+shiva_3_view_7_1.png,5.991666666666666,0
+shiva_3_view_8_1.png,5.991666666666666,0
+shiva_3_view_9_1.png,5.991666666666666,0
+shiva_3_view_10_1.png,5.991666666666666,0
+shiva_3_view_11_1.png,5.991666666666666,0
+shiva_3_view_12_1.png,5.991666666666666,0
+shiva_30_view_1_1.png,8.8359375,3
+shiva_30_view_2_1.png,8.8359375,3
+shiva_30_view_3_1.png,8.8359375,3
+shiva_30_view_4_1.png,8.8359375,3
+shiva_30_view_5_1.png,8.8359375,3
+shiva_30_view_6_1.png,8.8359375,3
+shiva_30_view_7_1.png,8.8359375,3
+shiva_30_view_8_1.png,8.8359375,3
+shiva_30_view_9_1.png,8.8359375,3
+shiva_30_view_10_1.png,8.8359375,3
+shiva_30_view_11_1.png,8.8359375,3
+shiva_30_view_12_1.png,8.8359375,3
+shiva_31_view_1_1.png,6.825,3
+shiva_31_view_2_1.png,6.825,3
+shiva_31_view_3_1.png,6.825,3
+shiva_31_view_4_1.png,6.825,3
+shiva_31_view_5_1.png,6.825,3
+shiva_31_view_6_1.png,6.825,3
+shiva_31_view_7_1.png,6.825,3
+shiva_31_view_8_1.png,6.825,3
+shiva_31_view_9_1.png,6.825,3
+shiva_31_view_10_1.png,6.825,3
+shiva_31_view_11_1.png,6.825,3
+shiva_31_view_12_1.png,6.825,3
+shiva_32_view_1_1.png,5.75,3
+shiva_32_view_2_1.png,5.75,3
+shiva_32_view_3_1.png,5.75,3
+shiva_32_view_4_1.png,5.75,3
+shiva_32_view_5_1.png,5.75,3
+shiva_32_view_6_1.png,5.75,3
+shiva_32_view_7_1.png,5.75,3
+shiva_32_view_8_1.png,5.75,3
+shiva_32_view_9_1.png,5.75,3
+shiva_32_view_10_1.png,5.75,3
+shiva_32_view_11_1.png,5.75,3
+shiva_32_view_12_1.png,5.75,3
+shiva_33_view_1_1.png,2.8307692307692305,3
+shiva_33_view_2_1.png,2.8307692307692305,3
+shiva_33_view_3_1.png,2.8307692307692305,3
+shiva_33_view_4_1.png,2.8307692307692305,3
+shiva_33_view_5_1.png,2.8307692307692305,3
+shiva_33_view_6_1.png,2.8307692307692305,3
+shiva_33_view_7_1.png,2.8307692307692305,3
+shiva_33_view_8_1.png,2.8307692307692305,3
+shiva_33_view_9_1.png,2.8307692307692305,3
+shiva_33_view_10_1.png,2.8307692307692305,3
+shiva_33_view_11_1.png,2.8307692307692305,3
+shiva_33_view_12_1.png,2.8307692307692305,3
+shiva_34_view_1_1.png,2.3201530612244903,3
+shiva_34_view_2_1.png,2.3201530612244903,3
+shiva_34_view_3_1.png,2.3201530612244903,3
+shiva_34_view_4_1.png,2.3201530612244903,3
+shiva_34_view_5_1.png,2.3201530612244903,3
+shiva_34_view_6_1.png,2.3201530612244903,3
+shiva_34_view_7_1.png,2.3201530612244903,3
+shiva_34_view_8_1.png,2.3201530612244903,3
+shiva_34_view_9_1.png,2.3201530612244903,3
+shiva_34_view_10_1.png,2.3201530612244903,3
+shiva_34_view_11_1.png,2.3201530612244903,3
+shiva_34_view_12_1.png,2.3201530612244903,3
+shiva_35_view_1_1.png,1.6007653061224494,3
+shiva_35_view_2_1.png,1.6007653061224494,3
+shiva_35_view_3_1.png,1.6007653061224494,3
+shiva_35_view_4_1.png,1.6007653061224494,3
+shiva_35_view_5_1.png,1.6007653061224494,3
+shiva_35_view_6_1.png,1.6007653061224494,3
+shiva_35_view_7_1.png,1.6007653061224494,3
+shiva_35_view_8_1.png,1.6007653061224494,3
+shiva_35_view_9_1.png,1.6007653061224494,3
+shiva_35_view_10_1.png,1.6007653061224494,3
+shiva_35_view_11_1.png,1.6007653061224494,3
+shiva_35_view_12_1.png,1.6007653061224494,3
+shiva_4_view_1_1.png,6.6171875,0
+shiva_4_view_2_1.png,6.6171875,0
+shiva_4_view_3_1.png,6.6171875,0
+shiva_4_view_4_1.png,6.6171875,0
+shiva_4_view_5_1.png,6.6171875,0
+shiva_4_view_6_1.png,6.6171875,0
+shiva_4_view_7_1.png,6.6171875,0
+shiva_4_view_8_1.png,6.6171875,0
+shiva_4_view_9_1.png,6.6171875,0
+shiva_4_view_10_1.png,6.6171875,0
+shiva_4_view_11_1.png,6.6171875,0
+shiva_4_view_12_1.png,6.6171875,0
+shiva_5_view_1_1.png,3.2627551020408165,0
+shiva_5_view_2_1.png,3.2627551020408165,0
+shiva_5_view_3_1.png,3.2627551020408165,0
+shiva_5_view_4_1.png,3.2627551020408165,0
+shiva_5_view_5_1.png,3.2627551020408165,0
+shiva_5_view_6_1.png,3.2627551020408165,0
+shiva_5_view_7_1.png,3.2627551020408165,0
+shiva_5_view_8_1.png,3.2627551020408165,0
+shiva_5_view_9_1.png,3.2627551020408165,0
+shiva_5_view_10_1.png,3.2627551020408165,0
+shiva_5_view_11_1.png,3.2627551020408165,0
+shiva_5_view_12_1.png,3.2627551020408165,0
+shiva_6_view_1_1.png,8.5,1
+shiva_6_view_2_1.png,8.5,1
+shiva_6_view_3_1.png,8.5,1
+shiva_6_view_4_1.png,8.5,1
+shiva_6_view_5_1.png,8.5,1
+shiva_6_view_6_1.png,8.5,1
+shiva_6_view_7_1.png,8.5,1
+shiva_6_view_8_1.png,8.5,1
+shiva_6_view_9_1.png,8.5,1
+shiva_6_view_10_1.png,8.5,1
+shiva_6_view_11_1.png,8.5,1
+shiva_6_view_12_1.png,8.5,1
+shiva_7_view_1_1.png,6.917091836734694,1
+shiva_7_view_2_1.png,6.917091836734694,1
+shiva_7_view_3_1.png,6.917091836734694,1
+shiva_7_view_4_1.png,6.917091836734694,1
+shiva_7_view_5_1.png,6.917091836734694,1
+shiva_7_view_6_1.png,6.917091836734694,1
+shiva_7_view_7_1.png,6.917091836734694,1
+shiva_7_view_8_1.png,6.917091836734694,1
+shiva_7_view_9_1.png,6.917091836734694,1
+shiva_7_view_10_1.png,6.917091836734694,1
+shiva_7_view_11_1.png,6.917091836734694,1
+shiva_7_view_12_1.png,6.917091836734694,1
+shiva_8_view_1_1.png,7.8442307692307685,1
+shiva_8_view_2_1.png,7.8442307692307685,1
+shiva_8_view_3_1.png,7.8442307692307685,1
+shiva_8_view_4_1.png,7.8442307692307685,1
+shiva_8_view_5_1.png,7.8442307692307685,1
+shiva_8_view_6_1.png,7.8442307692307685,1
+shiva_8_view_7_1.png,7.8442307692307685,1
+shiva_8_view_8_1.png,7.8442307692307685,1
+shiva_8_view_9_1.png,7.8442307692307685,1
+shiva_8_view_10_1.png,7.8442307692307685,1
+shiva_8_view_11_1.png,7.8442307692307685,1
+shiva_8_view_12_1.png,7.8442307692307685,1
+shiva_9_view_1_1.png,7.622448979591837,1
+shiva_9_view_2_1.png,7.622448979591837,1
+shiva_9_view_3_1.png,7.622448979591837,1
+shiva_9_view_4_1.png,7.622448979591837,1
+shiva_9_view_5_1.png,7.622448979591837,1
+shiva_9_view_6_1.png,7.622448979591837,1
+shiva_9_view_7_1.png,7.622448979591837,1
+shiva_9_view_8_1.png,7.622448979591837,1
+shiva_9_view_9_1.png,7.622448979591837,1
+shiva_9_view_10_1.png,7.622448979591837,1
+shiva_9_view_11_1.png,7.622448979591837,1
+shiva_9_view_12_1.png,7.622448979591837,1
+hhi_0_view_1_1.png,9.516666666666667,0
+hhi_0_view_2_1.png,9.516666666666667,0
+hhi_0_view_3_1.png,9.516666666666667,0
+hhi_0_view_4_1.png,9.516666666666667,0
+hhi_0_view_5_1.png,9.516666666666667,0
+hhi_0_view_6_1.png,9.516666666666667,0
+hhi_0_view_7_1.png,9.516666666666667,0
+hhi_0_view_8_1.png,9.516666666666667,0
+hhi_0_view_9_1.png,9.516666666666667,0
+hhi_0_view_10_1.png,9.516666666666667,0
+hhi_0_view_11_1.png,9.516666666666667,0
+hhi_0_view_12_1.png,9.516666666666667,0
+hhi_1_view_1_1.png,7.7109375,0
+hhi_1_view_2_1.png,7.7109375,0
+hhi_1_view_3_1.png,7.7109375,0
+hhi_1_view_4_1.png,7.7109375,0
+hhi_1_view_5_1.png,7.7109375,0
+hhi_1_view_6_1.png,7.7109375,0
+hhi_1_view_7_1.png,7.7109375,0
+hhi_1_view_8_1.png,7.7109375,0
+hhi_1_view_9_1.png,7.7109375,0
+hhi_1_view_10_1.png,7.7109375,0
+hhi_1_view_11_1.png,7.7109375,0
+hhi_1_view_12_1.png,7.7109375,0
+hhi_10_view_1_1.png,4.808333333333334,1
+hhi_10_view_2_1.png,4.808333333333334,1
+hhi_10_view_3_1.png,4.808333333333334,1
+hhi_10_view_4_1.png,4.808333333333334,1
+hhi_10_view_5_1.png,4.808333333333334,1
+hhi_10_view_6_1.png,4.808333333333334,1
+hhi_10_view_7_1.png,4.808333333333334,1
+hhi_10_view_8_1.png,4.808333333333334,1
+hhi_10_view_9_1.png,4.808333333333334,1
+hhi_10_view_10_1.png,4.808333333333334,1
+hhi_10_view_11_1.png,4.808333333333334,1
+hhi_10_view_12_1.png,4.808333333333334,1
+hhi_11_view_1_1.png,5.0211538461538465,1
+hhi_11_view_2_1.png,5.0211538461538465,1
+hhi_11_view_3_1.png,5.0211538461538465,1
+hhi_11_view_4_1.png,5.0211538461538465,1
+hhi_11_view_5_1.png,5.0211538461538465,1
+hhi_11_view_6_1.png,5.0211538461538465,1
+hhi_11_view_7_1.png,5.0211538461538465,1
+hhi_11_view_8_1.png,5.0211538461538465,1
+hhi_11_view_9_1.png,5.0211538461538465,1
+hhi_11_view_10_1.png,5.0211538461538465,1
+hhi_11_view_11_1.png,5.0211538461538465,1
+hhi_11_view_12_1.png,5.0211538461538465,1
+hhi_12_view_1_1.png,8.741666666666667,2
+hhi_12_view_2_1.png,8.741666666666667,2
+hhi_12_view_3_1.png,8.741666666666667,2
+hhi_12_view_4_1.png,8.741666666666667,2
+hhi_12_view_5_1.png,8.741666666666667,2
+hhi_12_view_6_1.png,8.741666666666667,2
+hhi_12_view_7_1.png,8.741666666666667,2
+hhi_12_view_8_1.png,8.741666666666667,2
+hhi_12_view_9_1.png,8.741666666666667,2
+hhi_12_view_10_1.png,8.741666666666667,2
+hhi_12_view_11_1.png,8.741666666666667,2
+hhi_12_view_12_1.png,8.741666666666667,2
+hhi_13_view_1_1.png,6.5346153846153845,2
+hhi_13_view_2_1.png,6.5346153846153845,2
+hhi_13_view_3_1.png,6.5346153846153845,2
+hhi_13_view_4_1.png,6.5346153846153845,2
+hhi_13_view_5_1.png,6.5346153846153845,2
+hhi_13_view_6_1.png,6.5346153846153845,2
+hhi_13_view_7_1.png,6.5346153846153845,2
+hhi_13_view_8_1.png,6.5346153846153845,2
+hhi_13_view_9_1.png,6.5346153846153845,2
+hhi_13_view_10_1.png,6.5346153846153845,2
+hhi_13_view_11_1.png,6.5346153846153845,2
+hhi_13_view_12_1.png,6.5346153846153845,2
+hhi_14_view_1_1.png,7.015625,2
+hhi_14_view_2_1.png,7.015625,2
+hhi_14_view_3_1.png,7.015625,2
+hhi_14_view_4_1.png,7.015625,2
+hhi_14_view_5_1.png,7.015625,2
+hhi_14_view_6_1.png,7.015625,2
+hhi_14_view_7_1.png,7.015625,2
+hhi_14_view_8_1.png,7.015625,2
+hhi_14_view_9_1.png,7.015625,2
+hhi_14_view_10_1.png,7.015625,2
+hhi_14_view_11_1.png,7.015625,2
+hhi_14_view_12_1.png,7.015625,2
+hhi_15_view_1_1.png,4.9296875,2
+hhi_15_view_2_1.png,4.9296875,2
+hhi_15_view_3_1.png,4.9296875,2
+hhi_15_view_4_1.png,4.9296875,2
+hhi_15_view_5_1.png,4.9296875,2
+hhi_15_view_6_1.png,4.9296875,2
+hhi_15_view_7_1.png,4.9296875,2
+hhi_15_view_8_1.png,4.9296875,2
+hhi_15_view_9_1.png,4.9296875,2
+hhi_15_view_10_1.png,4.9296875,2
+hhi_15_view_11_1.png,4.9296875,2
+hhi_15_view_12_1.png,4.9296875,2
+hhi_16_view_1_1.png,4.056122448979592,2
+hhi_16_view_2_1.png,4.056122448979592,2
+hhi_16_view_3_1.png,4.056122448979592,2
+hhi_16_view_4_1.png,4.056122448979592,2
+hhi_16_view_5_1.png,4.056122448979592,2
+hhi_16_view_6_1.png,4.056122448979592,2
+hhi_16_view_7_1.png,4.056122448979592,2
+hhi_16_view_8_1.png,4.056122448979592,2
+hhi_16_view_9_1.png,4.056122448979592,2
+hhi_16_view_10_1.png,4.056122448979592,2
+hhi_16_view_11_1.png,4.056122448979592,2
+hhi_16_view_12_1.png,4.056122448979592,2
+hhi_17_view_1_1.png,1.7857142857142858,2
+hhi_17_view_2_1.png,1.7857142857142858,2
+hhi_17_view_3_1.png,1.7857142857142858,2
+hhi_17_view_4_1.png,1.7857142857142858,2
+hhi_17_view_5_1.png,1.7857142857142858,2
+hhi_17_view_6_1.png,1.7857142857142858,2
+hhi_17_view_7_1.png,1.7857142857142858,2
+hhi_17_view_8_1.png,1.7857142857142858,2
+hhi_17_view_9_1.png,1.7857142857142858,2
+hhi_17_view_10_1.png,1.7857142857142858,2
+hhi_17_view_11_1.png,1.7857142857142858,2
+hhi_17_view_12_1.png,1.7857142857142858,2
+hhi_2_view_1_1.png,8.9453125,0
+hhi_2_view_2_1.png,8.9453125,0
+hhi_2_view_3_1.png,8.9453125,0
+hhi_2_view_4_1.png,8.9453125,0
+hhi_2_view_5_1.png,8.9453125,0
+hhi_2_view_6_1.png,8.9453125,0
+hhi_2_view_7_1.png,8.9453125,0
+hhi_2_view_8_1.png,8.9453125,0
+hhi_2_view_9_1.png,8.9453125,0
+hhi_2_view_10_1.png,8.9453125,0
+hhi_2_view_11_1.png,8.9453125,0
+hhi_2_view_12_1.png,8.9453125,0
+hhi_3_view_1_1.png,7.371153846153846,0
+hhi_3_view_2_1.png,7.371153846153846,0
+hhi_3_view_3_1.png,7.371153846153846,0
+hhi_3_view_4_1.png,7.371153846153846,0
+hhi_3_view_5_1.png,7.371153846153846,0
+hhi_3_view_6_1.png,7.371153846153846,0
+hhi_3_view_7_1.png,7.371153846153846,0
+hhi_3_view_8_1.png,7.371153846153846,0
+hhi_3_view_9_1.png,7.371153846153846,0
+hhi_3_view_10_1.png,7.371153846153846,0
+hhi_3_view_11_1.png,7.371153846153846,0
+hhi_3_view_12_1.png,7.371153846153846,0
+hhi_30_view_1_1.png,9.464285714285714,3
+hhi_30_view_2_1.png,9.464285714285714,3
+hhi_30_view_3_1.png,9.464285714285714,3
+hhi_30_view_4_1.png,9.464285714285714,3
+hhi_30_view_5_1.png,9.464285714285714,3
+hhi_30_view_6_1.png,9.464285714285714,3
+hhi_30_view_7_1.png,9.464285714285714,3
+hhi_30_view_8_1.png,9.464285714285714,3
+hhi_30_view_9_1.png,9.464285714285714,3
+hhi_30_view_10_1.png,9.464285714285714,3
+hhi_30_view_11_1.png,9.464285714285714,3
+hhi_30_view_12_1.png,9.464285714285714,3
+hhi_31_view_1_1.png,8.3125,3
+hhi_31_view_2_1.png,8.3125,3
+hhi_31_view_3_1.png,8.3125,3
+hhi_31_view_4_1.png,8.3125,3
+hhi_31_view_5_1.png,8.3125,3
+hhi_31_view_6_1.png,8.3125,3
+hhi_31_view_7_1.png,8.3125,3
+hhi_31_view_8_1.png,8.3125,3
+hhi_31_view_9_1.png,8.3125,3
+hhi_31_view_10_1.png,8.3125,3
+hhi_31_view_11_1.png,8.3125,3
+hhi_31_view_12_1.png,8.3125,3
+hhi_32_view_1_1.png,6.836734693877552,3
+hhi_32_view_2_1.png,6.836734693877552,3
+hhi_32_view_3_1.png,6.836734693877552,3
+hhi_32_view_4_1.png,6.836734693877552,3
+hhi_32_view_5_1.png,6.836734693877552,3
+hhi_32_view_6_1.png,6.836734693877552,3
+hhi_32_view_7_1.png,6.836734693877552,3
+hhi_32_view_8_1.png,6.836734693877552,3
+hhi_32_view_9_1.png,6.836734693877552,3
+hhi_32_view_10_1.png,6.836734693877552,3
+hhi_32_view_11_1.png,6.836734693877552,3
+hhi_32_view_12_1.png,6.836734693877552,3
+hhi_33_view_1_1.png,3.475,3
+hhi_33_view_2_1.png,3.475,3
+hhi_33_view_3_1.png,3.475,3
+hhi_33_view_4_1.png,3.475,3
+hhi_33_view_5_1.png,3.475,3
+hhi_33_view_6_1.png,3.475,3
+hhi_33_view_7_1.png,3.475,3
+hhi_33_view_8_1.png,3.475,3
+hhi_33_view_9_1.png,3.475,3
+hhi_33_view_10_1.png,3.475,3
+hhi_33_view_11_1.png,3.475,3
+hhi_33_view_12_1.png,3.475,3
+hhi_34_view_1_1.png,1.8673076923076921,3
+hhi_34_view_2_1.png,1.8673076923076921,3
+hhi_34_view_3_1.png,1.8673076923076921,3
+hhi_34_view_4_1.png,1.8673076923076921,3
+hhi_34_view_5_1.png,1.8673076923076921,3
+hhi_34_view_6_1.png,1.8673076923076921,3
+hhi_34_view_7_1.png,1.8673076923076921,3
+hhi_34_view_8_1.png,1.8673076923076921,3
+hhi_34_view_9_1.png,1.8673076923076921,3
+hhi_34_view_10_1.png,1.8673076923076921,3
+hhi_34_view_11_1.png,1.8673076923076921,3
+hhi_34_view_12_1.png,1.8673076923076921,3
+hhi_35_view_1_1.png,1.1953125,3
+hhi_35_view_2_1.png,1.1953125,3
+hhi_35_view_3_1.png,1.1953125,3
+hhi_35_view_4_1.png,1.1953125,3
+hhi_35_view_5_1.png,1.1953125,3
+hhi_35_view_6_1.png,1.1953125,3
+hhi_35_view_7_1.png,1.1953125,3
+hhi_35_view_8_1.png,1.1953125,3
+hhi_35_view_9_1.png,1.1953125,3
+hhi_35_view_10_1.png,1.1953125,3
+hhi_35_view_11_1.png,1.1953125,3
+hhi_35_view_12_1.png,1.1953125,3
+hhi_4_view_1_1.png,4.183333333333334,0
+hhi_4_view_2_1.png,4.183333333333334,0
+hhi_4_view_3_1.png,4.183333333333334,0
+hhi_4_view_4_1.png,4.183333333333334,0
+hhi_4_view_5_1.png,4.183333333333334,0
+hhi_4_view_6_1.png,4.183333333333334,0
+hhi_4_view_7_1.png,4.183333333333334,0
+hhi_4_view_8_1.png,4.183333333333334,0
+hhi_4_view_9_1.png,4.183333333333334,0
+hhi_4_view_10_1.png,4.183333333333334,0
+hhi_4_view_11_1.png,4.183333333333334,0
+hhi_4_view_12_1.png,4.183333333333334,0
+hhi_5_view_1_1.png,1.953125,0
+hhi_5_view_2_1.png,1.953125,0
+hhi_5_view_3_1.png,1.953125,0
+hhi_5_view_4_1.png,1.953125,0
+hhi_5_view_5_1.png,1.953125,0
+hhi_5_view_6_1.png,1.953125,0
+hhi_5_view_7_1.png,1.953125,0
+hhi_5_view_8_1.png,1.953125,0
+hhi_5_view_9_1.png,1.953125,0
+hhi_5_view_10_1.png,1.953125,0
+hhi_5_view_11_1.png,1.953125,0
+hhi_5_view_12_1.png,1.953125,0
+hhi_6_view_1_1.png,9.796875,1
+hhi_6_view_2_1.png,9.796875,1
+hhi_6_view_3_1.png,9.796875,1
+hhi_6_view_4_1.png,9.796875,1
+hhi_6_view_5_1.png,9.796875,1
+hhi_6_view_6_1.png,9.796875,1
+hhi_6_view_7_1.png,9.796875,1
+hhi_6_view_8_1.png,9.796875,1
+hhi_6_view_9_1.png,9.796875,1
+hhi_6_view_10_1.png,9.796875,1
+hhi_6_view_11_1.png,9.796875,1
+hhi_6_view_12_1.png,9.796875,1
+hhi_7_view_1_1.png,6.776923076923077,1
+hhi_7_view_2_1.png,6.776923076923077,1
+hhi_7_view_3_1.png,6.776923076923077,1
+hhi_7_view_4_1.png,6.776923076923077,1
+hhi_7_view_5_1.png,6.776923076923077,1
+hhi_7_view_6_1.png,6.776923076923077,1
+hhi_7_view_7_1.png,6.776923076923077,1
+hhi_7_view_8_1.png,6.776923076923077,1
+hhi_7_view_9_1.png,6.776923076923077,1
+hhi_7_view_10_1.png,6.776923076923077,1
+hhi_7_view_11_1.png,6.776923076923077,1
+hhi_7_view_12_1.png,6.776923076923077,1
+hhi_8_view_1_1.png,6.107692307692308,1
+hhi_8_view_2_1.png,6.107692307692308,1
+hhi_8_view_3_1.png,6.107692307692308,1
+hhi_8_view_4_1.png,6.107692307692308,1
+hhi_8_view_5_1.png,6.107692307692308,1
+hhi_8_view_6_1.png,6.107692307692308,1
+hhi_8_view_7_1.png,6.107692307692308,1
+hhi_8_view_8_1.png,6.107692307692308,1
+hhi_8_view_9_1.png,6.107692307692308,1
+hhi_8_view_10_1.png,6.107692307692308,1
+hhi_8_view_11_1.png,6.107692307692308,1
+hhi_8_view_12_1.png,6.107692307692308,1
+hhi_9_view_1_1.png,6.140625,1
+hhi_9_view_2_1.png,6.140625,1
+hhi_9_view_3_1.png,6.140625,1
+hhi_9_view_4_1.png,6.140625,1
+hhi_9_view_5_1.png,6.140625,1
+hhi_9_view_6_1.png,6.140625,1
+hhi_9_view_7_1.png,6.140625,1
+hhi_9_view_8_1.png,6.140625,1
+hhi_9_view_9_1.png,6.140625,1
+hhi_9_view_10_1.png,6.140625,1
+hhi_9_view_11_1.png,6.140625,1
+hhi_9_view_12_1.png,6.140625,1
