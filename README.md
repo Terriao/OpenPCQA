@@ -6,13 +6,15 @@
 
 **An Open-Source Algorithm Library of Point Cloud Quality Assessment Based on Deep Learning**
 
-[![License](https://img.shields.io/badge/license-Academic-blue.svg)](#)
+[![License](https://img.shields.io/badge/license-Academic-blue.svg)](#-license)
 [![PyTorch](https://img.shields.io/badge/PyTorch-✓-EE4C2C?logo=pytorch&logoColor=white)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-✓-FF6F00?logo=tensorflow&logoColor=white)](#)
 [![MindSpore](https://img.shields.io/badge/MindSpore-✓-0072C6)](#)
 [![Mirror](https://img.shields.io/badge/mirror-OpenI-success)](https://openi.pcl.ac.cn/OpenPCQA/OpenPCQA)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-contributing)
+[![Issues](https://img.shields.io/badge/issues-open-orange.svg)](https://github.com/Terriao/OpenPCQA/issues)
 
-*A unified multi-framework benchmark for deep-learning-based PCQA methods.*
+*A unified multi-framework benchmark for deep-learning-based Point Cloud Quality Assessment.*
 
 </div>
 
@@ -20,29 +22,114 @@
 
 ## 📖 Overview
 
-**OpenPCQA** collects representative deep-learning methods on Point Cloud Quality Assessment (PCQA), provides reproducible source code in **MindSpore**, **PyTorch**, and **TensorFlow**, and benchmarks their performance under a unified protocol.
+**OpenPCQA** is a unified, open-source library that brings together representative deep-learning methods for **Point Cloud Quality Assessment (PCQA)** — the task of predicting the perceived visual quality of a 3D point cloud after it has been compressed, transmitted, downsampled, or otherwise degraded.
 
-The goal of this repository is to lower the entry barrier for PCQA research by offering:
-
-- ✅ **Unified implementations** of 5 representative PCQA algorithms
-- ✅ **Cross-framework parity** — every method runs on PyTorch, TensorFlow, and MindSpore
-- ✅ **Benchmark results** on SJTU-PCQA, WPC, LS-PCQA, and PRLD datasets
-- ✅ **Reproducibility** — configs, seeds, and pretrained weights included
+The library provides reproducible implementations of five widely cited PCQA models in **PyTorch**, **TensorFlow**, and **MindSpore**, together with a common evaluation protocol on **SJTU-PCQA**, **WPC**, **LS-PCQA**, and **PRLD** datasets.
 
 > 🔗 **Mirror repository (OpenI):** <https://openi.pcl.ac.cn/OpenPCQA/OpenPCQA>
+> 🌐 **Maintained by:** Wei Gao Group, Shenzhen Graduate School, Peking University & Peng Cheng Laboratory
+
+---
+
+## 🎯 Why OpenPCQA?
+
+The PCQA research community faces several long-standing pain points:
+
+| Problem | OpenPCQA's Solution |
+|---------|---------------------|
+| 🔀 Methods are scattered across repositories with inconsistent conventions | ✅ A **single unified library** with consistent APIs and structure |
+| 🐍 Most code exists only in PyTorch | ✅ **Triple-framework parity** (PyTorch · TensorFlow · MindSpore) |
+| 📊 Reported numbers are hard to reproduce due to undocumented splits & seeds | ✅ **Fixed seeds, configs, and data splits** for every experiment |
+| ⏱️ No fair speed/memory comparison across frameworks | ✅ **Standardized inference-time & GPU-memory profiling** |
+| 📚 Newcomers struggle to find a baseline to start from | ✅ A **curated zoo** of 5 representative methods with one-command training |
+
+---
+
+## ✨ Project Highlights
+
+- 🧩 **5 representative PCQA algorithms** spanning projection-based and model-based paradigms
+- 🔁 **Triple-framework support** — every algorithm has PyTorch, TensorFlow, and MindSpore implementations
+- 📈 **Cross-framework benchmark** on SJTU-PCQA, WPC, LS-PCQA, and PRLD
+- ⚡ **Profiling included** — both inference latency and GPU memory footprint
+- 🧪 **Reproducible by design** — configs, seeds, pretrained weights and environment specs shipped together
+- 🎓 **Educational** — each subproject contains the original paper and architecture diagrams
+- 🤝 **Community-driven** — contributions of new methods, frameworks, and datasets are welcomed
 
 ---
 
 ## 📑 Table of Contents
 
+- [Background: What is PCQA?](#-background-what-is-pcqa)
+- [Datasets at a Glance](#-datasets-at-a-glance)
 - [Algorithm Zoo](#-algorithm-zoo)
   - [1.1 VQA-PC](#11-vqa-pc) — projection-based, NR
   - [1.2 PRL-GQA](#12-prl-gqa) — model-based, NR, geometry-only
   - [1.3 IT-PCQA](#13-it-pcqa) — projection-based, NR, domain adaptation
   - [1.4 PQA-Net](#14-pqa-net) — projection-based, NR
-  - [1.5 ResSCNN](#15-resscnn) — model-based, NR, sparse-conv
+  - [1.5 ResSCNN](#15-resscnn) — model-based, NR, sparse convolution
+- [Cross-Framework Benchmark Summary](#-cross-framework-benchmark-summary)
+- [Quick Start](#-quick-start)
+- [Roadmap](#-roadmap)
+- [FAQ](#-faq)
+- [Contributing](#-contributing)
 - [Contributors](#-contributors)
+- [Acknowledgements](#-acknowledgements)
+- [Citation](#-citation)
+- [License](#-license)
 - [Contact](#-contact)
+
+---
+
+## 🧭 Background: What is PCQA?
+
+**Point Cloud Quality Assessment (PCQA)** aims to algorithmically predict the perceptual quality of a 3D point cloud. As immersive media (VR/AR, autonomous driving, telepresence, digital twins) increasingly relies on point-cloud representations, the captured data inevitably goes through lossy pipelines:
+
+- 🗜️ **Compression** with codecs like G-PCC, V-PCC, AVS-PCC
+- 📉 **Down-sampling** to fit bandwidth or storage budgets
+- 📡 **Network transmission** with packet loss
+- 🎨 **Color quantization** for memory savings
+- 📐 **Geometry noise** introduced by sensors or reconstruction algorithms
+
+Each of these introduces visual artifacts. Knowing *how much* the quality has degraded — without showing every result to human raters — is essential to optimize codecs, allocate bitrate, and guarantee Quality of Experience (QoE).
+
+### Subjective vs. Objective PCQA
+
+| Approach | How it works | Cost | Use case |
+|----------|--------------|------|----------|
+| **Subjective** | Human raters score each point cloud (MOS) | 💸 Expensive, slow | Ground truth for building datasets |
+| **Objective** | An algorithm predicts the MOS | ⚡ Fast, scalable | Real-time pipelines, codec tuning |
+
+### Categories of Objective PCQA
+
+Objective PCQA methods are classified by how much information about the *original* (pristine) point cloud they need:
+
+- 🟢 **FR (Full-Reference)** — needs the original; highest accuracy, least practical
+- 🟡 **RR (Reduced-Reference)** — needs partial reference info (a few features)
+- 🔴 **NR (No-Reference)** — needs only the distorted cloud; **most practical, hardest to solve**
+
+> All 5 algorithms collected in OpenPCQA are **No-Reference (NR)** — the most useful and most challenging category.
+
+### Two Paradigms in Learning-Based PCQA
+
+- 🖼️ **Projection-based** — render the point cloud into 2D images (or videos) and reuse mature 2D CNN / VQA techniques
+  → *Used by: VQA-PC, IT-PCQA, PQA-Net*
+
+- 🧊 **Model-based (point-based)** — feed the raw 3D point cloud directly into a neural network (PointNet-style, sparse conv, etc.)
+  → *Used by: PRL-GQA, ResSCNN*
+
+---
+
+## 🗄️ Datasets at a Glance
+
+| Dataset | Sources | Distortion types | # Distorted samples | Notes |
+|--------|---------|------------------|---------------------|-------|
+| **SJTU-PCQA** | 10 | 7 (octree compression, color noise, geometry Gaussian noise, downscaling, three superimposed noises) | 420 | Classic benchmark from SJTU |
+| **WPC** | 20 | 5 (Gaussian noise, downsampling, G-PCC Octree/Trisoup, V-PCC) | 740 | Waterloo Point Cloud Dataset, colored |
+| **LS-PCQA** | 104 | 31 (12 noise types + downsampling, shifting, G-PCC, V-PCC, AVS-PCC, …) | 22,568 | **Large-scale**, most challenging |
+| **PRLD** | — | Geometry-only distortions | — | Pairwise ranking dataset for PRL-GQA |
+| **TID2013** | 25 natural images | 24 distortion types × 5 levels | 3,000 | Used as the **source domain** by IT-PCQA |
+
+> 💡 **Tip:** If you are new to PCQA, start with **SJTU-PCQA** — it's small, well-curated, and most algorithms have published numbers on it.
 
 ---
 
@@ -62,13 +149,26 @@ The goal of this repository is to lower the entry barrier for PCQA research by o
 
 ### 1.1 VQA-PC
 
-> 📅 **2022 Sep 11** · 🏷️ Projection-based · 🎯 No-reference
+> 📅 **2022 Sep 11** · 🏷️ Projection-based · 🎯 No-reference · 🎥 Video-based
 > 🔗 Subproject: <https://openi.pcl.ac.cn/OpenPCQA/VQA_PC>
 
 <p align="center"><img src="VQA-PC.png" alt="VQA-PC architecture" width="720"/></p>
 <p align="center"><em>Figure 1 · Network structure of VQA-PC</em></p>
 
-**Idea.** Treats PCQA as a video quality assessment (VQA) problem by rendering the point cloud as a video captured by a moving camera, then extracting spatial and temporal quality-aware features via a trainable 2D-CNN and a pretrained 3D-CNN respectively.
+#### 💡 Background & Motivation
+
+Traditional projection-based PCQA renders a fixed set of static views, which loses the dynamic perceptual experience a viewer has when *circling* a 3D object. VQA-PC asks: *what if we treated the point cloud the way humans actually inspect it — as a video shot by a moving camera?*
+
+#### 🏗️ Architecture Highlights
+
+- **Capture stage:** simulates a moving camera around the point cloud, generating a short video clip
+- **Spatial stream:** a trainable 2D-CNN extracts per-frame quality-aware features
+- **Temporal stream:** a pretrained 3D-CNN captures motion / inter-frame consistency cues
+- **Fusion:** spatio-temporal features are regressed against the MOS
+
+#### ✅ Why it matters
+
+VQA-PC bridges the rich literature of Video Quality Assessment (VQA) with PCQA, achieving strong performance on multiple datasets without needing a 3D backbone.
 
 **Keywords:** point cloud quality assessment · moving camera videos · no-reference · VQA
 
@@ -137,7 +237,7 @@ python ./test/test.py           # test
 | **MindSpore** | **26.405** | 3110 |
 | TensorFlow | 44.887 | 4732 |
 
-> The three frameworks yield similar accuracy. MindSpore leads on SJTU; TensorFlow leads on WPC. MindSpore is fastest at inference; PyTorch uses the least GPU memory.
+> 🔎 **Analysis:** The three frameworks yield comparable accuracy with each leading on a different dataset (MindSpore on SJTU, TensorFlow on WPC). MindSpore offers the fastest inference, while PyTorch keeps GPU memory the lowest — a useful trade-off to remember when choosing a deployment target.
 
 #### 📚 Citation
 
@@ -156,13 +256,26 @@ python ./test/test.py           # test
 
 ### 1.2 PRL-GQA
 
-> 📅 **2022 Nov 2** · 🏷️ Model-based · 🎯 No-reference · 📐 Geometry-only
+> 📅 **2022 Nov 2** · 🏷️ Model-based · 🎯 No-reference · 📐 Geometry-only · 🪜 Pairwise ranking
 > 🔗 Subproject: <https://openi.pcl.ac.cn/OpenPCQA/PRL-GQA>
 
 <p align="center"><img src="PRL-GQA.png" alt="PRL-GQA architecture" width="720"/></p>
 <p align="center"><em>Figure 2 · Network structure of PRL-GQA</em></p>
 
-**Idea.** The first pairwise learning framework for no-reference geometry-only PCQA. Takes a pair of point clouds as input and outputs their relative rank order.
+#### 💡 Background & Motivation
+
+Absolute MOS labels are expensive to collect, especially for *geometry-only* point clouds (no color). PRL-GQA reframes the problem: instead of asking "what is the quality?", it asks "which of these two clouds looks better?" — a much easier label to obtain and a perfect fit for **pairwise learning-to-rank**.
+
+#### 🏗️ Architecture Highlights
+
+- **Input:** a pair of point clouds at different quality levels
+- **Twin feature extractors** with shared weights process each cloud
+- **Ranking head** outputs a relative score; trained with a cross-entropy ranking loss
+- **Fine-tuning** on a small MOS-labeled set converts relative scores into absolute quality predictions
+
+#### ✅ Why it matters
+
+PRL-GQA is the only **geometry-only** method in the library — useful when color information is unavailable (e.g. LiDAR scans, geometry-only codecs). It also demonstrates that ranking-based supervision is a powerful workaround to MOS scarcity.
 
 **Keywords:** point cloud · geometry quality assessment · rank learning · NR PCQA
 
@@ -204,7 +317,7 @@ python ./train_test.py
 | MindSpore | 0.9159 | 1308.1 | 4012 |
 | TensorFlow | 0.8924 | 1962.8 | 2692 |
 
-> PyTorch wins on every dimension here: best accuracy, fastest inference, lowest GPU footprint. MindSpore uses ~3× more GPU memory than PyTorch.
+> 🔎 **Analysis:** PyTorch dominates on every dimension here — best accuracy, fastest inference, lowest GPU footprint. MindSpore uses ~3× more GPU memory than PyTorch, mainly because its current sparse-tensor backend is less mature for this kind of pairwise-input workload.
 
 #### 📚 Citation
 
@@ -229,7 +342,20 @@ python ./train_test.py
 <p align="center"><img src="IT-PCQA.png" alt="IT-PCQA architecture" width="720"/></p>
 <p align="center"><em>Figure 3 · Network structure of IT-PCQA</em></p>
 
-**Idea.** Treats natural images as the source domain and point clouds as the target domain. Quality-prediction capability is transferred from images to point clouds via unsupervised adversarial domain adaptation, removing the need for expensive subjective PCQA labels.
+#### 💡 Background & Motivation
+
+Natural-image quality datasets (TID2013, LIVE, KADID-10k, …) contain **tens of thousands** of labeled samples, whereas PCQA datasets typically have only a few hundred. IT-PCQA cleverly **transfers knowledge from image quality assessment to point clouds**, sidestepping the data scarcity problem.
+
+#### 🏗️ Architecture Highlights
+
+- **Source domain:** natural images with abundant MOS labels (e.g. TID2013)
+- **Target domain:** projected views of point clouds (no labels needed)
+- **Adversarial domain adaptation** aligns feature distributions between the two domains
+- A quality regressor trained on the source domain is then directly applicable to point clouds
+
+#### ✅ Why it matters
+
+IT-PCQA shows that **unsupervised domain adaptation** can lift PCQA out of the small-data regime — a promising direction for industrial scenarios where labeled point clouds are scarce.
 
 **Keywords:** point cloud quality assessment · no-reference · domain adaptation
 
@@ -274,7 +400,7 @@ python train.py
 | MindSpore | **0.7228** | 0.5198 | 5200 |
 | **TensorFlow** | 0.7221 | **0.6348** | 4750 |
 
-> Jointly considering PLCC and SROCC, the TensorFlow version performs best overall. PyTorch uses the least GPU memory; MindSpore uses the most.
+> 🔎 **Analysis:** Looking at PLCC and SROCC jointly, the TensorFlow version performs best overall, while MindSpore tops on PLCC but loses on SROCC. PyTorch is the lightest in memory; MindSpore is the heaviest due to its current adversarial-training scheduler overhead.
 
 #### 📚 Citation
 
@@ -293,15 +419,28 @@ python train.py
 
 ### 1.4 PQA-Net
 
-> 📅 **2021 TCSVT** · 🏷️ Projection-based · 🎯 No-reference
+> 📅 **2021 TCSVT** · 🏷️ Projection-based · 🎯 No-reference · 🖼️ Multi-view
 > 🔗 Subproject: <https://openi.pcl.ac.cn/OpenPCQA/PQA-Net>
 
 <p align="center"><img src="PQA-Net.png" alt="PQA-Net architecture" width="720"/></p>
 <p align="center"><em>Figure 4 · Network structure of PQA-Net</em></p>
 
-**Idea.** Deep no-reference PCQA via multi-view projection. Original PyTorch implementation: <https://github.com/qdushl/PQA-Net>.
+#### 💡 Background & Motivation
 
-**Keywords:** point cloud quality assessment · no-reference
+PQA-Net is the **first** deep-learning NR-PCQA framework. Published in 2021, it set the baseline for projection-based methods and remains a common point of comparison for follow-up work.
+
+#### 🏗️ Architecture Highlights
+
+- **Multi-view projection** renders the point cloud from several angles into 2D images
+- A **feature extraction and fusion module** combines view-level features
+- A **distortion-type classifier** identifies *what kind* of distortion is present
+- A **quality regressor** estimates the final MOS, conditioned on the distortion type
+
+#### ✅ Why it matters
+
+PQA-Net introduces the idea that **knowing the distortion type helps quality prediction** — a principle later adopted by many follow-up works. Despite its age, it remains a strong, well-engineered baseline.
+
+**Keywords:** point cloud quality assessment · no-reference · multi-view projection · distortion-aware
 
 #### ⚙️ Environment
 
@@ -328,6 +467,8 @@ python regression.py
 
 <p align="center"><img src="PQA-Net_performance.jpg" alt="PQA-Net performance" width="640"/></p>
 
+> 🔎 **Analysis:** PQA-Net produces consistent results across the three frameworks. As one of the lightest projection-based methods, it is a great starting point for newcomers to PCQA who want a quick "hello world" baseline.
+
 #### 📚 Citation
 
 ```bibtex
@@ -352,9 +493,24 @@ python regression.py
 <p align="center"><img src="ResSCNN.png" alt="ResSCNN architecture" width="720"/></p>
 <p align="center"><em>Figure 5 · Network structure of ResSCNN</em></p>
 
-**Idea.** End-to-end NR PCQA using residual sparse convolutional networks on raw point clouds. Original PyTorch implementation: <https://github.com/lyp22/ResSCNN>.
+#### 💡 Background & Motivation
 
-**Keywords:** point cloud quality assessment · no-reference
+Projection methods inevitably lose 3D information when flattening a cloud into images. ResSCNN takes the opposite route: it operates **end-to-end on raw 3D points** using **sparse convolution**, the same technique that powers state-of-the-art LiDAR perception models.
+
+#### 🏗️ Architecture Highlights
+
+- **Voxelization** turns the cloud into a sparse 3D tensor
+- **Residual sparse convolution blocks** extract hierarchical 3D features efficiently
+- **Global feature aggregation** summarizes the whole cloud
+- **Regression head** produces the MOS
+
+The accompanying paper also contributed the **LS-PCQA** dataset, the largest PCQA dataset to date.
+
+#### ✅ Why it matters
+
+ResSCNN demonstrates that **directly modeling 3D geometry** is competitive with projection methods, and provides the de-facto large-scale benchmark (LS-PCQA) for the community.
+
+**Keywords:** point cloud quality assessment · no-reference · sparse convolution · end-to-end
 
 #### ⚙️ Environment
 
@@ -379,6 +535,8 @@ python main.py
 
 <p align="center"><img src="ResSCNN_performance.jpg" alt="ResSCNN performance" width="640"/></p>
 
+> 🔎 **Analysis:** ResSCNN consumes more GPU memory than projection-based peers because it ingests the entire point cloud at once. In exchange it preserves full 3D structure, which makes it particularly strong on geometry-dominant distortions in LS-PCQA.
+
 #### 📚 Citation
 
 ```bibtex
@@ -391,6 +549,176 @@ python main.py
 ```
 
 **Maintainers:** Zhang Yongchi · `zhangych02@pcl.ac.cn` · Haohui Li
+
+---
+
+## 📊 Cross-Framework Benchmark Summary
+
+The table below distills the per-algorithm benchmarks into a single overview. The **best framework** for each (algorithm, metric) pair is highlighted.
+
+| Algorithm | Best framework (accuracy) | Fastest framework | Lowest GPU memory |
+|-----------|---------------------------|-------------------|-------------------|
+| VQA-PC | MindSpore (SJTU) / TensorFlow (WPC) | **MindSpore** | **PyTorch** |
+| PRL-GQA | **PyTorch** | **PyTorch** | **PyTorch** |
+| IT-PCQA | TensorFlow (overall) | — | **PyTorch** |
+| PQA-Net | Consistent across frameworks | — | — |
+| ResSCNN | PyTorch / MindSpore | PyTorch | PyTorch |
+
+### 🧰 Framework selection cheat sheet
+
+| If your priority is… | Pick |
+|---------------------|------|
+| ⚡ Lowest inference latency | MindSpore (most algorithms) |
+| 💾 Lowest GPU memory | PyTorch |
+| 🇨🇳 Domestic-stack compliance (China) | MindSpore |
+| 🌍 Largest ecosystem & community | PyTorch |
+| 🏭 Production deployment via TF Serving | TensorFlow |
+
+> ⚠️ **Caveat:** All numbers were measured on a single GPU (Tesla T4) with fixed seeds. Absolute values will differ on your hardware, but the relative ordering tends to be stable.
+
+---
+
+## 🚀 Quick Start
+
+### Clone the repository
+
+```bash
+git clone https://github.com/Terriao/OpenPCQA.git
+cd OpenPCQA
+```
+
+### Choose your algorithm
+
+Not sure where to start? Use this decision guide:
+
+| Your situation | Recommended algorithm |
+|---------------|----------------------|
+| 🆕 First time touching PCQA, want the simplest baseline | **PQA-Net** |
+| 🎬 You already know VQA / video models | **VQA-PC** |
+| 🏷️ You have very few MOS labels | **IT-PCQA** (domain adaptation) |
+| 📐 Your point clouds have no color (geometry only) | **PRL-GQA** |
+| 🚀 You want end-to-end 3D modeling, accept higher GPU cost | **ResSCNN** |
+
+### Install the framework you need
+
+```bash
+# PyTorch (recommended for most users)
+pip install torch torchvision
+
+# TensorFlow
+pip install tensorflow-gpu==2.3.1
+
+# MindSpore — see official guide
+# https://www.mindspore.cn/install
+```
+
+### Download the datasets
+
+See each subproject's **⚙️ Environment** section for the corresponding dataset links.
+> 🪪 Most PCQA datasets require an academic-use registration before downloading.
+
+### Run a baseline
+
+```bash
+cd VQA_PC/pytorch
+python ./train/train_SJTU.py
+python ./test/test.py
+```
+
+---
+
+## 🗺️ Roadmap
+
+We plan to grow OpenPCQA along several axes. Contributions are welcome on any of these!
+
+- [ ] 🧪 Add controlled **operator-by-operator ablation** to explain cross-framework gaps
+- [ ] 🐳 Provide **Docker images** with pinned CUDA / framework versions
+- [ ] 📦 Release a unified `pip install openpcqa` package with a common Python API
+- [ ] 🆕 Add recent algorithms (e.g., **MM-PCQA**, **CoPA**, **PCQA-Net++**)
+- [ ] 🌐 Add more datasets (**M-PCCD**, **ICIP2020**, custom in-the-wild data)
+- [ ] 🧮 Provide a **CLI tool** to score any `.ply` / `.pcd` file out-of-the-box
+- [ ] 🌍 Provide a **bilingual** README (English + 中文)
+- [ ] 🎓 Add **Jupyter notebook tutorials** for each algorithm
+
+---
+
+## ❓ FAQ
+
+<details>
+<summary><b>Q1. Why do the three frameworks give slightly different numbers for the same algorithm?</b></summary>
+
+Several reasons combine: low-level operators (sparse convolution, padding, pooling) are not bit-identical across frameworks; floating-point accumulation order differs; default weight-initialization and BatchNorm semantics vary; and graph-mode auto-tuning makes different choices. We document these in detail in the accompanying paper. We use fixed seeds and a strict consistency protocol to keep the differences as small as possible.
+
+</details>
+
+<details>
+<summary><b>Q2. Which framework should I use?</b></summary>
+
+If you have no constraints, start with **PyTorch** — it has the largest community and best ecosystem. Choose **MindSpore** if you need domestic-stack compliance in China, or **TensorFlow** if you plan to deploy via TF Serving / TFLite.
+
+</details>
+
+<details>
+<summary><b>Q3. Can I add my own algorithm?</b></summary>
+
+Absolutely! Please open a Pull Request. See the [Contributing](#-contributing) section below.
+
+</details>
+
+<details>
+<summary><b>Q4. The datasets are too big — can I try on a small sample?</b></summary>
+
+SJTU-PCQA is the smallest (420 distorted samples, ~3 GB after decompression). Start there.
+
+</details>
+
+<details>
+<summary><b>Q5. Do I need a GPU?</b></summary>
+
+Training requires a GPU (we used Tesla T4). Inference on a single small point cloud can run on CPU but will be slow (minutes per sample).
+
+</details>
+
+<details>
+<summary><b>Q6. Are the pretrained weights included?</b></summary>
+
+Yes. Each algorithm's subdirectory contains the pretrained weights that produced our reported numbers.
+
+</details>
+
+---
+
+## 🤝 Contributing
+
+We warmly welcome contributions! There are many ways to help:
+
+- 🆕 **Add a new PCQA algorithm** in any of the three frameworks
+- 🌐 **Port an existing algorithm** to a framework that doesn't yet have it
+- 🐛 **Report bugs** or unexpected behavior via [Issues](https://github.com/Terriao/OpenPCQA/issues)
+- 📖 **Improve documentation** — typos, clarifications, translations
+- 🧪 **Add new datasets** or distortion types to the benchmark
+- 💡 **Suggest features** in the Roadmap
+
+### Workflow
+
+```bash
+# 1. Fork the repository on GitHub
+# 2. Clone your fork
+git clone https://github.com/<your-username>/OpenPCQA.git
+cd OpenPCQA
+
+# 3. Create a feature branch
+git checkout -b feat/my-new-algorithm
+
+# 4. Make your changes, add tests if applicable
+# 5. Commit and push
+git commit -m "Add MyAlgorithm in PyTorch"
+git push origin feat/my-new-algorithm
+
+# 6. Open a Pull Request on GitHub
+```
+
+> For larger contributions (new algorithm or new framework port), please open an Issue first so we can discuss the design.
 
 ---
 
@@ -407,7 +735,45 @@ python main.py
 | Contributor | Wenxu Gao | SGS, Peking University |
 | Contributor | Haohui Li | SGS, Peking University |
 
-> Want to contribute? See [Contact](#-contact) below.
+> Want to join this list? See [Contributing](#-contributing).
+
+---
+
+## 🙏 Acknowledgements
+
+OpenPCQA stands on the shoulders of many excellent works and communities:
+
+- The **original authors** of VQA-PC, PRL-GQA, IT-PCQA, PQA-Net, and ResSCNN for open-sourcing their PyTorch reference implementations.
+- The teams maintaining the **SJTU-PCQA**, **WPC**, **LS-PCQA**, **PRLD**, and **TID2013** datasets.
+- The **PyTorch**, **TensorFlow**, and **MindSpore** communities for their open frameworks.
+- **Peng Cheng Laboratory** and the **OpenI** platform for hosting the mirror repository and providing compute resources.
+
+We thank the broader PCQA, IQA, and VQA communities for the rich body of prior work this project builds upon.
+
+---
+
+## 📝 Citation
+
+If OpenPCQA helps your research, please consider citing:
+
+```bibtex
+@misc{openpcqa2024,
+  title  = {OpenPCQA: A Multi-Platform Library and Benchmark for Point Cloud Quality Assessment Algorithms},
+  author = {Gao, Wenxu and Li, Haohui and Ye, Hua and Zhang, Yongchi and Wang, Shunzhou and Gao, Wei},
+  year   = {2024},
+  howpublished = {\url{https://github.com/Terriao/OpenPCQA}}
+}
+```
+
+Please also cite the original paper(s) of any specific algorithm you use — see the **Citation** block within each algorithm section above.
+
+---
+
+## 📄 License
+
+This project is released for **academic and research use**. Each individual algorithm subdirectory may inherit additional license terms from its original authors — please consult those before commercial use.
+
+If you intend to use OpenPCQA in a commercial product, please contact the coordinator (see below).
 
 ---
 
@@ -415,12 +781,17 @@ python main.py
 
 If you have suggestions for improving this library, or would like to contribute your own PCQA implementation, please contact the coordinator:
 
-**Wei Gao** — 📧 <gaowei262@pku.edu.cn>
+**Asst. Prof. Wei Gao** — 📧 <gaowei262@pku.edu.cn>
+Shenzhen Graduate School, Peking University
+
+For bug reports and feature requests, please use [GitHub Issues](https://github.com/Terriao/OpenPCQA/issues).
 
 ---
 
 <div align="center">
 
-⭐ **If you find OpenPCQA useful, please consider starring this repository.** ⭐
+⭐ **If you find OpenPCQA useful, please consider starring this repository!** ⭐
+
+*Made with ❤️ by the OpenPCQA team*
 
 </div>
