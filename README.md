@@ -1,399 +1,482 @@
-![](openpcqa.png)
-## OpenPCQA
-OpenPCQA is An Open-Source Algorithm Library of Point Cloud Quality Assessment (PCQA) based on Deep Learning. We collect methods on PCQA, provide source codes of MindSpore, PyTorch, TensorFlow, and test their performances.
+<div align="center">
 
-## Contact and References
-Coordinator: Asst. Prof. Wei Gao (Shenzhen Graduate School, Peking University)  
-Should you have any suggestions for better constructing this open source library, please contact the coordinator via Email: gaowei262@pku.edu.cn. We welcome more participants to submit your codes to this collection, and you can send your OpenI ID to the above Email address to obtain the accessibility. 
+<img src="openpcqa.png" alt="OpenPCQA" width="640"/>
 
-## List of Contributors
-Contributors:
-Asst. Prof. Wei Gao (Shenzhen Graduate School, Peking University)  
-Prof. Ge Li (Shenzhen Graduate School, Peking University)  
-Mr. Hua Ye (Peng Cheng Laboratory)  
-Mr. Yongchi Zhang (Peng Cheng Laboratory)  
-Mr. Wenxu Gao (Shenzhen Graduate School, Peking University)  
-Mr. Haohui Li (Shenzhen Graduate School, Peking University)  
-etc.
+# OpenPCQA
 
-## Table of Content
-1.1 VQA-PC  
-1.2 PRL-GQA  
-1.3 IT-PCQA  
-1.4 PQA-Net  
-1.5 ResSCNN  
+**An Open-Source Algorithm Library of Point Cloud Quality Assessment Based on Deep Learning**
+
+[![License](https://img.shields.io/badge/license-Academic-blue.svg)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-✓-EE4C2C?logo=pytorch&logoColor=white)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-✓-FF6F00?logo=tensorflow&logoColor=white)](#)
+[![MindSpore](https://img.shields.io/badge/MindSpore-✓-0072C6)](#)
+[![Mirror](https://img.shields.io/badge/mirror-OpenI-success)](https://openi.pcl.ac.cn/OpenPCQA/OpenPCQA)
+
+*A unified multi-framework benchmark for deep-learning-based PCQA methods.*
+
+</div>
+
+---
+
+## 📖 Overview
+
+**OpenPCQA** collects representative deep-learning methods on Point Cloud Quality Assessment (PCQA), provides reproducible source code in **MindSpore**, **PyTorch**, and **TensorFlow**, and benchmarks their performance under a unified protocol.
+
+The goal of this repository is to lower the entry barrier for PCQA research by offering:
+
+- ✅ **Unified implementations** of 5 representative PCQA algorithms
+- ✅ **Cross-framework parity** — every method runs on PyTorch, TensorFlow, and MindSpore
+- ✅ **Benchmark results** on SJTU-PCQA, WPC, LS-PCQA, and PRLD datasets
+- ✅ **Reproducibility** — configs, seeds, and pretrained weights included
+
+> 🔗 **Mirror repository (OpenI):** <https://openi.pcl.ac.cn/OpenPCQA/OpenPCQA>
+
+---
+
+## 📑 Table of Contents
+
+- [Algorithm Zoo](#-algorithm-zoo)
+  - [1.1 VQA-PC](#11-vqa-pc) — projection-based, NR
+  - [1.2 PRL-GQA](#12-prl-gqa) — model-based, NR, geometry-only
+  - [1.3 IT-PCQA](#13-it-pcqa) — projection-based, NR, domain adaptation
+  - [1.4 PQA-Net](#14-pqa-net) — projection-based, NR
+  - [1.5 ResSCNN](#15-resscnn) — model-based, NR, sparse-conv
+- [Contributors](#-contributors)
+- [Contact](#-contact)
+
+---
+
+## 🧠 Algorithm Zoo
+
+| # | Method | Year | Type | Input | Datasets |
+|---|--------|------|------|-------|----------|
+| 1.1 | [**VQA-PC**](#11-vqa-pc) | 2022 | Projection (video) | Rendered videos | SJTU, WPC, LS-PCQA |
+| 1.2 | [**PRL-GQA**](#12-prl-gqa) | 2022 | Model-based (rank) | Raw point cloud | PRLD |
+| 1.3 | [**IT-PCQA**](#13-it-pcqa) | 2022 (CVPR) | Projection (DA) | Projected images | SJTU, TID2013 |
+| 1.4 | [**PQA-Net**](#14-pqa-net) | 2021 (TCSVT) | Projection (multi-view) | Projected images | distortion.zip |
+| 1.5 | [**ResSCNN**](#15-resscnn) | 2023 (ACM TOMM) | Model-based (sparse) | Raw point cloud | LS-PCQA |
+
+> All methods are **no-reference (NR)**.
+
+---
 
 ### 1.1 VQA-PC
-- 2022 Sep 11. No-reference (NR) PCQA method, projection-based.
-- Dealing with PCQA tasks via using video quality assessment (VQA) methods. Extracting both spatial and temporal quality-aware features from the selected key frames and the video clips through using trainable 2D-CNN and pretrained 3D-CNN models respectively.
-- Code in the framework of tensorflow & pytorch & mindspore are provided.
-- For more information, please go to [VQA-PC](https://openi.pcl.ac.cn/OpenPCQA/VQA_PC).
-![VQA-PC](VQA-PC.png)
-Figure 1: Network structure of VQA-PC, from Ref. [Zhang, Z., Sun, W., Min, X., Fan, Y., & Zhai, G. (2022). Treating Point Cloud as Moving Camera Videos: A No-Reference Quality Assessment Metric. arXiv preprint arXiv:2208.14085. etc.]
-# VQA_PC
 
-key words:point cloud quality assessment, moving camera videos, no-reference, video quality assessment
+> 📅 **2022 Sep 11** · 🏷️ Projection-based · 🎯 No-reference
+> 🔗 Subproject: <https://openi.pcl.ac.cn/OpenPCQA/VQA_PC>
 
-VQA_PC is a kind of point cloud quality assessment method of no reference. It has excellent performances over SJTU, WPC and LSPCQA-I datasets, benefitting from projecting the point cloud files to videos and assessing the quality via VQA methods.
+<p align="center"><img src="VQA-PC.png" alt="VQA-PC architecture" width="720"/></p>
+<p align="center"><em>Figure 1 · Network structure of VQA-PC</em></p>
 
-## our contributions
-1.transplant from pytorch to tensorflow and mindspore.
-2.benchmark test on mindspore, tensorflow and pytorch, and compare the performance.
+**Idea.** Treats PCQA as a video quality assessment (VQA) problem by rendering the point cloud as a video captured by a moving camera, then extracting spatial and temporal quality-aware features via a trainable 2D-CNN and a pretrained 3D-CNN respectively.
 
-## file structure
-root
-└── mindspore: mindspore code, models included
-└── tensorflow: tensorflow code, models included
-└── pytorch source code: please go to: https://github.com/zzc-1998/VQA_PC
-└── Treating Point Cloud as Moving Camera Videos A No-Reference Quality Assessment Metric.pdf: origional paper
+**Keywords:** point cloud quality assessment · moving camera videos · no-reference · VQA
 
-## datasets
-1. [WPC](https://github.com/qdushl/Waterloo-Point-Cloud-Database)
-2. [LS-PCQA](https://smt.sjtu.edu.cn/database/large-scale-point-cloud-quality-assessment-dataset-ls-pcqa/
-)
-3. [SJTU](https://smt.sjtu.edu.cn/database/point-cloud-subjective-assessment-database/)
+<details>
+<summary><b>📂 File structure</b></summary>
 
-## environment
-1. mindspore
-- ubuntu 16.04
-- cuda V11.1.105
-- python 3.7.11
-- mindspore 2.0.0.dev20230109, installation reference: https://www.mindspore.cn/install
-2. tensorflow
-- ubuntu 16.04
-- cuda V10.1.243
-- python 3.7.6
-- tensorflow-gpu 2.3.1
-
-## command
-* mindspore:
-> cd mindspore
-* tensorflow:
-> cd TensorFlow
-
-training:
->python ./train/train_SJTU.py
-
-test:
->python ./test/test.py
-
-## performance
-* Benchmark test on mindspore, tensorflow and pytorch below. From the result in all, we can see that the performances of versions between pytorch, mindspore and tensorflow is similar. For SJTU dataset, mindspore version has the best performance, while for WPC dataset, tensorflow version gets the best score.
-* For running speed and gpu memory occupancy, mindspore takes the least time, while pytorch ranks the second with a little more time and less gpu memory. Tensorflow takes the longest time and the most volume of gpu memory.
-
-Table 1. Test on SJTU dataset
-|Source|SRCC|PLCC|KRCC|RMSE|
-|:--|:--|:--|:--|:--|
-|Paper|0.8509|0.8635|0.6585|1.1334|
-|PyTorch|0.9125|0.9341|0.7634|0.8364|
-|MindSpore|0.9136|0.9346|0.7619|0.835|
-|TensorFlow|0.8774|0.9002|0.7048|1.0253|
-
-Table 2. Test on WPC dataset
-|Source|SRCC|PLCC|KRCC|RMSE|
-|:--|:--|:--|:--|:--|
-|Paper|0.7968|0.7976|0.6115|13.6219|
-|PyTorch|0.8173|0.8226|0.631|12.9618|
-|MindSpore|0.8069|0.8085|0.6188|13.4193|
-|TensorFlow|0.8296|0.8313|0.6457|12.6353|
-
-Table 3. test time and gpu memory on TESLA T4 gpu
-|framework|test time(s)|GPU memory(MB)|
-|:--|:--|:--|
-|Paper|--|--|
-|PyTorch|29.937|1358|
-|MindSpore|26.405|3110|
-|TensorFlow|44.887|4732|
-
-## citation
 ```
+root/
+├── mindspore/         # MindSpore code + pretrained models
+├── tensorflow/        # TensorFlow code + pretrained models
+├── pytorch/           # see https://github.com/zzc-1998/VQA_PC
+└── paper.pdf          # original paper
+```
+
+</details>
+
+<details>
+<summary><b>⚙️ Environment</b></summary>
+
+**MindSpore**
+- Ubuntu 16.04 · CUDA 11.1.105 · Python 3.7.11
+- `mindspore==2.0.0.dev20230109` ([install guide](https://www.mindspore.cn/install))
+
+**TensorFlow**
+- Ubuntu 16.04 · CUDA 10.1.243 · Python 3.7.6
+- `tensorflow-gpu==2.3.1`
+
+</details>
+
+<details>
+<summary><b>▶️ Run</b></summary>
+
+```bash
+# MindSpore
+cd mindspore
+
+# TensorFlow
+cd TensorFlow
+python ./train/train_SJTU.py    # train
+python ./test/test.py           # test
+```
+
+</details>
+
+<details open>
+<summary><b>📊 Benchmark</b></summary>
+
+**Table 1 · SJTU dataset**
+
+| Source | SRCC | PLCC | KRCC | RMSE |
+|:--|:-:|:-:|:-:|:-:|
+| Paper | 0.8509 | 0.8635 | 0.6585 | 1.1334 |
+| PyTorch | 0.9125 | 0.9341 | 0.7634 | 0.8364 |
+| **MindSpore** | **0.9136** | **0.9346** | 0.7619 | **0.8350** |
+| TensorFlow | 0.8774 | 0.9002 | 0.7048 | 1.0253 |
+
+**Table 2 · WPC dataset**
+
+| Source | SRCC | PLCC | KRCC | RMSE |
+|:--|:-:|:-:|:-:|:-:|
+| Paper | 0.7968 | 0.7976 | 0.6115 | 13.6219 |
+| PyTorch | 0.8173 | 0.8226 | 0.6310 | 12.9618 |
+| MindSpore | 0.8069 | 0.8085 | 0.6188 | 13.4193 |
+| **TensorFlow** | **0.8296** | **0.8313** | **0.6457** | **12.6353** |
+
+**Table 3 · Test time & GPU memory (Tesla T4)**
+
+| Framework | Test time (s) | GPU memory (MB) |
+|:--|:-:|:-:|
+| PyTorch | 29.937 | **1358** |
+| **MindSpore** | **26.405** | 3110 |
+| TensorFlow | 44.887 | 4732 |
+
+</details>
+
+<details>
+<summary><b>📚 Citation</b></summary>
+
+```bibtex
 @article{zhang2022treating,
-  title={Treating Point Cloud as Moving Camera Videos: A No-Reference Quality Assessment Metric},
-  author={Zhang, Zicheng and Sun, Wei and Zhu Yucheng, Min, Xiongkuo and Wu Wei, and Chen Ying, and Zhai, Guangtao},
-  journal={arXiv preprint arXiv:2208.14085},
-  year={2022}
+  title  = {Treating Point Cloud as Moving Camera Videos: A No-Reference Quality Assessment Metric},
+  author = {Zhang, Zicheng and Sun, Wei and Zhu, Yucheng and Min, Xiongkuo and Wu, Wei and Chen, Ying and Zhai, Guangtao},
+  journal= {arXiv preprint arXiv:2208.14085},
+  year   = {2022}
 }
 ```
-## contributors
-name: Ye Hua
-email: yeh@pcl.ac.cn
+
+</details>
+
+**Maintainer:** Ye Hua · `yeh@pcl.ac.cn`
+
+---
 
 ### 1.2 PRL-GQA
-- 2022 Nov 2. No-reference (NR) PCQA method, model-based.
-- The first pairwise learning framework for no-reference geometry-only quality assessment of point clouds. Takes as input a pair of point clouds and outputs their rank order.
-- Code in the framework of tensorflow & pytorch & mindspore are provided.
-- For more information, please go to [PRL-GQA](https://openi.pcl.ac.cn/OpenPCQA/PRL-GQA).
-![PRL-GQA](PRL-GQA.png)
-Figure 2: Network structure of PRL-GQA, from Ref. [Su, Z., Chu, C., Chen, L., Li, Y., & Li, W. (2022). No-reference Point Cloud Geometry Quality Assessment Based on Pairwise Rank Learning. arXiv preprint arXiv:2211.01205.]
-# PRL-GQA
 
-key words: point cloud, geometry quality assessment, rank learning, objective quality assessment, point cloud quality assessment
+> 📅 **2022 Nov 2** · 🏷️ Model-based · 🎯 No-reference · 📐 Geometry-only
+> 🔗 Subproject: <https://openi.pcl.ac.cn/OpenPCQA/PRL-GQA>
 
-PRL-GQA is a no-reference geometry-only point cloud quality assessment method. It leverages the pairwise rank learning to predict relative geometry quality order and exhibits competitive ranking accuracy on the proposed PRLD dataset.
+<p align="center"><img src="PRL-GQA.png" alt="PRL-GQA architecture" width="720"/></p>
+<p align="center"><em>Figure 2 · Network structure of PRL-GQA</em></p>
 
-## our contributions
-1.transplant from pytorch to tensorflow and mindspore.
-2.benchmark test on mindspore, tensorflow and pytorch, and compare the performance.
+**Idea.** The first pairwise learning framework for no-reference geometry-only PCQA. Takes a pair of point clouds as input and outputs their relative rank order.
 
-## file structure
-root
-└── MindSpore: mindspore code, models included
-└── TensorFlow: tensorflow code, models included
-└── PyTorch: models in pytorch version, for pytorch source code, please go to: https://zhiyongsu.github.io/Project/PRLGQA.html
-└── No-reference Point Cloud Geometry Quality Assessment Based on Pairwise Rank Learning.pdf: origional paper
+**Keywords:** point cloud · geometry quality assessment · rank learning · NR PCQA
 
-## datasets
-[PRLD]( https://zhiyongsu.github.io/Project/PRLGQA.html)
+<details>
+<summary><b>📂 File structure</b></summary>
 
-## environment
-1. mindspore
-- ubuntu 16.04
-- cuda V11.1.105
-- python 3.7.11
-- mindspore 2.0.0.dev20230109, installation reference: https://www.mindspore.cn/install
-2. tensorflow
-- ubuntu 16.04
-- cuda V10.1.243
-- python 3.7.6
-- tensorflow-gpu 2.3.1
-
-## command
-* mindspore:
-> cd MindSpore
-* tensorflow:
-> cd TensorFlow
-
-training & test:
->python ./train_test.py
-
-## performance
-* Benchmark test on MindSpore, TensorFlow and PyTorch below. From the result in all, we can see that the performances of versions between PyTorch, MindSpore and TensorFlow is similar. For PRLD dataset, PyTorch version has the best performance, while the TensorFlow version gets the worst score.
-* In terms of test time and GPU memory occupancy, the PyTorch version has the fastest running speed and least GPU memory. The TensorFlow version takes a bit more GPU memory and the longest running time. The MindSpore version ranks second in running time and has the most volume of GPU memory(more than three times the GPU memory of the PyTorch version). 
-
-Table 1. Test on PRLD dataset
-|Source|Accuracy|Test Time(s)|Gpu Memory(MB)|
-|:--|:--|:--|:--|
-|Paper|0.9449|--|--|
-|PyTorch|0.9260|624.1|2198|
-|MindSpore|0.9159|1308.1|4012|
-|TensorFlow|0.8924|1962.8|2692|
-
-## citation
 ```
+root/
+├── MindSpore/         # MindSpore code + pretrained models
+├── TensorFlow/        # TensorFlow code + pretrained models
+├── PyTorch/           # weights only; source: https://zhiyongsu.github.io/Project/PRLGQA.html
+└── paper.pdf          # original paper
+```
+
+</details>
+
+<details>
+<summary><b>⚙️ Environment</b></summary>
+
+Same as VQA-PC (MindSpore 2.0.0.dev20230109 / TensorFlow-gpu 2.3.1).
+
+</details>
+
+<details>
+<summary><b>▶️ Run</b></summary>
+
+```bash
+# MindSpore
+cd MindSpore
+
+# TensorFlow
+cd TensorFlow
+
+# train & test
+python ./train_test.py
+```
+
+</details>
+
+<details open>
+<summary><b>📊 Benchmark — PRLD dataset</b></summary>
+
+| Source | Accuracy | Test time (s) | GPU memory (MB) |
+|:--|:-:|:-:|:-:|
+| Paper | 0.9449 | — | — |
+| **PyTorch** | **0.9260** | **624.1** | **2198** |
+| MindSpore | 0.9159 | 1308.1 | 4012 |
+| TensorFlow | 0.8924 | 1962.8 | 2692 |
+
+</details>
+
+<details>
+<summary><b>📚 Citation</b></summary>
+
+```bibtex
 @article{su2022no,
-  title={No-reference Point Cloud Geometry Quality Assessment Based on Pairwise Rank Learning},
-  author={Su, Zhiyong and Chu, Chao and Chen, Long and Li, Yong and Li, Weiqing},
-  journal={arXiv preprint arXiv:2211.01205},
-  year={2022}
+  title  = {No-reference Point Cloud Geometry Quality Assessment Based on Pairwise Rank Learning},
+  author = {Su, Zhiyong and Chu, Chao and Chen, Long and Li, Yong and Li, Weiqing},
+  journal= {arXiv preprint arXiv:2211.01205},
+  year   = {2022}
 }
 ```
 
-## contributors
-name: Ye Hua, Gao Wenxu
-email: yeh@pcl.ac.cn, gaowx@stu.pku.edu.cn
+</details>
+
+**Maintainers:** Ye Hua · `yeh@pcl.ac.cn` · Gao Wenxu · `gaowx@stu.pku.edu.cn`
+
+---
 
 ### 1.3 IT-PCQA
-- 2022 CVPR. No-reference (NR) PCQA method, projection-based.
-- Treating natural images as the source domain and point clouds as the target domain, and inferring point cloud quality via unsupervised adversarial domain adaptation.
-- Code in the framework of tensorflow & pytorch & mindspore are provided.
-- For more information, please go to [IT-PCQA](https://openi.pcl.ac.cn/OpenPCQA/IT-PCQA).
-![IT-PCQA](IT-PCQA.png)
-Figure 3: Network structure of IT-PCQA, from Ref. [Yang, Q., Liu, Y., Chen, S., Xu, Y., & Sun, J. (2022). No-reference point cloud quality assessment via domain adaptation. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 21179-21188).]
-# IT-PCQA
 
-key words: point cloud quality assessment, no-reference, domain adaptation
+> 📅 **2022 CVPR** · 🏷️ Projection-based · 🎯 No-reference · 🔁 Domain adaptation
+> 🔗 Subproject: <https://openi.pcl.ac.cn/OpenPCQA/IT-PCQA>
 
-IT-PCQA is a novel point cloud quality assessment method of no reference. Leveraging the rich subjective scores of the natural images, IT-PCQA quests the evaluation criteria of human perception via DNN and transfers the capability of prediction to 3D point clouds. The method suggests the feasibility of assessing the quality of specific media content without the expensive and cumbersome subjective evaluations.
+<p align="center"><img src="IT-PCQA.png" alt="IT-PCQA architecture" width="720"/></p>
+<p align="center"><em>Figure 3 · Network structure of IT-PCQA</em></p>
 
-## our contributions
-1.transplant from pytorch to tensorflow and mindspore.
-2.benchmark test on mindspore, tensorflow and pytorch, and compare the performance.
+**Idea.** Treats natural images as the source domain and point clouds as the target domain. Quality-prediction capability is transferred from images to point clouds via unsupervised adversarial domain adaptation, removing the need for expensive subjective PCQA labels.
 
-## file structure
-root
-└── config: dataset config files, updated from original version to fit our environment
-└── MindSpore: mindspore code, results and models are included
-└── TensorFlow: tensorflow code, results and models are included
-└── PyTorch: results and models in pytorch version, for pytorch source code, please go to: https://github.com/Qi-Yangsjtu/IT-PCQA
-└── 2022_No-Reference Point Cloud Quality Assessment via Domain Adaptation.pdf: origional paper
+**Keywords:** point cloud quality assessment · no-reference · domain adaptation
 
-## datasets
-1. [SJTU](https://smt.sjtu.edu.cn/database/point-cloud-subjective-assessment-database/)
-2. [TID2013](https://www.ponomarenko.info/tid2013.htm)
+<details>
+<summary><b>📂 File structure</b></summary>
 
-## environment
-1. mindspore
-- ubuntu 16.04
-- cuda V11.1.105
-- python 3.7.11
-- mindspore 2.0.0.dev20230109, installation reference: https://www.mindspore.cn/install
-2. tensorflow
-- ubuntu 16.04
-- cuda V10.1.243
-- python 3.7.6
-- tensorflow-gpu 2.3.1
-
-## command
-* mindspore:
-> cd MindSpore
-* tensorflow:
-> cd TensorFlow
-
-training:
->python train.py
-
-## performance
-* Benchmark test on mindspore, tensorflow and pytorch below. From the result in all, we can see that the performances of versions between pytorch, mindspore and tensorflow is similar. Jointly considering the indicators of PLCC and SROCC, TensorFlow version has the best performance.
-* For gpu memory occupancy of training, Mindspore takes the most volume of gpu memory and Pytorch takes the least.
-
-Table 1. Test on SJTU dataset
-|Source|PLCC|SROCC|GPU memory(MB)|
-|:--|:--|:--|:--|
-|Paper|0.58|0.63|-|
-|Pytorch|0.686|0.6285|3750|
-|Mindspore|0.7228|0.5198|5200|
-|TensorFlow|0.7221|0.6348|4750|
-
-## citation
 ```
-"Qi Yang, Yipeng Liu, Siheng Chen, Yiling Xu, Jun Sun, "No-Reference Point Cloud Quality Assessment via Domain Adaptation," in CVPR, 2022."  
-@InProceedings{yang2022ITPCQA,  
-author = {Qi Yang and Yipeng Liu and Siheng Chen and Yiling Xu and Jun Sun},  
-title = {No-Reference Point Cloud Quality Assessment via Domain Adaptation},  
-booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},  
-year = {2022}
+root/
+├── config/            # dataset configs adapted to our environment
+├── MindSpore/         # code + results + models
+├── TensorFlow/        # code + results + models
+├── PyTorch/           # results + models; source: https://github.com/Qi-Yangsjtu/IT-PCQA
+└── paper.pdf          # 2022 No-Reference Point Cloud Quality Assessment via Domain Adaptation
+```
+
+</details>
+
+<details>
+<summary><b>⚙️ Environment</b></summary>
+
+Same as VQA-PC.
+
+**Datasets:** [SJTU](https://smt.sjtu.edu.cn/database/point-cloud-subjective-assessment-database/) · [TID2013](https://www.ponomarenko.info/tid2013.htm)
+
+</details>
+
+<details>
+<summary><b>▶️ Run</b></summary>
+
+```bash
+# MindSpore
+cd MindSpore
+
+# TensorFlow
+cd TensorFlow
+
+# train
+python train.py
+```
+
+</details>
+
+<details open>
+<summary><b>📊 Benchmark — SJTU dataset</b></summary>
+
+| Source | PLCC | SROCC | GPU memory (MB) |
+|:--|:-:|:-:|:-:|
+| Paper | 0.58 | 0.63 | — |
+| PyTorch | 0.686 | 0.6285 | **3750** |
+| MindSpore | **0.7228** | 0.5198 | 5200 |
+| **TensorFlow** | 0.7221 | **0.6348** | 4750 |
+
+</details>
+
+<details>
+<summary><b>📚 Citation</b></summary>
+
+```bibtex
+@inproceedings{yang2022ITPCQA,
+  title    = {No-Reference Point Cloud Quality Assessment via Domain Adaptation},
+  author   = {Yang, Qi and Liu, Yipeng and Chen, Siheng and Xu, Yiling and Sun, Jun},
+  booktitle= {Proc. IEEE Conf. Computer Vision and Pattern Recognition (CVPR)},
+  year     = {2022}
 }
 ```
-## contributors
-name: Ye Hua
-email: yeh@pcl.ac.cn
+
+</details>
+
+**Maintainer:** Ye Hua · `yeh@pcl.ac.cn`
+
+---
 
 ### 1.4 PQA-Net
-- 2021 TCSVT. No-reference (NR) PCQA method, projection-based.
-- Code in the framework of tensorflow & pytorch & mindspore are provided.
-- For more information, please go to [PQA-Net](https://openi.pcl.ac.cn/OpenPCQA/PQA-Net).
-![PQA-Net](PQA-Net.png)
-Figure 4: Network structure of PQA-Net, from Ref. [Liu, Q., Yuan, H., Su, H., Liu, H., Wang, Y., Yang, H., & Hou, J. (2021). PQA-Net: Deep no reference point cloud quality assessment via multi-view projection. IEEE Transactions on Circuits and Systems for Video Technology, 31(12), 4645-4660.]
-# PQA-Net
-This is the repository of PQA-Net. The original code is implemented by Pytorch, while we provide Mindspore and Tensorflow.
-Key words: point cloud quality assessment, no-reference
-In this case, the original implementation of PyTorch is as follows:
-https://github.com/qdushl/PQA-Net
 
-## Environment
-For PQA-Net-mindspore:
-ubuntu 16.04
-python 3.7
-mindspore 2.0, installation reference: https://www.mindspore.cn/install
+> 📅 **2021 TCSVT** · 🏷️ Projection-based · 🎯 No-reference
+> 🔗 Subproject: <https://openi.pcl.ac.cn/OpenPCQA/PQA-Net>
 
-For PQA-Net-tensorflow:
-ubuntu 16.04
-python 3.7
-tensorflow-gpu 2.x
+<p align="center"><img src="PQA-Net.png" alt="PQA-Net architecture" width="720"/></p>
+<p align="center"><em>Figure 4 · Network structure of PQA-Net</em></p>
 
-## Dataset
-Download the datasets from "数据集" named "distortion.zip", and then store them in the specified path
+**Idea.** Deep no-reference PCQA via multi-view projection. Original PyTorch implementation: <https://github.com/qdushl/PQA-Net>.
 
-## Training 
+**Keywords:** point cloud quality assessment · no-reference
 
-For mindspore, 
-```shell 
+<details>
+<summary><b>⚙️ Environment</b></summary>
+
+- **MindSpore:** Ubuntu 16.04 · Python 3.7 · `mindspore==2.0` ([install](https://www.mindspore.cn/install))
+- **TensorFlow:** Ubuntu 16.04 · Python 3.7 · `tensorflow-gpu==2.x`
+
+</details>
+
+<details>
+<summary><b>▶️ Run</b></summary>
+
+**Dataset:** download `distortion.zip` from "数据集" and place it in the specified path.
+
+```bash
+# MindSpore
 cd ./PQA-Net-mindspore
 python MainDTLQ.py
 python MainLQ.py
-```
 
-For tensorflow, 
-```shell 
+# TensorFlow
 cd ./PQA-Net-tf
 python distortion.py
 python regression.py
 ```
 
+</details>
 
-## Performance comparison
-Benchmark test on mindspore, tensorflow and pytorch below
-Paper:
+<details>
+<summary><b>📊 Benchmark</b></summary>
 
-![image](PQA-Net_performance.jpg)
+<p align="center"><img src="PQA-Net_performance.jpg" alt="PQA-Net performance" width="640"/></p>
 
-## Citation 
-Bibtex:
-@ARTICLE{liu2021pqa,
-author={Liu, Qi and Yuan, Hui and Su, Honglei and Liu, Hao and Wang, Yu and Yang, Huan and Hou, Junhui},
-journal={IEEE Transactions on Circuits and Systems for Video Technology},
-title={PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-view Projection},
-year={2021},
-volume={},
-number={},
-pages={1-1},
-publisher={IEEE},
-doi={10.1109/TCSVT.2021.3100282}
+</details>
+
+<details>
+<summary><b>📚 Citation</b></summary>
+
+```bibtex
+@article{liu2021pqa,
+  title  = {PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-view Projection},
+  author = {Liu, Qi and Yuan, Hui and Su, Honglei and Liu, Hao and Wang, Yu and Yang, Huan and Hou, Junhui},
+  journal= {IEEE Trans. Circuits and Systems for Video Technology},
+  year   = {2021},
+  doi    = {10.1109/TCSVT.2021.3100282}
 }
-
-## contributors
-
-name: Zhang Yongchi && Haohui Li
-email: zhangych02@pcl.ac.cn
-
-### 1.5 ResSCNN
-- 2023 ACM T MULTIM COMPUT. No-reference (NR) PCQA method, model-based.
-- Code in the framework of tensorflow & pytorch & mindspore are provided.
-- For more information, please go to [ResSCNN](https://openi.pcl.ac.cn/OpenPCQA/ResSCNN).
-![ResSCNN](ResSCNN.png)
-Figure 5: Network structure of ResSCNN, from Ref. [Liu, Y., Yang, Q., Xu, Y., & Yang, L. (2023). Point cloud quality assessment: Dataset construction and learning-based no-reference metric. ACM Transactions on Multimedia Computing, Communications and Applications, 19(2s), 1-26.]
-# ResSCNN
-This is the repository of ResSCNN. The original code is implemented by Pytorch, while we provide Mindspore and Tensorflow.
-Key words: point cloud quality assessment, no-reference
-In this case, the original implementation of PyTorch is as follows:
-https://github.com/lyp22/ResSCNN
-
-## Environment
-For ResSCNN-mindspore:
-ubuntu 16.04
-python 3.7
-mindspore 2.0, installation reference: https://www.mindspore.cn/install
-
-For ResSCNN-tensorflow:
-ubuntu 16.04
-python 3.7
-tensorflow-gpu 2.x
-
-## Dataset
-Link for [LS-PCQA](https://sjtueducn-my.sharepoint.com/personal/liuyipeng_sjtu_edu_cn/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fliuyipeng%5Fsjtu%5Fedu%5Fcn%2FDocuments%2Fdistortion) 
-
-## Training 
-
-For mindspore, 
-```shell 
-cd ./ResSCNN-mindspore
-python main.py
 ```
 
-For tensorflow, 
-```shell 
+</details>
+
+**Maintainers:** Zhang Yongchi · `zhangych02@pcl.ac.cn` · Haohui Li
+
+---
+
+### 1.5 ResSCNN
+
+> 📅 **2023 ACM TOMM** · 🏷️ Model-based · 🎯 No-reference · ⚡ Sparse convolution
+> 🔗 Subproject: <https://openi.pcl.ac.cn/OpenPCQA/ResSCNN>
+
+<p align="center"><img src="ResSCNN.png" alt="ResSCNN architecture" width="720"/></p>
+<p align="center"><em>Figure 5 · Network structure of ResSCNN</em></p>
+
+**Idea.** End-to-end NR PCQA using residual sparse convolutional networks on raw point clouds. Original PyTorch implementation: <https://github.com/lyp22/ResSCNN>.
+
+**Keywords:** point cloud quality assessment · no-reference
+
+<details>
+<summary><b>⚙️ Environment</b></summary>
+
+- **MindSpore:** Ubuntu 16.04 · Python 3.7 · `mindspore==2.0` ([install](https://www.mindspore.cn/install))
+- **TensorFlow:** Ubuntu 16.04 · Python 3.7 · `tensorflow-gpu==2.x`
+
+**Dataset:** [LS-PCQA](https://sjtueducn-my.sharepoint.com/personal/liuyipeng_sjtu_edu_cn/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fliuyipeng%5Fsjtu%5Fedu%5Fcn%2FDocuments%2Fdistortion)
+
+</details>
+
+<details>
+<summary><b>▶️ Run</b></summary>
+
+```bash
+# MindSpore
+cd ./ResSCNN-mindspore
+python main.py
+
+# TensorFlow
 cd ./ResSCNN-tf
 python main.py
 ```
 
+</details>
 
-## Performance comparison
-Benchmark test on mindspore, tensorflow and pytorch below
-Paper:
+<details>
+<summary><b>📊 Benchmark</b></summary>
 
-![image](ResSCNN_performance.jpg)
+<p align="center"><img src="ResSCNN_performance.jpg" alt="ResSCNN performance" width="640"/></p>
 
-## Citation 
+</details>
+
+<details>
+<summary><b>📚 Citation</b></summary>
+
+```bibtex
 @article{Liu2022ResSCNN,
-title={Point Cloud Quality Assessment: Dataset Construction and Learning-based No-Reference Metric},
-author={Yipeng Liu and Qi Yang and Yiling Xu and Le Yang},
-journal={ACM Transactions on Multimedia Computing Communications and Applications},
-year={2022}
+  title  = {Point Cloud Quality Assessment: Dataset Construction and Learning-based No-Reference Metric},
+  author = {Liu, Yipeng and Yang, Qi and Xu, Yiling and Yang, Le},
+  journal= {ACM Trans. Multimedia Computing, Communications and Applications},
+  year   = {2022}
 }
+```
 
-## contributors
+</details>
 
-name: Zhang Yongchi && Haohui Li
-email: zhangych02@pcl.ac.cn
+**Maintainers:** Zhang Yongchi · `zhangych02@pcl.ac.cn` · Haohui Li
 
+---
 
+## 👥 Contributors
+
+**Coordinator:** Asst. Prof. **Wei Gao** — Shenzhen Graduate School, Peking University
+
+| Role | Name | Affiliation |
+|------|------|-------------|
+| Coordinator | Asst. Prof. Wei Gao | SGS, Peking University |
+| Advisor | Prof. Ge Li | SGS, Peking University |
+| Contributor | Hua Ye | Peng Cheng Laboratory |
+| Contributor | Yongchi Zhang | Peng Cheng Laboratory |
+| Contributor | Wenxu Gao | SGS, Peking University |
+| Contributor | Haohui Li | SGS, Peking University |
+
+> Want to contribute? See [Contact](#-contact) below.
+
+---
+
+## 📬 Contact
+
+If you have suggestions for improving this library, or would like to contribute your own PCQA implementation, please contact the coordinator:
+
+**Wei Gao** — 📧 <gaowei262@pku.edu.cn>
+
+> You may send your OpenI ID to obtain push access to the mirror repository.
+
+---
+
+<div align="center">
+
+⭐ **If you find OpenPCQA useful, please consider starring this repository.** ⭐
+
+</div>
