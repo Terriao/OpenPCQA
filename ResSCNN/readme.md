@@ -40,6 +40,7 @@ Paper:
 ![image](ResSCNN_performance.jpg)
 
 ## Citation 
+```
 @article{liu2023point,
   title={Point cloud quality assessment: Dataset construction and learning-based no-reference metric},
   author={Liu, Yipeng and Yang, Qi and Xu, Yiling and Yang, Le},
@@ -50,6 +51,7 @@ Paper:
   year={2023},
   publisher={Association for Computing Machinery}
 }
+```
 
 ## contributors
 
