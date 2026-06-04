@@ -1,6 +1,6 @@
 # VQA_PC
 
-key words:point cloud quality assessment, moving camera videos, no-reference, video quality assessment
+key words: point cloud quality assessment, moving camera videos, no-reference, video quality assessment
 
 VQA_PC is a kind of point cloud quality assessment method of no reference. It has excellent performances over SJTU, WPC and LSPCQA-I datasets, benefitting from projecting the point cloud files to videos and assessing the quality via VQA methods.
 
