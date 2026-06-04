@@ -45,7 +45,7 @@ The PCQA research community faces several long-standing pain points:
 
 ## ✨ Project Highlights
 
-- 🧩 **5 representative PCQA algorithms** spanning projection-based and model-based paradigms
+- 🧩 **Representative PCQA algorithms** spanning projection-based and model-based paradigms
 - 🔁 **Triple-framework support** — every algorithm has PyTorch, TensorFlow, and MindSpore implementations
 - 📈 **Cross-framework benchmark** on SJTU-PCQA, WPC, LS-PCQA, and PRLD
 - ⚡ **Profiling included** — both inference latency and GPU memory footprint
