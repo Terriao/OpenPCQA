@@ -258,7 +258,7 @@ python ./test/test.py           # test
 ### 1.2 PRL-GQA
 
 > 📅 **2022 Nov 2** · 🏷️ Model-based · 🎯 No-reference · 📐 Geometry-only · 🪜 Pairwise ranking
-> 🔗 Subproject: <https://openi.pcl.ac.cn/OpenPCQA/PRL-GQA>
+> 🔗 Subproject: <https://github.com/Terriao/OpenPCQA/tree/main/PRL-GQA>
 
 <p align="center"><img src="PRL-GQA.png" alt="PRL-GQA architecture" width="720"/></p>
 <p align="center"><em>Figure 2 · Network structure of PRL-GQA</em></p>
@@ -745,7 +745,7 @@ git push origin feat/my-new-algorithm
 | Contributor | Haohui Li | Peking University |
 | Contributor | Hua Ye | Shenzhen Institute of Artificial Intelligence and Robotics for Society |
 | Contributor | Yongchi Zhang | Peng Cheng Laboratory |
-
+| Contributor | Shunzhou Wang | Henan University |
 
 > Want to join this list? See [Contributing](#-contributing).
 
@@ -772,7 +772,7 @@ If OpenPCQA helps your research, please consider citing:
 @misc{openpcqa2024,
   title  = {OpenPCQA: A Multi-Platform Library and Benchmark for Point Cloud Quality Assessment Algorithms},
   author = {Gao, Wenxu and Li, Haohui and Ye, Hua and Zhang, Yongchi and Wang, Shunzhou and Gao, Wei},
-  year   = {2024},
+  year   = {2026},
   howpublished = {\url{https://github.com/Terriao/OpenPCQA}}
 }
 ```
