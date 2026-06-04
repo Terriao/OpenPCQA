@@ -105,7 +105,7 @@ Objective PCQA methods are classified by how much information about the *origina
 - 🟡 **RR (Reduced-Reference)** — needs partial reference info (a few features)
 - 🔴 **NR (No-Reference)** — needs only the distorted cloud; **most practical, hardest to solve**
 
-> All 5 algorithms collected in OpenPCQA are **No-Reference (NR)** — the most useful and most challenging category.
+
 
 ### Two Paradigms in Learning-Based PCQA
 
