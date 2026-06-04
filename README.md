@@ -14,7 +14,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-contributing)
 [![Issues](https://img.shields.io/badge/issues-open-orange.svg)](https://github.com/Terriao/OpenPCQA/issues)
 
-*A unified multi-framework benchmark for deep-learning-based Point Cloud Quality Assessment.*
+*A Multi-Platform Library and Benchmark  for Deep-learning-based Point Cloud Quality Assessment.*
 
 </div>
 
@@ -39,7 +39,7 @@ The PCQA research community faces several long-standing pain points:
 | 🐍 Most code exists only in PyTorch | ✅ **Triple-framework parity** (PyTorch · TensorFlow · MindSpore) |
 | 📊 Reported numbers are hard to reproduce due to undocumented splits & seeds | ✅ **Fixed configs, and data splits** for every experiment |
 | ⏱️ No fair speed/memory comparison across frameworks | ✅ **Standardized inference-time & GPU-memory profiling** |
-| 📚 Newcomers struggle to find a baseline to start from | ✅ A **curated zoo** of 5 representative methods with one-command training |
+| 📚 Newcomers struggle to find a baseline to start from | ✅ A **curated zoo** of representative methods with one-command training |
 
 ---
 
