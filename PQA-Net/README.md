@@ -42,7 +42,7 @@ Paper:
 ![image](PQA-Net_performance.jpg)
 
 ## Citation 
-"
+```
 @article{liu2021pqa,
   title={PQA-Net: Deep no reference point cloud quality assessment via multi-view projection},
   author={Liu, Qi and Yuan, Hui and Su, Honglei and Liu, Hao and Wang, Yu and Yang, Huan and Hou, Junhui},
@@ -53,7 +53,7 @@ Paper:
   year={2021},
   publisher={IEEE}
 }
-"
+```
 
 ## contributors
 
