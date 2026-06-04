@@ -46,10 +46,10 @@ The PCQA research community faces several long-standing pain points:
 ## ✨ Project Highlights
 
 - 🧩 **Representative PCQA algorithms** spanning projection-based and model-based paradigms
-- 🔁 **Triple-framework support** — every algorithm has PyTorch, TensorFlow, and MindSpore implementations
-- 📈 **Cross-framework benchmark** on SJTU-PCQA, WPC, LS-PCQA, and PRLD
-- ⚡ **Profiling included** — both inference latency and GPU memory footprint
-- 🧪 **Reproducible by design** — configs, seeds, pretrained weights and environment specs shipped together
+- 🔁 **Multi-Platform support** — every algorithm has PyTorch, TensorFlow, and MindSpore implementations
+- 📈 **Cross-framework benchmark** — on SJTU-PCQA, WPC, and LS-PCQA
+- ⚡ **Profiling included** — both inference time and GPU memory footprint
+- 🧪 **Reproducible by design** — configs, pretrained weights and environment specs shipped together
 - 🎓 **Educational** — each subproject contains the original paper and architecture diagrams
 - 🤝 **Community-driven** — contributions of new methods, frameworks, and datasets are welcomed
 
