@@ -26,8 +26,6 @@
 
 The library provides reproducible implementations of five widely cited PCQA models in **PyTorch**, **TensorFlow**, and **MindSpore**, together with a common evaluation protocol on **SJTU-PCQA**, **WPC**, **LS-PCQA**, and **PRLD** datasets.
 
-> 🔗 **Mirror repository (OpenI):** <https://openi.pcl.ac.cn/OpenPCQA/OpenPCQA>
-> 🌐 **Maintained by:** Wei Gao Group, Shenzhen Graduate School, Peking University & Peng Cheng Laboratory
 
 ---
 
@@ -742,12 +740,12 @@ git push origin feat/my-new-algorithm
 
 | Role | Name | Affiliation |
 |------|------|-------------|
-| Coordinator | Asst. Prof. Wei Gao | SGS, Peking University |
-| Advisor | Prof. Ge Li | SGS, Peking University |
-| Contributor | Hua Ye | Peng Cheng Laboratory |
+| Coordinator | Asso. Prof. Wei Gao | Peking University & Peng Cheng Laboratory|
+| Contributor | Wenxu Gao | Peking University & Peng Cheng Laboratory |
+| Contributor | Haohui Li | Peking University |
+| Contributor | Hua Ye | Shenzhen Institute of Artificial Intelligence and Robotics for Society |
 | Contributor | Yongchi Zhang | Peng Cheng Laboratory |
-| Contributor | Wenxu Gao | SGS, Peking University |
-| Contributor | Haohui Li | SGS, Peking University |
+
 
 > Want to join this list? See [Contributing](#-contributing).
 
