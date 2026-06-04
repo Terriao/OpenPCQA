@@ -150,7 +150,7 @@ Objective PCQA methods are classified by how much information about the *origina
 ### 1.1 VQA-PC
 
 > 📅 **2022 Sep 11** · 🏷️ Projection-based · 🎯 No-reference · 🎥 Video-based
-> 🔗 Subproject: <https://openi.pcl.ac.cn/OpenPCQA/VQA_PC>
+> 🔗 Subproject: <https://github.com/Terriao/OpenPCQA/tree/main/VQA_PC>
 
 <p align="center"><img src="VQA-PC.png" alt="VQA-PC architecture" width="720"/></p>
 <p align="center"><em>Figure 1 · Network structure of VQA-PC</em></p>
