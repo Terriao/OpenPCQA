@@ -138,7 +138,7 @@ Objective PCQA methods are classified by how much information about the *origina
 | 1.1 | [**VQA-PC**](#11-vqa-pc) | 2023 (TMM) | Projection (video) | Captured videos | SJTU, WPC, LS-PCQA |
 | 1.2 | [**PRL-GQA**](#12-prl-gqa) | 2025 (Computers & Graphics) | Model-based (rank) | Raw point cloud | PRLD |
 | 1.3 | [**IT-PCQA**](#13-it-pcqa) | 2022 (CVPR) | Projection (DA) | Projected images | SJTU, TID2013 |
-| 1.4 | [**PQA-Net**](#14-pqa-net) | 2021 (TCSVT) | Projection (multi-view) | Projected images | distortion.zip |
+| 1.4 | [**PQA-Net**](#14-pqa-net) | 2021 (TCSVT) | Projection (multi-view) | Projected images | SJTU, WPC, LS-PCQA |
 | 1.5 | [**ResSCNN**](#15-resscnn) | 2023 (TOMM) | Model-based (sparse) | Raw point cloud | LS-PCQA |
 
 
