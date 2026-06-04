@@ -124,7 +124,7 @@ Objective PCQA methods are classified by how much information about the *origina
 | **SJTU-PCQA** | 10 | 7 (octree compression, color noise, geometry Gaussian noise, downscaling, three superimposed noises) | 420 | Classic benchmark from SJTU |
 | **WPC** | 20 | 5 (Gaussian noise, downsampling, G-PCC Octree/Trisoup, V-PCC) | 740 | Waterloo Point Cloud Dataset, colored |
 | **LS-PCQA** | 104 | 31 (12 noise types + downsampling, shifting, G-PCC, V-PCC, AVS-PCC, …) | 22,568 | **Large-scale**, most challenging |
-| **PRLD** | — | Geometry-only distortions | — | Pairwise ranking dataset for PRL-GQA |
+| **PRLD** | 150 | Geometry-only distortions (Gaussian noise, uniform noise, impulse noise, exponential noise, octree-based compression, random dowsampling, grid dowsampling) | 5250 | Pairwise ranking dataset for PRL-GQA |
 | **TID2013** | 25 natural images | 24 distortion types × 5 levels | 3,000 | Used as the **source domain** by IT-PCQA |
 
 > 💡 **Tip:** If you are new to PCQA, start with **SJTU-PCQA** — it's small, well-curated, and most algorithms have published numbers on it.
