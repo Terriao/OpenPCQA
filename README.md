@@ -242,11 +242,14 @@ python ./test/test.py           # test
 #### 📚 Citation
 
 ```bibtex
-@article{zhang2022treating,
-  title  = {Treating Point Cloud as Moving Camera Videos: A No-Reference Quality Assessment Metric},
-  author = {Zhang, Zicheng and Sun, Wei and Zhu, Yucheng and Min, Xiongkuo and Wu, Wei and Chen, Ying and Zhai, Guangtao},
-  journal= {arXiv preprint arXiv:2208.14085},
-  year   = {2022}
+@article{zhang2023evaluating,
+  title={Evaluating point cloud from moving camera videos: A no-reference metric},
+  author={Zhang, Zicheng and Sun, Wei and Zhu, Yucheng and Min, Xiongkuo and Wu, Wei and Chen, Ying and Zhai, Guangtao},
+  journal={IEEE Transactions on Multimedia},
+  volume={27},
+  pages={927--939},
+  year={2023},
+  publisher={IEEE}
 }
 ```
 
