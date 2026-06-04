@@ -411,11 +411,12 @@ python train.py
 #### 📚 Citation
 
 ```bibtex
-@inproceedings{yang2022ITPCQA,
-  title    = {No-Reference Point Cloud Quality Assessment via Domain Adaptation},
-  author   = {Yang, Qi and Liu, Yipeng and Chen, Siheng and Xu, Yiling and Sun, Jun},
-  booktitle= {Proc. IEEE Conf. Computer Vision and Pattern Recognition (CVPR)},
-  year     = {2022}
+@inproceedings{yang2022no,
+  title={No-reference point cloud quality assessment via domain adaptation},
+  author={Yang, Qi and Liu, Yipeng and Chen, Siheng and Xu, Yiling and Sun, Jun},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={21147-21156},
+  year={2022}
 }
 ```
 
