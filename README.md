@@ -135,11 +135,11 @@ Objective PCQA methods are classified by how much information about the *origina
 
 | # | Method | Year | Type | Input | Datasets |
 |---|--------|------|------|-------|----------|
-| 1.1 | [**VQA-PC**](#11-vqa-pc) | 2022 | Projection (video) | Rendered videos | SJTU, WPC, LS-PCQA |
-| 1.2 | [**PRL-GQA**](#12-prl-gqa) | 2022 | Model-based (rank) | Raw point cloud | PRLD |
+| 1.1 | [**VQA-PC**](#11-vqa-pc) | 2023 (TMM) | Projection (video) | Rendered videos | SJTU, WPC, LS-PCQA |
+| 1.2 | [**PRL-GQA**](#12-prl-gqa) | 2025 (Computers & Graphics) | Model-based (rank) | Raw point cloud | PRLD |
 | 1.3 | [**IT-PCQA**](#13-it-pcqa) | 2022 (CVPR) | Projection (DA) | Projected images | SJTU, TID2013 |
 | 1.4 | [**PQA-Net**](#14-pqa-net) | 2021 (TCSVT) | Projection (multi-view) | Projected images | distortion.zip |
-| 1.5 | [**ResSCNN**](#15-resscnn) | 2023 (ACM TOMM) | Model-based (sparse) | Raw point cloud | LS-PCQA |
+| 1.5 | [**ResSCNN**](#15-resscnn) | 2023 (TOMM) | Model-based (sparse) | Raw point cloud | LS-PCQA |
 
 > All methods are **no-reference (NR)**.
 
@@ -147,7 +147,7 @@ Objective PCQA methods are classified by how much information about the *origina
 
 ### 1.1 VQA-PC
 
-> 📅 **2022 Sep 11** · 🏷️ Projection-based · 🎯 No-reference · 🎥 Video-based
+> 📅 **2023 TMM** · 🏷️ Projection-based · 🎯 No-reference · 🎥 Video-based
 > 🔗 Subproject: <https://github.com/Terriao/OpenPCQA/tree/main/VQA_PC>
 
 <p align="center"><img src="VQA-PC.png" alt="VQA-PC architecture" width="720"/></p>
@@ -257,7 +257,7 @@ python ./test/test.py           # test
 
 ### 1.2 PRL-GQA
 
-> 📅 **2022 Nov 2** · 🏷️ Model-based · 🎯 No-reference · 📐 Geometry-only · 🪜 Pairwise ranking
+> 📅 **2025 Computers & Graphics** · 🏷️ Model-based · 🎯 No-reference · 📐 Geometry-only · 🪜 Pairwise ranking
 > 🔗 Subproject: <https://github.com/Terriao/OpenPCQA/tree/main/PRL-GQA>
 
 <p align="center"><img src="PRL-GQA.png" alt="PRL-GQA architecture" width="720"/></p>
@@ -341,7 +341,7 @@ python ./train_test.py
 ### 1.3 IT-PCQA
 
 > 📅 **2022 CVPR** · 🏷️ Projection-based · 🎯 No-reference · 🔁 Domain adaptation
-> 🔗 Subproject: <https://openi.pcl.ac.cn/OpenPCQA/IT-PCQA>
+> 🔗 Subproject: <https://github.com/Terriao/OpenPCQA/tree/main/IT-PCQA>
 
 <p align="center"><img src="IT-PCQA.png" alt="IT-PCQA architecture" width="720"/></p>
 <p align="center"><em>Figure 3 · Network structure of IT-PCQA</em></p>
@@ -425,7 +425,7 @@ python train.py
 ### 1.4 PQA-Net
 
 > 📅 **2021 TCSVT** · 🏷️ Projection-based · 🎯 No-reference · 🖼️ Multi-view
-> 🔗 Subproject: <https://openi.pcl.ac.cn/OpenPCQA/PQA-Net>
+> 🔗 Subproject: <https://github.com/Terriao/OpenPCQA/tree/main/PQA-Net>
 
 <p align="center"><img src="PQA-Net.png" alt="PQA-Net architecture" width="720"/></p>
 <p align="center"><em>Figure 4 · Network structure of PQA-Net</em></p>
@@ -495,8 +495,8 @@ python regression.py
 
 ### 1.5 ResSCNN
 
-> 📅 **2023 ACM TOMM** · 🏷️ Model-based · 🎯 No-reference · ⚡ Sparse convolution
-> 🔗 Subproject: <https://openi.pcl.ac.cn/OpenPCQA/ResSCNN>
+> 📅 **2023 TOMM** · 🏷️ Model-based · 🎯 No-reference · ⚡ Sparse convolution
+> 🔗 Subproject: <https://github.com/Terriao/OpenPCQA/tree/main/ResSCNN>
 
 <p align="center"><img src="ResSCNN.png" alt="ResSCNN architecture" width="720"/></p>
 <p align="center"><em>Figure 5 · Network structure of ResSCNN</em></p>
