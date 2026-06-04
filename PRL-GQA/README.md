@@ -53,11 +53,14 @@ Table 1. Test on PRLD dataset
 
 ## citation
 ```
-@article{su2022no,
-  title={No-reference Point Cloud Geometry Quality Assessment Based on Pairwise Rank Learning},
-  author={Su, Zhiyong and Chu, Chao and Chen, Long and Li, Yong and Li, Weiqing},
-  journal={arXiv preprint arXiv:2211.01205},
-  year={2022}
+@article{li2025no,
+  title={No-reference geometry quality assessment for colorless point clouds via list-wise rank learning},
+  author={Li, Zheng and Xie, Bingxu and Chu, Chao and Li, Weiqing and Su, Zhiyong},
+  journal={Computers \& Graphics},
+  volume={127},
+  pages={104176},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
