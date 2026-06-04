@@ -645,10 +645,10 @@ We plan to grow OpenPCQA along several axes. Contributions are welcome on any of
 - [ ] 🧪 Add controlled **operator-by-operator ablation** to explain cross-framework gaps
 - [ ] 🐳 Provide **Docker images** with pinned CUDA / framework versions
 - [ ] 📦 Release a unified `pip install openpcqa` package with a common Python API
-- [ ] 🆕 Add recent algorithms (e.g., **MM-PCQA**, **CoPA**, **PCQA-Net++**)
-- [ ] 🌐 Add more datasets (**M-PCCD**, **ICIP2020**, custom in-the-wild data)
+- [ ] 🆕 Add recent algorithms (e.g., **MM-PCQA+**, **CoPA**)
+- [ ] 🌐 Add more datasets (**M-PCCD**, custom in-the-wild data)
 - [ ] 🧮 Provide a **CLI tool** to score any `.ply` / `.pcd` file out-of-the-box
-- [ ] 🌍 Provide a **bilingual** README (English + 中文)
+- [ ] 🌍 Provide a **multilingual** README (Chinese / French/ Spanish / etc.)
 - [ ] 🎓 Add **Jupyter notebook tutorials** for each algorithm
 
 ---
