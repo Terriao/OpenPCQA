@@ -550,11 +550,15 @@ python main.py
 #### 📚 Citation
 
 ```bibtex
-@article{Liu2022ResSCNN,
-  title  = {Point Cloud Quality Assessment: Dataset Construction and Learning-based No-Reference Metric},
-  author = {Liu, Yipeng and Yang, Qi and Xu, Yiling and Yang, Le},
-  journal= {ACM Trans. Multimedia Computing, Communications and Applications},
-  year   = {2022}
+@article{liu2023point,
+  title={Point cloud quality assessment: Dataset construction and learning-based no-reference metric},
+  author={Liu, Yipeng and Yang, Qi and Xu, Yiling and Yang, Le},
+  journal={ACM Transactions on Multimedia Computing, Communications and Applications},
+  volume={19},
+  number={2s},
+  pages={1--26},
+  year={2023},
+  publisher={Association for Computing Machinery}
 }
 ```
 
