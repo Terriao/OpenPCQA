@@ -55,12 +55,12 @@ Table 1. Test on SJTU dataset
 
 ## citation
 ```
-"Qi Yang, Yipeng Liu, Siheng Chen, Yiling Xu, Jun Sun, "No-Reference Point Cloud Quality Assessment via Domain Adaptation," in CVPR, 2022."  
-@InProceedings{yang2022ITPCQA,  
-author = {Qi Yang and Yipeng Liu and Siheng Chen and Yiling Xu and Jun Sun},  
-title = {No-Reference Point Cloud Quality Assessment via Domain Adaptation},  
-booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},  
-year = {2022}
+@inproceedings{yang2022no,
+  title={No-reference point cloud quality assessment via domain adaptation},
+  author={Yang, Qi and Liu, Yipeng and Chen, Siheng and Xu, Yiling and Sun, Jun},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={21147-21156},
+  year={2022}
 }
 ```
 ## contributors
