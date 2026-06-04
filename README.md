@@ -24,7 +24,7 @@
 
 **OpenPCQA** is a unified, open-source library that brings together representative deep-learning methods for **Point Cloud Quality Assessment (PCQA)** — the task of predicting the perceived visual quality of a 3D point cloud after it has been compressed, transmitted, downsampled, or otherwise degraded.
 
-The library provides reproducible implementations of five widely cited PCQA models in **PyTorch**, **TensorFlow**, and **MindSpore**, together with a common evaluation protocol on **SJTU-PCQA**, **WPC**, **LS-PCQA**, and **PRLD** datasets.
+The library provides reproducible implementations of five widely cited PCQA models in **PyTorch**, **TensorFlow**, and **MindSpore**, together with a common evaluation protocol on different datasets.
 
 
 ---
