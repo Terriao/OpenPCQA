@@ -42,18 +42,18 @@ Paper:
 ![image](PQA-Net_performance.jpg)
 
 ## Citation 
-Bibtex:
-@ARTICLE{liu2021pqa,
-author={Liu, Qi and Yuan, Hui and Su, Honglei and Liu, Hao and Wang, Yu and Yang, Huan and Hou, Junhui},
-journal={IEEE Transactions on Circuits and Systems for Video Technology},
-title={PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-view Projection},
-year={2021},
-volume={},
-number={},
-pages={1-1},
-publisher={IEEE},
-doi={10.1109/TCSVT.2021.3100282}
+"
+@article{liu2021pqa,
+  title={PQA-Net: Deep no reference point cloud quality assessment via multi-view projection},
+  author={Liu, Qi and Yuan, Hui and Su, Honglei and Liu, Hao and Wang, Yu and Yang, Huan and Hou, Junhui},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={31},
+  number={12},
+  pages={4645--4660},
+  year={2021},
+  publisher={IEEE}
 }
+"
 
 ## contributors
 
