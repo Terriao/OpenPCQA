@@ -569,11 +569,11 @@ The table below distills the per-algorithm benchmarks into a single overview. Th
 
 | Algorithm | Best framework (accuracy) | Fastest framework | Lowest GPU memory |
 |-----------|---------------------------|-------------------|-------------------|
-| VQA-PC | MindSpore (SJTU) / TensorFlow (WPC) | **MindSpore** | **PyTorch** |
+| VQA-PC | **MindSpore** | **MindSpore** | **PyTorch** |
 | PRL-GQA | **PyTorch** | **PyTorch** | **PyTorch** |
-| IT-PCQA | TensorFlow (overall) | — | **PyTorch** |
-| PQA-Net | Consistent across frameworks | — | — |
-| ResSCNN | PyTorch / MindSpore | PyTorch | PyTorch |
+| IT-PCQA | **PyTorch** / **MindSpore** | **TensorFlow** | **PyTorch** |
+| PQA-Net | Consistent across frameworks | **TensorFlow** | **TensorFlow** |
+| ResSCNN | **TensorFlow** | **PyTorch** | **PyTorch** |
 
 ### 🧰 Framework selection cheat sheet
 
