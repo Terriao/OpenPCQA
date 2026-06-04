@@ -60,11 +60,11 @@ The PCQA research community faces several long-standing pain points:
 - [Background: What is PCQA?](#-background-what-is-pcqa)
 - [Datasets at a Glance](#-datasets-at-a-glance)
 - [Algorithm Zoo](#-algorithm-zoo)
-  - [1.1 VQA-PC](#11-vqa-pc) — projection-based, NR
-  - [1.2 PRL-GQA](#12-prl-gqa) — model-based, NR, geometry-only
-  - [1.3 IT-PCQA](#13-it-pcqa) — projection-based, NR, domain adaptation
-  - [1.4 PQA-Net](#14-pqa-net) — projection-based, NR
-  - [1.5 ResSCNN](#15-resscnn) — model-based, NR, sparse convolution
+  - [1.1 VQA-PC](#11-vqa-pc) — projection-based, video quality assessment
+  - [1.2 PRL-GQA](#12-prl-gqa) — model-based, geometry-only
+  - [1.3 IT-PCQA](#13-it-pcqa) — projection-based, domain adaptation
+  - [1.4 PQA-Net](#14-pqa-net) — projection-based, distortion-type classifier
+  - [1.5 ResSCNN](#15-resscnn) — model-based, sparse convolution
 - [Cross-Framework Benchmark Summary](#-cross-framework-benchmark-summary)
 - [Quick Start](#-quick-start)
 - [Roadmap](#-roadmap)
