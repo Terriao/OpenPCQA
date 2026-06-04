@@ -141,7 +141,6 @@ Objective PCQA methods are classified by how much information about the *origina
 | 1.4 | [**PQA-Net**](#14-pqa-net) | 2021 (TCSVT) | Projection (multi-view) | Projected images | distortion.zip |
 | 1.5 | [**ResSCNN**](#15-resscnn) | 2023 (TOMM) | Model-based (sparse) | Raw point cloud | LS-PCQA |
 
-> All methods are **no-reference (NR)**.
 
 ---
 
