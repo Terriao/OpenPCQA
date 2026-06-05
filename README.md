@@ -502,7 +502,7 @@ python regression.py
 
 #### 💡 Background & Motivation
 
-Projection methods inevitably lose 3D information when flattening a cloud into images. ResSCNN takes the opposite route: it operates **end-to-end on raw 3D points** using **sparse convolution**, the same technique that powers state-of-the-art LiDAR perception models.
+Projection methods inevitably lose 3D information when flattening a point cloud into images. ResSCNN takes the opposite route: it operates **end-to-end on raw 3D points** using **sparse convolution**, the same technique that powers state-of-the-art 3D immersive perception models.
 
 #### 🏗️ Architecture Highlights
 
