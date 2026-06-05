@@ -585,7 +585,7 @@ The table below distills the per-algorithm benchmarks into a single overview. Th
 | 🌍 Largest ecosystem & community | PyTorch |
 | 🏭 Production deployment via TF Serving | TensorFlow |
 
-> ⚠️ **Caveat:** All numbers were measured on a single GPU (Tesla T4) with fixed seeds. Absolute values will differ on your hardware, but the relative ordering tends to be stable.
+> ⚠️ **Caveat:** All numbers were measured on a single GPU (Tesla T4) with fixed environment. Absolute values will differ on your hardware, but the relative ordering tends to be stable.
 
 ---
 
@@ -658,7 +658,7 @@ We plan to grow OpenPCQA along several axes. Contributions are welcome on any of
 <details>
 <summary><b>Q1. Why do the three frameworks give slightly different numbers for the same algorithm?</b></summary>
 
-Several reasons combine: low-level operators (sparse convolution, padding, pooling) are not bit-identical across frameworks; floating-point accumulation order differs; default weight-initialization and BatchNorm semantics vary; and graph-mode auto-tuning makes different choices. We document these in detail in the accompanying paper. We use fixed seeds and a strict consistency protocol to keep the differences as small as possible.
+Several reasons combine: low-level operators (sparse convolution, padding, pooling) are not bit-identical across frameworks; floating-point accumulation order differs; default weight-initialization and BatchNorm semantics vary; and graph-mode auto-tuning makes different choices. We document these in detail in the accompanying paper. We use fixed environment and a strict consistency protocol to keep the differences as small as possible.
 
 </details>
 
