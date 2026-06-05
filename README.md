@@ -37,7 +37,7 @@ The PCQA research community faces several long-standing pain points:
 |---------|---------------------|
 | 🔀 Methods are scattered across repositories with inconsistent conventions | ✅ A **single unified library** with consistent APIs and structure |
 | 🐍 Most code exists only in PyTorch | ✅ **Triple-framework parity** (PyTorch · TensorFlow · MindSpore) |
-| 📊 Reported numbers are hard to reproduce due to undocumented splits & seeds | ✅ **Fixed configs, and data splits** for every experiment |
+| 📊 Reported numbers are hard to reproduce due to undocumented splits & environment | ✅ **Fixed configs, and data splits** for every experiment |
 | ⏱️ No fair speed/memory comparison across frameworks | ✅ **Standardized inference-time & GPU-memory profiling** |
 | 📚 Newcomers struggle to find a baseline to start from | ✅ A **curated zoo** of representative methods with one-command training |
 
