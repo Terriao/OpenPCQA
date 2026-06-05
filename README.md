@@ -451,7 +451,7 @@ PQA-Net introduces the idea that **knowing the distortion type helps quality pre
 - **MindSpore:** Ubuntu 16.04 · Python 3.7 · `mindspore==2.0` ([install](https://www.mindspore.cn/install))
 - **TensorFlow:** Ubuntu 16.04 · Python 3.7 · `tensorflow-gpu==2.x`
 
-**Dataset:** download `distortion.zip` from "数据集" and place it in the specified path.
+**Dataset:** download `distortion.zip` and place it in the specified path.
 
 #### ▶️ Run
 
@@ -471,7 +471,7 @@ python regression.py
 
 <p align="center"><img src="PQA-Net_performance.jpg" alt="PQA-Net performance" width="640"/></p>
 
-> 🔎 **Analysis:** PQA-Net produces consistent results across the three frameworks. As one of the lightest projection-based methods, it is a great starting point for newcomers to PCQA who want a quick "hello world" baseline.
+> 🔎 **Analysis:** PQA-Net produces consistent results across the three frameworks. As one of the lightest projection-based methods, it is a great starting point for newcomers to PCQA who want a quick baseline.
 
 #### 📚 Citation
 
