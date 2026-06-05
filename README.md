@@ -138,8 +138,8 @@ Objective PCQA methods are classified by how much information about the *origina
 | 1.1 | [**VQA-PC**](#11-vqa-pc) | 2023 (TMM) | Projection (video) | Captured videos | SJTU, WPC, LS-PCQA |
 | 1.2 | [**PRL-GQA**](#12-prl-gqa) | 2025 (Computers & Graphics) | Model-based (rank) | Raw point cloud | PRLD |
 | 1.3 | [**IT-PCQA**](#13-it-pcqa) | 2022 (CVPR) | Projection (DA) | Projected images | SJTU, TID2013 |
-| 1.4 | [**PQA-Net**](#14-pqa-net) | 2021 (TCSVT) | Projection (multi-view) | Projected images | SJTU, WPC, LS-PCQA |
-| 1.5 | [**ResSCNN**](#15-resscnn) | 2023 (TOMM) | Model-based (sparse) | Raw point cloud | LS-PCQA |
+| 1.4 | [**PQA-Net**](#14-pqa-net) | 2021 (TCSVT) | Projection (multi-view) | Projected images | SJTU, WPC |
+| 1.5 | [**ResSCNN**](#15-resscnn) | 2023 (TOMM) | Model-based (sparse) | Raw point cloud | SJTU, WPC, LS-PCQA |
 
 
 ---
@@ -317,7 +317,7 @@ python ./train_test.py
 | MindSpore | 0.9159 | 1308.1 | 4012 |
 | TensorFlow | 0.8924 | 1962.8 | 2692 |
 
-> 🔎 **Analysis:** PyTorch dominates on every dimension here — best accuracy, fastest inference, lowest GPU footprint. MindSpore uses ~3× more GPU memory than PyTorch, mainly because its current sparse-tensor backend is less mature for this kind of pairwise-input workload.
+> 🔎 **Analysis:** PyTorch dominates on every dimension here — best accuracy, fastest inference, lowest GPU footprint. MindSpore uses ~2× more GPU memory than PyTorch, mainly because its current sparse-tensor backend is less mature for this kind of pairwise-input workload.
 
 #### 📚 Citation
 
