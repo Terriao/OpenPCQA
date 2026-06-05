@@ -16,7 +16,7 @@ python 3.7
 tensorflow-gpu 2.x
 
 ## Dataset
-Download the datasets from "数据集" named "distortion.zip", and then store them in the specified path
+Download the datasets named "distortion.zip", and then store them in the specified path
 
 ## Training 
 
