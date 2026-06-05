@@ -2,8 +2,6 @@
 
 <img src="openpcqa.png" alt="OpenPCQA" width="640"/>
 
-# OpenPCQA
-
 **An Open-Source Algorithm Library of Point Cloud Quality Assessment Based on Deep Learning**
 
 [![License](https://img.shields.io/badge/license-Academic-blue.svg)](#-license)
