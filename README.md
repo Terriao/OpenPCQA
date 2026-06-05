@@ -354,7 +354,7 @@ Natural-image quality datasets (TID2013, LIVE, KADID-10k, …) contain **tens of
 - **Source domain:** natural images with abundant MOS labels (e.g. TID2013)
 - **Target domain:** projected views of point clouds (no labels needed)
 - **Adversarial domain adaptation** aligns feature distributions between the two domains
-- A quality regressor trained on the source domain is then directly applicable to point clouds
+- A quality regressor trained on the source domain is then applicable to point clouds
 
 #### ✅ Why it matters
 
