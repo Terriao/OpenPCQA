@@ -204,7 +204,7 @@ python ./train/train_SJTU.py    # train
 python ./test/test.py           # test
 ```
 
-#### 📊 Benchmark
+#### 📊 Benchmark — VQA-PC
 
 **Table 1 · SJTU dataset**
 
@@ -234,7 +234,7 @@ python ./test/test.py           # test
 
 > 🔎 **Analysis:** The three frameworks yield comparable accuracy with each leading on a different dataset (MindSpore on SJTU, TensorFlow on WPC). MindSpore offers the fastest inference, while PyTorch keeps GPU memory the lowest — a useful trade-off to remember when choosing a deployment target.
 
-#### 📚 Citation
+#### 📚 Reference
 
 ```bibtex
 @article{zhang2023evaluating,
@@ -317,7 +317,7 @@ python ./train_test.py
 
 > 🔎 **Analysis:** PyTorch dominates on every dimension here — best accuracy, fastest inference, lowest GPU footprint. MindSpore uses ~2× more GPU memory than PyTorch, mainly because its current sparse-tensor backend is less mature for this kind of pairwise-input workload.
 
-#### 📚 Citation
+#### 📚 Reference
 
 ```bibtex
 @article{li2025no,
@@ -403,7 +403,7 @@ python train.py
 
 > 🔎 **Analysis:** Looking at PLCC and SROCC jointly, the TensorFlow version performs best overall, while MindSpore tops on PLCC but loses on SROCC. PyTorch is the lightest in memory; MindSpore is the heaviest due to its current adversarial-training scheduler overhead.
 
-#### 📚 Citation
+#### 📚 Reference
 
 ```bibtex
 @inproceedings{yang2022no,
@@ -465,13 +465,13 @@ python distortion.py
 python regression.py
 ```
 
-#### 📊 Benchmark
+#### 📊 Benchmark — PQA-Net
 
 <p align="center"><img src="PQA-Net_performance.jpg" alt="PQA-Net performance" width="640"/></p>
 
 > 🔎 **Analysis:** PQA-Net produces consistent results across the three frameworks. As one of the lightest projection-based methods, it is a great starting point for newcomers to PCQA who want a quick baseline.
 
-#### 📚 Citation
+#### 📚 Reference
 
 ```bibtex
 @article{liu2021pqa,
@@ -536,13 +536,13 @@ cd ./ResSCNN-tf
 python main.py
 ```
 
-#### 📊 Benchmark
+#### 📊 Benchmark — ResSCNN
 
 <p align="center"><img src="ResSCNN_performance.jpg" alt="ResSCNN performance" width="640"/></p>
 
 > 🔎 **Analysis:** ResSCNN consumes more GPU memory than projection-based peers because it ingests the entire point cloud at once. In exchange it preserves full 3D structure, which makes it particularly strong on geometry-dominant distortions in LS-PCQA.
 
-#### 📚 Citation
+#### 📚 Reference
 
 ```bibtex
 @article{liu2023point,
@@ -774,7 +774,7 @@ If OpenPCQA helps your research, please consider citing:
 }
 ```
 
-Please also cite the original paper(s) of any specific algorithm you use — see the **Citation** block within each algorithm section above.
+Please also cite the original paper(s) of any specific algorithm you use — see the **Reference** block within each algorithm section above.
 
 ---
 
