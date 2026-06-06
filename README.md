@@ -448,7 +448,7 @@ PQA-Net introduces the idea that **knowing the distortion type helps quality pre
 - **MindSpore:** Ubuntu 16.04 · Python 3.7 · `mindspore==2.0` ([install](https://www.mindspore.cn/install))
 - **TensorFlow:** Ubuntu 16.04 · Python 3.7 · `tensorflow-gpu==2.x`
 
-**Dataset:** download `distortion.zip` and place it in the specified path.
+**Dataset:** - [WPC](https://github.com/qdushl/Waterloo-Point-Cloud-Database)
 
 #### ▶️ Run
 
@@ -521,7 +521,11 @@ ResSCNN demonstrates that **directly modeling 3D geometry** is competitive with 
 - **MindSpore:** Ubuntu 16.04 · Python 3.7 · `mindspore==2.0` ([install](https://www.mindspore.cn/install))
 - **TensorFlow:** Ubuntu 16.04 · Python 3.7 · `tensorflow-gpu==2.x`
 
-**Dataset:** [LS-PCQA](https://sjtueducn-my.sharepoint.com/personal/liuyipeng_sjtu_edu_cn/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fliuyipeng%5Fsjtu%5Fedu%5Fcn%2FDocuments%2Fdistortion)
+**Dataset:** 
+- [SJTU](https://smt.sjtu.edu.cn/database/point-cloud-subjective-assessment-database/)
+- [WPC](https://github.com/qdushl/Waterloo-Point-Cloud-Database)
+- [LS-PCQA](https://smt.sjtu.edu.cn/database/large-scale-point-cloud-quality-assessment-dataset-ls-pcqa/)
+
 
 #### ▶️ Run
 
@@ -789,8 +793,8 @@ If you intend to use OpenPCQA in a commercial product, please contact the coordi
 
 If you have suggestions for improving this library, or would like to contribute your own PCQA implementation, please contact the coordinator:
 
-**Asst. Prof. Wei Gao** — 📧 <gaowei262@pku.edu.cn>
-Shenzhen Graduate School, Peking University
+**Asso. Prof. Wei Gao** — 📧 <gaowei262@pku.edu.cn>
+Peking University
 
 For bug reports and feature requests, please use [GitHub Issues](https://github.com/Terriao/OpenPCQA/issues).
 
