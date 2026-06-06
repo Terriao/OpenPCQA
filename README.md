@@ -8,7 +8,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-✓-EE4C2C?logo=pytorch&logoColor=white)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-✓-FF6F00?logo=tensorflow&logoColor=white)](#)
 [![MindSpore](https://img.shields.io/badge/MindSpore-✓-0072C6)](#)
-[![Mirror](https://img.shields.io/badge/mirror-OpenI-success)](https://openi.pcl.ac.cn/OpenPCQA/OpenPCQA)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-contributing)
 [![Issues](https://img.shields.io/badge/issues-open-orange.svg)](https://github.com/Terriao/OpenPCQA/issues)
 
@@ -115,7 +114,7 @@ Objective PCQA methods are classified by how much information about the *origina
 
 ---
 
-## 🗄️ Datasets at a Glance
+## 📦 Datasets at a Glance
 
 | Dataset | Sources | Distortion types | # Distorted samples | Notes |
 |--------|---------|------------------|---------------------|-------|
@@ -636,7 +635,7 @@ python ./test/test.py
 
 ---
 
-## 🗺️ Roadmap
+## 🚧 Roadmap
 
 We plan to grow OpenPCQA along several axes. Contributions are welcome on any of these!
 
