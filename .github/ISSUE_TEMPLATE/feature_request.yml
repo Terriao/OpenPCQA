@@ -24,12 +24,12 @@ body:
       options:
         - "New objective PCQA metric"
         - "New subjective dataset integration"
-        - "New point cloud format support"
-        - "Visualization / plotting"
-        - "Performance / speed-up"
+        - "New point cloud format support (.pcd, .las, .e57, ...)"
+        - "Visualization / plotting (scatter plots, attention maps, projections)"
+        - "Performance speed-up (GPU acceleration, batching, caching)"
         - "Cross-platform port (Linux / macOS / Windows)"
-        - "Python re-implementation of an existing MATLAB method"
-        - "Documentation / tutorial"
+        - "Jupyter notebook / tutorial / example pipeline"
+        - "Documentation"
         - "Other"
     validations:
       required: true
