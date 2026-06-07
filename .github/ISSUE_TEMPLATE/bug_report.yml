@@ -1,0 +1,96 @@
+# ============================================================
+# File: .github/ISSUE_TEMPLATE/bug_report.yml
+# Repo: https://github.com/Terriao/OpenPCQA
+# ============================================================
+
+name: 🐛 Bug report
+description: Something is broken or behaving unexpectedly in OpenPCQA.
+title: "[BUG] "
+labels: ["bug", "triage"]
+assignees:
+  - Terriao
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 👋 Thanks for taking the time to report a bug!
+        Please fill in the fields below as completely as you can. The more detail you give, the faster we can help.
+
+  - type: dropdown
+    id: component
+    attributes:
+      label: 📍 Which component is affected?
+      options:
+        - "Objective metric (please specify in description)"
+        - "Subjective evaluation pipeline"
+        - "Dataset loader / file I/O"
+        - "MATLAB code"
+        - "Python code"
+        - "Main README / documentation"
+        - "Method sub-README"
+        - "Build / installation"
+        - "Other (describe below)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 🔥 What happened?
+      description: A clear description of the bug. What did you expect, and what did you see instead?
+      placeholder: "When I run XXX on the SJTU-PCQA dataset, the PLCC drops to 0.12, whereas the paper reports 0.89."
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: 🪜 Steps to reproduce
+      description: Minimal steps that reliably reproduce the bug. Include the exact commands and config values.
+      placeholder: |
+        1. Clone OpenPCQA at commit XXX
+        2. Run `matlab -nodisplay -r "demo_method_5; exit"`
+        3. Observe wrong output PLCC
+      render: bash
+    validations:
+      required: true
+
+  - type: textarea
+    id: env
+    attributes:
+      label: 🖥️ Environment
+      description: OS, MATLAB / Python version, key dependencies, GPU (if relevant).
+      placeholder: |
+        - OS: Ubuntu 22.04
+        - MATLAB: R2022b
+        - Python: 3.10.12 (numpy 1.24, scipy 1.10)
+        - Hardware: CPU only / NVIDIA RTX 3090
+    validations:
+      required: true
+
+  - type: textarea
+    id: dataset
+    attributes:
+      label: 📊 Dataset and input
+      description: Which dataset / point cloud were you using? A link or filename is fine.
+      placeholder: "SJTU-PCQA, sequence `redandblack` at QP=32."
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: 📋 Logs / error message
+      description: Paste the full error trace or relevant output (no need for surrounding code).
+      render: shell
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: ✅ Pre-flight checklist
+      options:
+        - label: I have searched the existing issues and confirmed this is not a duplicate.
+          required: true
+        - label: I have read the relevant section of the README / sub-README.
+          required: true
+        - label: I am willing to test a proposed fix and report back.
+          required: false
