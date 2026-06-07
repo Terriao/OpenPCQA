@@ -46,12 +46,10 @@ Thanks for contributing to OpenPCQA! 💚 Please fill in the relevant sections b
 
 ## ✅ Pre-merge checklist
 
-- [ ] My code follows the existing OpenPCQA style for the chosen language (MATLAB / Python).
+- [ ] My code follows the existing OpenPCQA style for the chosen language (Python).
 - [ ] I have updated the relevant sub-README under the corresponding method directory.
 - [ ] If a new metric was added, I have updated the **Method Index** table in the main README.
-- [ ] If MATLAB code was modified, a Python equivalent is provided (or marked as pending).
 - [ ] No proprietary data, copyrighted images, or credentials are included.
-- [ ] I have run the smoke test on at least one bundled sample sequence.
 
 ## 📎 Screenshots / Plots (optional)
 
