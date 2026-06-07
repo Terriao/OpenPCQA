@@ -1,0 +1,43 @@
+# ============================================================
+# File: .github/ISSUE_TEMPLATE/question.yml
+# Repo: https://github.com/Terriao/OpenPCQA
+# ============================================================
+
+name: ❓ Question
+description: Ask a question about how OpenPCQA works or how to use it.
+title: "[Q] "
+labels: ["question"]
+assignees:
+  - Terriao
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 🤔 Have a question?
+        For open-ended discussion please post in [Discussions](https://github.com/Terriao/OpenPCQA/discussions).
+        For specific technical questions, use this form.
+
+  - type: textarea
+    id: question
+    attributes:
+      label: 💬 Your question
+      description: Be as specific as possible. Include the relevant method / metric / file path if any.
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: 🗂️ Context
+      description: What are you trying to achieve? What have you already tried?
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: ✅ Pre-flight checklist
+      options:
+        - label: I have read the README and the relevant sub-README.
+          required: true
+        - label: I have searched existing issues for the same question.
+          required: true
