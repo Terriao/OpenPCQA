@@ -52,7 +52,6 @@ Thanks for contributing to OpenPCQA! 💚 Please fill in the relevant sections b
 - [ ] Type hints and docstrings have been added where appropriate.
 - [ ] New dependencies are declared in `requirements.txt` (or equivalent).
 - [ ] No proprietary data, copyrighted images, or credentials are included.
-- [ ] I have run the smoke test on at least one bundled sample sequence.
 
 ## 📎 Screenshots / Plots (optional)
 
