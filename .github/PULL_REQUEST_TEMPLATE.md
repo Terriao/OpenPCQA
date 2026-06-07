@@ -35,8 +35,8 @@ Thanks for contributing to OpenPCQA! 💚 Please fill in the relevant sections b
      with subjective MOS on at least one public PCQA dataset. -->
 
 - [ ] Tested on `SJTU-PCQA`
-- [ ] Tested on `WPC` / `WPC2.0`
-- [ ] Tested on `ICIP2020`
+- [ ] Tested on `WPC`
+- [ ] Tested on `LS-PCQA`
 - [ ] Other: ___________________
 
 ## 📦 Implementation notes
