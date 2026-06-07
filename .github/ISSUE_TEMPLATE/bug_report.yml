@@ -24,12 +24,13 @@ body:
       options:
         - "Objective metric (please specify in description)"
         - "Subjective evaluation pipeline"
+        - "Correlation / statistics computation (PLCC, SROCC, RMSE, KRCC)"
         - "Dataset loader / file I/O"
-        - "MATLAB code"
-        - "Python code"
+        - "Point cloud preprocessing (downsampling, normalisation, projection)"
+        - "GPU / CUDA-accelerated module"
         - "Main README / documentation"
         - "Method sub-README"
-        - "Build / installation"
+        - "Installation / dependency"
         - "Other (describe below)"
     validations:
       required: true
@@ -39,7 +40,7 @@ body:
     attributes:
       label: 🔥 What happened?
       description: A clear description of the bug. What did you expect, and what did you see instead?
-      placeholder: "When I run XXX on the SJTU-PCQA dataset, the PLCC drops to 0.12, whereas the paper reports 0.89."
+      placeholder: "When I run metric XXX on the SJTU-PCQA dataset, the PLCC drops to 0.12, whereas the paper reports 0.89."
     validations:
       required: true
 
@@ -50,8 +51,9 @@ body:
       description: Minimal steps that reliably reproduce the bug. Include the exact commands and config values.
       placeholder: |
         1. Clone OpenPCQA at commit XXX
-        2. Run `matlab -nodisplay -r "demo_method_5; exit"`
-        3. Observe wrong output PLCC
+        2. Install with `pip install -r requirements.txt`
+        3. Run `python demo_metric5.py --dataset SJTU-PCQA --config configs/default.yaml`
+        4. Observe wrong output PLCC
       render: bash
     validations:
       required: true
@@ -60,12 +62,12 @@ body:
     id: env
     attributes:
       label: 🖥️ Environment
-      description: OS, MATLAB / Python version, key dependencies, GPU (if relevant).
+      description: OS, Python version, key dependencies, GPU (if relevant).
       placeholder: |
-        - OS: Ubuntu 22.04
-        - MATLAB: R2022b
-        - Python: 3.10.12 (numpy 1.24, scipy 1.10)
-        - Hardware: CPU only / NVIDIA RTX 3090
+        - OS: Ubuntu 22.04 (also reproduces on Windows 11)
+        - Python: 3.10.12
+        - Key packages: numpy 1.24.4, scipy 1.10.1, open3d 0.17.0, torch 2.1.0+cu118
+        - Hardware: NVIDIA RTX 3090 (24 GB VRAM) / CPU only
     validations:
       required: true
 
@@ -74,13 +76,13 @@ body:
     attributes:
       label: 📊 Dataset and input
       description: Which dataset / point cloud were you using? A link or filename is fine.
-      placeholder: "SJTU-PCQA, sequence `redandblack` at QP=32."
+      placeholder: "SJTU-PCQA, sequence `redandblack` at distortion level 5."
 
   - type: textarea
     id: logs
     attributes:
-      label: 📋 Logs / error message
-      description: Paste the full error trace or relevant output (no need for surrounding code).
+      label: 📋 Logs / traceback
+      description: Paste the full Python traceback or relevant output (no need for surrounding code).
       render: shell
 
   - type: checkboxes
