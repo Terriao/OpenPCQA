@@ -1,0 +1,66 @@
+# ============================================================
+# File: .github/ISSUE_TEMPLATE/feature_request.yml
+# Repo: https://github.com/Terriao/OpenPCQA
+# ============================================================
+
+name: ✨ Feature request
+description: Suggest a new metric, dataset, or capability for OpenPCQA.
+title: "[FEAT] "
+labels: ["enhancement", "triage"]
+assignees:
+  - Terriao
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 💡 Got an idea to make OpenPCQA better?
+        Whether it's a new objective metric, a new dataset, or a tooling improvement — we want to hear it.
+
+  - type: dropdown
+    id: feature-type
+    attributes:
+      label: 🎯 What kind of feature?
+      options:
+        - "New objective PCQA metric"
+        - "New subjective dataset integration"
+        - "New point cloud format support"
+        - "Visualization / plotting"
+        - "Performance / speed-up"
+        - "Cross-platform port (Linux / macOS / Windows)"
+        - "Python re-implementation of an existing MATLAB method"
+        - "Documentation / tutorial"
+        - "Other"
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: 🌟 Why is this needed?
+      description: What problem does it solve? Who would benefit?
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 🛠️ Proposed implementation
+      description: How would you imagine this working? Sketch the API / CLI / config if possible.
+
+  - type: textarea
+    id: references
+    attributes:
+      label: 📚 References
+      description: Papers, repos, or datasets that motivate this request.
+      placeholder: "Author et al., 'XXX', CVPR 2024; ground-truth dataset at https://..."
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: ✅ Pre-flight checklist
+      options:
+        - label: I have searched the existing issues and Discussions for similar proposals.
+          required: true
+        - label: I am willing to help implement / test this feature.
+          required: false
