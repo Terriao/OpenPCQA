@@ -17,7 +17,7 @@ Thanks for contributing to OpenPCQA! 💚 Please fill in the relevant sections b
 - [ ] ✨ New feature (non-breaking change that adds functionality)
 - [ ] 📊 New PCQA metric / new objective method
 - [ ] 🧪 New test dataset or test sequence
-- [ ] 📚 Documentation update (README, sub-README, comments)
+- [ ] 📚 Documentation update (README, sub-README, docstrings)
 - [ ] ♻️ Refactor (no functional change)
 - [ ] 💥 Breaking change (will affect downstream users)
 
@@ -35,21 +35,24 @@ Thanks for contributing to OpenPCQA! 💚 Please fill in the relevant sections b
      with subjective MOS on at least one public PCQA dataset. -->
 
 - [ ] Tested on `SJTU-PCQA`
-- [ ] Tested on `WPC`
-- [ ] Tested on `LS-PCQA`
+- [ ] Tested on `WPC` / `WPC2.0`
+- [ ] Tested on `ICIP2020`
 - [ ] Other: ___________________
 
 ## 📦 Implementation notes
 
-<!-- Anything reviewers should know: external dependencies, MATLAB version, Python version,
-     platform-specific MEX files, license constraints, etc. -->
+<!-- Anything reviewers should know: external Python dependencies, point cloud library versions
+     (Open3D / PyTorch / PyTorch3D), GPU requirements, license constraints, etc. -->
 
 ## ✅ Pre-merge checklist
 
-- [ ] My code follows the existing OpenPCQA style for the chosen language (Python).
+- [ ] My code follows the existing OpenPCQA Python style and conventions.
 - [ ] I have updated the relevant sub-README under the corresponding method directory.
 - [ ] If a new metric was added, I have updated the **Method Index** table in the main README.
+- [ ] Type hints and docstrings have been added where appropriate.
+- [ ] New dependencies are declared in `requirements.txt` (or equivalent).
 - [ ] No proprietary data, copyrighted images, or credentials are included.
+- [ ] I have run the smoke test on at least one bundled sample sequence.
 
 ## 📎 Screenshots / Plots (optional)
 
