@@ -1,0 +1,16 @@
+# ============================================================
+# File: .github/ISSUE_TEMPLATE/config.yml
+# Repo: https://github.com/Terriao/OpenPCQA
+# ============================================================
+
+blank_issues_enabled: false
+contact_links:
+  - name: 📄 Read the OpenPCQA paper
+    url: https://github.com/Terriao/OpenPCQA#citation
+    about: Background and methodology — please read before opening an issue.
+  - name: 💬 GitHub Discussions
+    url: https://github.com/Terriao/OpenPCQA/discussions
+    about: For open-ended discussion, ideas, or general questions, please post in Discussions instead of opening an issue.
+  - name: 📧 Contact the lab (private)
+    url: mailto:gaowei262@pku.edu.cn
+    about: For collaboration, dataset access requests, or sensitive matters not suited to a public issue.
