@@ -36,7 +36,7 @@ Thanks for contributing to OpenPCQA! 💚 Please fill in the relevant sections b
 
 - [ ] Tested on `SJTU-PCQA`
 - [ ] Tested on `WPC`
-- [ ] Tested on `LSPCQA`
+- [ ] Tested on `LS-PCQA`
 - [ ] Other: ___________________
 
 ## 📦 Implementation notes
