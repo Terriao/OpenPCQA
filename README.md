@@ -684,12 +684,7 @@ Training requires a GPU (we used Tesla T4). Inference on a single small point cl
 
 </details>
 
-<details>
-<summary><b>Q5. Are the pretrained weights included?</b></summary>
 
-Yes. Each algorithm's subdirectory contains the pretrained weights that produced our reported numbers.
-
-</details>
 
 ---
 
