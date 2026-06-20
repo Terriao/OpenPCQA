@@ -656,9 +656,6 @@ We plan to grow OpenPCQA along several axes. Contributions are welcome on any of
 
 ## ❓ FAQ
 
-
-</details>
-
 <details>
 <summary><b>Q2. Which framework should I use?</b></summary>
 
