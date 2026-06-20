@@ -656,10 +656,6 @@ We plan to grow OpenPCQA along several axes. Contributions are welcome on any of
 
 ## ❓ FAQ
 
-<details>
-<summary><b>Q1. Why do the three frameworks give slightly different numbers for the same algorithm?</b></summary>
-
-Several reasons combine: low-level operators (sparse convolution, padding, pooling) are not bit-identical across frameworks; floating-point accumulation order differs; default weight-initialization and BatchNorm semantics vary; and graph-mode auto-tuning makes different choices. We document these in detail in the accompanying paper. We use fixed environment and a strict consistency protocol to keep the differences as small as possible.
 
 </details>
 
