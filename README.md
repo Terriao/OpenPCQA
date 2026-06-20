@@ -657,35 +657,35 @@ We plan to grow OpenPCQA along several axes. Contributions are welcome on any of
 ## ❓ FAQ
 
 <details>
-<summary><b>Q2. Which framework should I use?</b></summary>
+<summary><b>Q1. Which framework should I use?</b></summary>
 
 If you have no constraints, start with **PyTorch** — it has the largest community and best ecosystem. Choose **MindSpore** if you need domestic-stack compliance in China, or **TensorFlow** if you plan to deploy via TF Serving / TFLite.
 
 </details>
 
 <details>
-<summary><b>Q3. Can I add my own algorithm?</b></summary>
+<summary><b>Q2. Can I add my own algorithm?</b></summary>
 
 Absolutely! Please open a Pull Request. See the [Contributing](#-contributing) section below.
 
 </details>
 
 <details>
-<summary><b>Q4. The datasets are too big — can I try on a small sample?</b></summary>
+<summary><b>Q3. The datasets are too big — can I try on a small sample?</b></summary>
 
 SJTU-PCQA is the smallest (420 distorted samples, ~3 GB after decompression). Start there.
 
 </details>
 
 <details>
-<summary><b>Q5. Do I need a GPU?</b></summary>
+<summary><b>Q4. Do I need a GPU?</b></summary>
 
 Training requires a GPU (we used Tesla T4). Inference on a single small point cloud can run on CPU but will be slow (minutes per sample).
 
 </details>
 
 <details>
-<summary><b>Q6. Are the pretrained weights included?</b></summary>
+<summary><b>Q5. Are the pretrained weights included?</b></summary>
 
 Yes. Each algorithm's subdirectory contains the pretrained weights that produced our reported numbers.
 
